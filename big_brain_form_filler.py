@@ -1,63 +1,92 @@
 import csv
-import pandas as pd #if 'unresolved import' message appears, go to cmd and type 'pip install pandas' to install
+import pandas as pd
 
+cupData = pd.read_csv("worldcupdata.csv", encoding="latin-1") #Loading the data from the CSV file
+teamDict = {} #Dictionary to store objects of type Team
+
+
+#Class to store each teams recent performance
+class Team:
+	def __init__(self, name, recentResults):
+		self.name = name
+		self.recentResults = recentResults
+
+	#Outcome of the match is added to the teams recent matches 
+	def updateRecentResults(self, outcome):
+		if len(self.recentResults) < 5:
+			self.recentResults.append(outcome)
+		else:
+			self.recentResults.pop(0) #If the team already played 5 matches then delete the recent from 5 matches ago and add the newest match to the array 
+			self.recentResults.append(outcome)
+
+	#Writes to the CSV file the new data that was calculated
+	def writeResultsToCSV(self, matchNum, home):
+		#If the team has not played 5 matches yet than their form is set to neutral
+		if len(self.recentResults) < 5:
+			if home == True:
+				cupData.at[matchNum, "Form of TeamA"] = "Neutral"
+			else:
+				cupData.at[matchNum, "Form of TeamB"] = "Neutral"
+		else:
+			Wins = self.recentResults.count("W")
+			if Wins >= 3: #If the team has played 5 matches and has 3 or more wins then form is set to good
+				if home == True:
+					cupData.at[matchNum, "Form of TeamA"] = "Good" 
+				else:
+					cupData.at[matchNum, "Form of TeamB"] = "Good"
+			elif Wins < 3:
+				if home == True:
+					cupData.at[matchNum, "Form of TeamA"] = "Bad"
+				else:
+					cupData.at[matchNum, "Form of TeamB"] = "Bad"
+
+
+#List of teams that have participated in the World Cup since 1930. NOTE: Some teams don't exist anymore.
 teams = ["Argentina", "Belgium", "Bolivia", "Brazil", "Chile", "France", "Mexico", "Paraguay", "Peru", "Romania", "United States", "Uruguay", "Yugoslavia", "Austria",
 "Czechoslovakia", "Egypt", "Germany", "Hungary", "Italy", "Netherlands", "Spain", "Sweden", "Switzerland", "Cuba", "Dutch East Indies", "Norway",
 "Poland", "England", "South Korea", "Scotland", "Turkey", "West Germany", "Northern Ireland", "Soviet Union", "Wales", "Bulgaria", "Colombia",
 "North Korea", "Portugal", "El Salvador", "Israel", "Morocco", "Australia", "East Germany", "Haiti", "Zaire", "Iran", "Tunisia", "Algeria", "Cameroon",
-"Honduras", "Kuwait", "New Zealand", "Canada", "Denmark", "Iraq", "Costa Rica", "Republic of Ireland", "United Arab Emirates", "Greece", "Nigeria",
-"Saudi Arabia", "Germany", "Russia", "Croatia", "Jamaica", "Japan", "South Africa", "FR Yugoslavia", "China PR", "Ecuador", "Senegal", "Slovenia",
-"Angola", "Ivory Coast", "Ghana", "Togo", "Trinidad and Tobago", "Ukraine", "Czech Republic", "Slovakia", "Serbia", "Bosnia and Herzegovina", "Iceland", "Panama"]
+"Honduras", "Kuwait", "New Zealand", "Canada", "Denmark", "Iraq", "Costa Rica", "Ireland", "United Arab Emirates", "Greece", "Nigeria",
+"Saudi Arabia", "Germany", "Russia", "Croatia", "Jamaica", "Japan", "South Africa", "Yugoslavia", "China", "Ecuador", "Senegal", "Slovenia",
+"Angola", "Cote d'Ivoire", "Ghana", "Togo", "Trinidad and Tobago", "Ukraine", "Czech Republic", "Slovakia", "Serbia", "Bosnia-Herzegovina", "Iceland", "Panama"]
 
-scoreA = int()
-scoreB = int()
 
-winrec = int(0) #number of 'wins' across the past 5 matches
+#An instance of the Team class is created for every new team so that thir recent results can be stored. 
+def updateResults(teamName, outcome, matchNum, home):
+	if teamName in teams:
+		teamDict[teamName] = Team(teamName, recentResults=[])
+		teamDict[teamName].updateRecentResults(outcome)
+		teams.remove(teamName)
+	else:
+		teamDict[teamName].updateRecentResults(outcome)
+	
+	teamDict[teamName].writeResultsToCSV(matchNum, home)
 
-table = pd.read_csv("worldcupdata.csv") 
+	print(teamDict[teamName].name, " ", teamDict[teamName].recentResults) #This line is not needed but it just proves that the program works
 
-for x in teams:
-    tempwin1 = 1 #these store the results of the previous 4 matches
-    tempwin2 = 0
-    tempwin3 = 1
-    tempwin4 = 0
-    currentwin = 0 #result of current match
-    
-    for row in table:
-        if(x == TeamA or x == TeamB):
-            #TODO: get and assign scores
-            #scoreA = table.loc[row, 'Full-time score TeamA']?
-            #scoreB = table.loc[row, 'Full-time score TeamB']?
-            if(x == TeamA):   
-                if (scoreA >= scoreB): #Full-time score TeamA >= Full-time score TeamB
-                    currentwin = 1
-                else:
-                    currentwin = 0
-                winrec = tempwin1 + tempwin2 + tempwin3 + tempwin4 + currentwin
+	return teamDict
 
-                if(winrec >= 4):
-                    table.loc[row, 'Form of TeamA'] = 'Good' 
-                elif(winrec <= 1):
-                    table.loc[row, 'Form of TeamA'] = 'Bad'
-                else:
-                    table.loc[row, 'Form of TeamA'] = 'Neutral'
-            else:               
-                 if (scoreB >= scoreA): #Full-time score TeamB >= Full-time score TeamA
-                    currentwin = 1
-                 else:
-                    currentwin = 0
-                 
-                    winrec = tempwin1 + tempwin2 + tempwin3 + tempwin4 + currentwin
 
-                 if(winrec >= 4):
-                     table.loc[row, 'Form of TeamB'] = 'Good' 
-                 elif(winrec <= 1):
-                     table.loc[row, 'Form of TeamB'] = 'Bad'
-                 else:
-                     table.loc[row, 'Form of TeamB'] = 'Neutral'
+#Gets the results of each match and stores the outcome for each team. W = WIN, L = LOSS, D = DRAW
+def getTeamResults():
+	matchNum = 0 #Keeps track of the match number so that the appropriate row gets updated in the csv file
+	home = True #Boolean value to store if the team was the home or away team
 
-            tempwin1 = tempwin2 #updates most recent matches
-            tempwin2 = tempwin3
-            tempwin3 = tempwin4
-            tempwin4 = currentwin
-           
+	#For loop to go through all the teams
+	for teamA in cupData["TeamA"]:
+
+		if cupData["Full-time score TeamA"].values[matchNum] > cupData["Full-time score TeamB"].values[matchNum]: #Gets result of the match
+			updateResults(teamA, "W", matchNum, home)
+			updateResults(cupData["TeamB"].values[matchNum], "L", matchNum, home=False)
+		elif cupData["Full-time score TeamA"].values[matchNum] < cupData["Full-time score TeamB"].values[matchNum]:
+			updateResults(teamA, "L", matchNum, home)
+			updateResults(cupData["TeamB"].values[matchNum], "W", matchNum, home=False)
+		else:
+			updateResults(teamA, "D", matchNum, home)
+			updateResults(cupData["TeamB"].values[matchNum], "D", matchNum, home=False)
+
+		matchNum = matchNum + 1
+
+
+getTeamResults() #Starting point for the program
+cupData.to_csv("worldcupdata.csv") #Updates the CSV file

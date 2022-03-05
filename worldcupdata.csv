@@ -1,900 +1,900 @@
-Year,Location,Average Yearly Temperature (Celsius),TeamA,TeamB,Round,Full-time score TeamA,Ful-time score TeamB,TeamA Elo Rating,TeamB Elo Rating,Form of TeamA,Form of TeamB
-1930,Uruguay,17.55,France,Mexico,1,4,1,1000,1000,Neutral,Neutral
-1930,Uruguay,17.55,Argentina ,France,1,1,0,,,,
-1930,Uruguay,17.55,Chile,Mexico,1,3,0,,,,
-1930,Uruguay,17.55,Chile,France,1,1,0,,,,
-1930,Uruguay,17.55,Argentina ,Mexico,1,6,3,,,,
-1930,Uruguay,17.55,Argentina ,Chile ,1,3,1,,,,
-1930,Uruguay,17.55,Yoguslavia,Brazil,1,2,1,,,,
-1930,Uruguay,17.55,Yoguslavia,Bolivia,1,4,0,,,,
-1930,Uruguay,17.55,Brazil,Bolovia,1,4,0,,,,
-1930,Uruguay,17.55,Romania,Peru,1,3,1,,,,
-1930,Uruguay,17.55,Uruguay,Peru,1,1,0,,,,
-1930,Uruguay,17.55,Uruguay,Romania,1,4,0,,,,
-1930,Uruguay,17.55,United States,Belgium,1,3,0,,,,
-1930,Uruguay,17.55,United States,Paraguay,1,3,0,,,,
-1930,Uruguay,17.55,Paraguaya,Belgium,1,1,0,,,,
-1930,Uruguay,17.55,Argentina ,United States,2,6,1,,,,
-1930,Uruguay,17.55,Uruguay,Yuguslavia,2,6,1,,,,
-1930,Uruguay,17.55,Uruguay,Argentina,3,4,2,,,,
-1934,Italy,13.35,Sweden,Argentina,1,3,2,,,,
-1934,Italy,13.35,Austria,France,1,3,2,,,,
-1934,Italy,13.35,Germany,Belgium,1,5,2,,,,
-1934,Italy,13.35,Spain,Brazil,1,3,1,,,,
-1934,Italy,13.35,Hungary,Egypt,1,4,2,,,,
-1934,Italy,13.35,Switzerland,Netherlands,1,3,2,,,,
-1934,Italy,13.35,Italy,United States,1,7,1,,,,
-1934,Italy,13.35,Czechoslovakia,Romania,1,2,1,,,,
-1934,Italy,13.35,Czechoslovakia,Switzerland,2,3,2,,,,
-1934,Italy,13.35,Germany,Sweden,2,2,1,,,,
-1934,Italy,13.35,Italy,Spain,2,1,1,,,,
-1934,Italy,13.35,Austria,Hungary,2,2,1,,,,
-1934,Italy,13.35,Italy,Spain,2,1,0,,,,
-1934,Italy,13.35,Italy,Austria,3,1,0,,,,
-1934,Italy,13.35,Czechoslovakia,Germany,3,3,1,,,,
-1934,Italy,13.35,Germany,Austria,3,3,2,,,,
-1934,Italy,13.35,Italy,Czechoslovakia,4,2,1,,,,
-1938,France,10.7,Switzerland,Germany,1,1,1,,,,
-1938,France,10.7,Hungary,Dutch East Indies,1,6,0,,,,
-1938,France,10.7,France,Belgium,1,3,1,,,,
-1938,France,10.7,Cuba,Romania,1,3,3,,,,
-1938,France,10.7,Italy,Norway,1,2,1,,,,
-1938,France,10.7,Brazil,Poland,1,6,5,,,,
-1938,France,10.7,Czechoslovakia,Netherlands,1,3,0,,,,
-1938,France,10.7,Cuba,Romania,1,2,1,,,,
-1938,France,10.7,Germany,Switzerland,1,2,4,,,,
-1938,France,10.7,Brazil,Czechoslovakia,2,1,1,,,,
-1938,France,10.7,Switzerland,Hungary,2,0,2,,,,
-1938,France,10.7,Sweden,Cuba,2,8,0,,,,
-1938,France,10.7,France,Italy,2,1,3,,,,
-1938,France,10.7,Brazil,Czechoslovakia,2,2,1,,,,
-1938,France,10.7,Hungary,Sweden,3,5,1,,,,
-1938,France,10.7,Italy,Brazil,3,2,1,,,,
-1938,France,10.7,Sweden,Brazil,4,2,4,,,,
-1938,France,10.7,Hungary,Italy,5,2,4,,,,
-1950,Brazil,24.95,Brazil,Mexico,1,4,0,,,,
-1950,Brazil,24.95,Yugoslavia,Switzerland,1,3,0,,,,
-1950,Brazil,24.95,Brazil,Switzerland,1,2,2,,,,
-1950,Brazil,24.95,Yugoslavia,Mexico,1,4,1,,,,
-1950,Brazil,24.95,Brazil,Yugoslavia,1,2,0,,,,
-1950,Brazil,24.95,Switzerland,Mexico,1,2,1,,,,
-1950,Brazil,24.95,England,Chile,1,2,0,,,,
-1950,Brazil,24.95,Spain,United States,1,3,1,,,,
-1950,Brazil,24.95,Spain,Chile,1,2,0,,,,
-1950,Brazil,24.95,United States,England,1,1,0,,,,
-1950,Brazil,24.95,Spain,England,1,1,0,,,,
-1950,Brazil,24.95,Chile,United States,1,5,2,,,,
-1950,Brazil,24.95,Sweden,Italy,1,3,2,,,,
-1950,Brazil,24.95,Sweden,Paraguay,1,2,2,,,,
-1950,Brazil,24.95,Italy,Paraguay,1,2,0,,,,
-1950,Brazil,24.95,Uruguay,Bolivia,1,8,0,,,,
-1950,Brazil,24.95,Uruguay,Spain,1,2,2,,,,
-1950,Brazil,24.95,Brazil,Sweden,1,7,1,,,,
-1950,Brazil,24.95,Brazil,Spain,1,6,1,,,,
-1950,Brazil,24.95,Uruguay,Sweden,1,3,2,,,,
-1950,Brazil,24.95,Sweden,Spain,1,3,1,,,,
-1950,Brazil,24.95,Uruguay,Brazil,1,2,1,,,,
-1954,Switzerland,5.5,Brazil ,Mexico,1,5,0,,,,
-1954,Switzerland,5.5,Yugoslavia,France,1,1,0,,,,
-1954,Switzerland,5.5,Brazil ,Yugoslavia,1,1,1,,,,
-1954,Switzerland,5.5,France,Mexico,1,3,2,,,,
-1954,Switzerland,5.5,West Germany,Turkey,1,4,1,,,,
-1954,Switzerland,5.5,Hungary,South Korea,1,9,0,,,,
-1954,Switzerland,5.5,Hungary,West Germany,1,8,3,,,,
-1954,Switzerland,5.5,Turkey,South Korea,1,7,0,,,,
-1954,Switzerland,5.5,West Germany,Turkey,1,7,2,,,,
-1954,Switzerland,5.5,Uruguay,Czechoslovakia,1,2,0,,,,
-1954,Switzerland,5.5,Austria,Scotland,1,1,0,,,,
-1954,Switzerland,5.5,Austria,Czechoslovakia,1,5,0,,,,
-1954,Switzerland,5.5,Uruguay,Scotland,1,7,0,,,,
-1954,Switzerland,5.5,England,Belgium,1,4,4,,,,
-1954,Switzerland,5.5,Switzerland,Italy,1,2,1,,,,
-1954,Switzerland,5.5,England,Switzerland,1,2,0,,,,
-1954,Switzerland,5.5,Italy,Belgium,1,4,1,,,,
-1954,Switzerland,5.5,Switzerland,Italy,1,4,1,,,,
-1954,Switzerland,5.5,Austria,Switzerland,2,7,5,,,,
-1954,Switzerland,5.5,Uruguay,England,2,4,2,,,,
-1954,Switzerland,5.5,Yugoslavia,West Germany,2,0,2,,,,
-1954,Switzerland,5.5,Brazil,Hungary,2,2,4,,,,
-1954,Switzerland,5.5,West Germany,Austria,3,6,1,,,,
-1954,Switzerland,5.5,Hungary,Uruguay,3,4,2,,,,
-1954,Switzerland,5.5,Uruguay,Austria,4,1,3,,,,
-1954,Switzerland,5.5,Hungary,West Germany,5,2,3,,,,
-1958,Sweden,2.1,West Germany,Argentina,1,3,1,,,,
-1958,Sweden,2.1,Northern Ireland,Czechoslovakia,1,1,0,,,,
-1958,Sweden,2.1,Argentina,Northern Ireland,1,3,1,,,,
-1958,Sweden,2.1,West Germany,Czechoslovakia,1,2,2,,,,
-1958,Sweden,2.1,West Germany,Northern Ireland,1,2,2,,,,
-1958,Sweden,2.1,Czechoslovakia,Argentina,1,6,1,,,,
-1958,Sweden,2.1,Northern Ireland,Czechoslovakia,1,2,1,,,,
-1958,Sweden,2.1,France,Paraguay,1,7,3,,,,
-1958,Sweden,2.1,Yugoslavia,Scotland,1,1,1,,,,
-1958,Sweden,2.1,Yugoslavia,France,1,3,2,,,,
-1958,Sweden,2.1,Paraguay,Scotland,1,3,2,,,,
-1958,Sweden,2.1,France,Scotland,1,2,1,,,,
-1958,Sweden,2.1,Paraguay,Yugoslavia,1,3,3,,,,
-1958,Sweden,2.1,Sweden,Mexico,1,3,0,,,,
-1958,Sweden,2.1,Hungary,Wales,1,1,1,,,,
-1958,Sweden,2.1,Mexico,Wales,1,1,1,,,,
-1958,Sweden,2.1,Sweden,Hungary,1,2,1,,,,
-1958,Sweden,2.1,Sweden,Wales,1,0,0,,,,
-1958,Sweden,2.1,Hungary,Mexico,1,4,0,,,,
-1958,Sweden,2.1,Wales,Hungary,1,2,1,,,,
-1958,Sweden,2.1,Brazil,Austria,1,3,0,,,,
-1958,Sweden,2.1,Soviet Union,England,1,2,2,,,,
-1958,Sweden,2.1,Brazil,England,1,0,0,,,,
-1958,Sweden,2.1,Soviet Union,Austria,1,2,0,,,,
-1958,Sweden,2.1,England,Austria,1,2,2,,,,
-1958,Sweden,2.1,Brazil,Soviet Union,1,2,0,,,,
-1958,Sweden,2.1,Soviet Union,England,1,1,0,,,,
-1958,Sweden,2.1,France,Northern Ireland,2,4,0,,,,
-1958,Sweden,2.1,Sweden,Soviet Union,2,2,0,,,,
-1958,Sweden,2.1,Brazil,Wales,2,1,0,,,,
-1958,Sweden,2.1,West Germany,Yugoslavia,2,1,0,,,,
-1958,Sweden,2.1,France,Brazil,3,2,5,,,,
-1958,Sweden,2.1,West Germany,Sweden,3,1,3,,,,
-1958,Sweden,2.1,West Germany,France,4,3,6,,,,
-1958,Sweden,2.1,Sweden,Brazil,5,2,5,,,,
-1962,Chile,8.45,Uruguay,Colombia,1,2,1,,,,
-1962,Chile,8.45,Soviet Union,Yugoslavia,1,2,0,,,,
-1962,Chile,8.45,Yugoslavia,Uruguay,1,3,1,,,,
-1962,Chile,8.45,Soviet Union,Colombia,1,4,4,,,,
-1962,Chile,8.45,Soviet Union,Uruguay,1,2,1,,,,
-1962,Chile,8.45,Yugoslavia,Colombia,1,5,0,,,,
-1962,Chile,8.45,Chile,Switzerland,1,3,1,,,,
-1962,Chile,8.45,West Germany,Italy,1,0,0,,,,
-1962,Chile,8.45,Chile,Italy,1,2,0,,,,
-1962,Chile,8.45,West Germany,Switzerland,1,2,1,,,,
-1962,Chile,8.45,West Germany,Chile,1,2,0,,,,
-1962,Chile,8.45,Italy,Switzerland,1,3,0,,,,
-1962,Chile,8.45,Brazil,Mexico,1,2,0,,,,
-1962,Chile,8.45,Czechoslovakia,Spain,1,1,0,,,,
-1962,Chile,8.45,Brazil,Czechoslovakia,1,0,0,,,,
-1962,Chile,8.45,Spain,Mexico,1,1,0,,,,
-1962,Chile,8.45,Brazil,Spain,1,2,1,,,,
-1962,Chile,8.45,Mexico,Czechoslovakia,1,3,1,,,,
-1962,Chile,8.45,Argentina,Bulgaria,1,1,0,,,,
-1962,Chile,8.45,Hungary,England,1,2,1,,,,
-1962,Chile,8.45,England,Argentina,1,3,1,,,,
-1962,Chile,8.45,Hungary,Bulgaria,1,6,1,,,,
-1962,Chile,8.45,Hungary,Argentina,1,0,0,,,,
-1962,Chile,8.45,England,Bulgaria,1,0,0,,,,
-1962,Chile,8.45,Chile,Soviet Union,2,2,1,,,,
-1962,Chile,8.45,Yugoslavia,West germany,2,1,0,,,,
-1962,Chile,8.45,Brazil,England,2,3,1,,,,
-1962,Chile,8.45,Czechoslovakia,Hungary,2,1,0,,,,
-1962,Chile,8.45,Brazil,Chile,3,4,2,,,,
-1962,Chile,8.45,Czechoslovakia,Yugoslavia,3,3,1,,,,
-1962,Chile,8.45,Chile,Yugoslavia,4,1,0,,,,
-1962,Chile,8.45,Brazil ,Czechoslovakia,5,3,1,,,,
-1966,England,8.45,England,Uruguay,1,0,0,,,,
-1966,England,8.45,France,Mexico,1,1,1,,,,
-1966,England,8.45,Uruguay,France,1,2,1,,,,
-1966,England,8.45,England,Mexico,1,2,0,,,,
-1966,England,8.45,Mexico,Uruguay,1,0,0,,,,
-1966,England,8.45,England,France,1,2,0,,,,
-1966,England,8.45,West Germany,Switzerland,1,5,0,,,,
-1966,England,8.45,Argentina,Spain,1,2,1,,,,
-1966,England,8.45,Spain,Switzerland,1,2,1,,,,
-1966,England,8.45,Argentina,West germany,1,0,0,,,,
-1966,England,8.45,Argentina,Switzerland,1,2,0,,,,
-1966,England,8.45,West Germany,Spain,1,2,1,,,,
-1966,England,8.45,Brazil ,Bulgaria,1,2,0,,,,
-1966,England,8.45,Portugal,Hungary,1,3,1,,,,
-1966,England,8.45,Hungary,Brazil,1,3,1,,,,
-1966,England,8.45,Portugal,Bulgaria,1,3,0,,,,
-1966,England,8.45,Portugal,Brazil,1,3,1,,,,
-1966,England,8.45,Hungary,Bulgaria,1,3,1,,,,
-1966,England,8.45,Soviet Union,North Korea,1,3,0,,,,
-1966,England,8.45,Italy,Chile,1,2,0,,,,
-1966,England,8.45,Chile,North Korea,1,1,1,,,,
-1966,England,8.45,Soviet Union,Italy,1,1,0,,,,
-1966,England,8.45,North Korea,Italy,1,1,0,,,,
-1966,England,8.45,Soviet Union,Chile,1,2,1,,,,
-1966,England,8.45,England,Argentina,2,1,0,,,,
-1966,England,8.45,West Germany,Uruguay,2,4,0,,,,
-1966,England,8.45,Soviet Union,Hungary,2,2,1,,,,
-1966,England,8.45,Portugal,North Korea,2,5,3,,,,
-1966,England,8.45,West Germany,Soviet Union,3,2,1,,,,
-1966,England,8.45,England,Portugal,3,2,1,,,,
-1966,England,8.45,Portugal,Soviet Union,4,2,1,,,,
-1966,England,8.45,England,West germany,5,4,2,,,,
-1970,Mexico,21,Mexico,Soviet Union,1,0,0,,,,
-1970,Mexico,21,Belgium,El Salvador,1,3,0,,,,
-1970,Mexico,21,Soviet Union,Belgium,1,4,1,,,,
-1970,Mexico,21,Mexico,El Salvador,1,4,0,,,,
-1970,Mexico,21,Soviet Union,El Salvador,1,2,0,,,,
-1970,Mexico,21,Mexico,Belgium,1,1,0,,,,
-1970,Mexico,21,Uruguay,Israel,1,2,0,,,,
-1970,Mexico,21,Italy,Sweden,1,1,0,,,,
-1970,Mexico,21,Uruguay,Italy,1,0,0,,,,
-1970,Mexico,21,Sweden,Israel,1,1,1,,,,
-1970,Mexico,21,Uruguay,Sweden,1,0,1,,,,
-1970,Mexico,21,Israel,Italy,1,0,0,,,,
-1970,Mexico,21,Romania,England,1,0,1,,,,
-1970,Mexico,21,Czechoslovakia,Brazil,1,1,4,,,,
-1970,Mexico,21,Romania,Czechoslovakia,1,2,1,,,,
-1970,Mexico,21,England,Brazil,1,0,1,,,,
-1970,Mexico,21,Romania,Brazil,1,2,3,,,,
-1970,Mexico,21,England,Czechoslovakia,1,1,0,,,,
-1970,Mexico,21,Peru,Bulgaria,1,3,2,,,,
-1970,Mexico,21,Morocco,West germany,1,1,2,,,,
-1970,Mexico,21,Peru,Morocco,1,3,0,,,,
-1970,Mexico,21,Bulgaria,West germany,1,2,5,,,,
-1970,Mexico,21,Peru,West germany,1,1,3,,,,
-1970,Mexico,21,Bulgaria,Morocco,1,1,1,,,,
-1970,Mexico,21,Soviet Union,Uruguay,2,0,1,,,,
-1970,Mexico,21,Italy,Mexico,2,4,1,,,,
-1970,Mexico,21,Brazil,Peru,2,4,2,,,,
-1970,Mexico,21,West Germany,England,2,3,2,,,,
-1970,Mexico,21,Uruguay,Brazil,3,1,3,,,,
-1970,Mexico,21,Italy,West germany,3,4,3,,,,
-1970,Mexico,21,Uruguay,West germany,4,0,1,,,,
-1970,Mexico,21,Brazil,Italy,5,4,1,,,,
-1974,West Germany,8.5,West Germany,Chile,1,1,0,,,,
-1974,West Germany,8.5,East Germany,Australia,1,2,0,,,,
-1974,West Germany,8.5,Chile,East Germany,1,1,1,,,,
-1974,West Germany,8.5,Australia,West germany,1,0,3,,,,
-1974,West Germany,8.5,Australia,Chile,1,0,0,,,,
-1974,West Germany,8.5,East Germany,West germany,1,1,0,,,,
-1974,West Germany,8.5,Brazil ,Yugoslavia,1,0,0,,,,
-1974,West Germany,8.5,Zaire,Scotland,1,0,2,,,,
-1974,West Germany,8.5,Yugoslavia,Zaire,1,9,0,,,,
-1974,West Germany,8.5,Scotland,Brazil,1,0,0,,,,
-1974,West Germany,8.5,Scotland,Yugoslavia,1,1,1,,,,
-1974,West Germany,8.5,Zaire,Brazil,1,0,3,,,,
-1974,West Germany,8.5,Uruguay,Netherlands,1,0,2,,,,
-1974,West Germany,8.5,Sweden,Bulgaria,1,0,0,,,,
-1974,West Germany,8.5,Netherlands,Sweden,1,0,0,,,,
-1974,West Germany,8.5,Uruguay,Bulgaria,1,1,1,,,,
-1974,West Germany,8.5,Netherlands,Bulgaria,1,4,1,,,,
-1974,West Germany,8.5,Sweden,Uruguay,1,3,0,,,,
-1974,West Germany,8.5,Italy,Haiti,1,3,1,,,,
-1974,West Germany,8.5,Poland,Argentina,1,3,2,,,,
-1974,West Germany,8.5,Haiti,Poland,1,0,7,,,,
-1974,West Germany,8.5,Argentina,Italy,1,1,1,,,,
-1974,West Germany,8.5,Argentina,Haiti,1,4,1,,,,
-1974,West Germany,8.5,Poland,Italy,1,2,1,,,,
-1974,West Germany,8.5,Brazil ,East Germany,2,1,0,,,,
-1974,West Germany,8.5,Netherlands,Argentina,2,4,0,,,,
-1974,West Germany,8.5,East Germany,Netherlands,2,0,2,,,,
-1974,West Germany,8.5,Argentina,Brazil,2,1,2,,,,
-1974,West Germany,8.5,Argentina,East Germany,2,1,1,,,,
-1974,West Germany,8.5,Netherlands,Brazil,2,2,0,,,,
-1974,West Germany,8.5,Yugoslavia,West germany,2,0,2,,,,
-1974,West Germany,8.5,Sweden,Poland,2,0,1,,,,
-1974,West Germany,8.5,West Germany,Sweden,2,4,2,,,,
-1974,West Germany,8.5,Poland,Yugoslavia,2,2,1,,,,
-1974,West Germany,8.5,Poland,West germany,2,0,1,,,,
-1974,West Germany,8.5,Sweden,Yugoslavia,2,2,1,,,,
-1974,West Germany,8.5,Brazil,Poland,3,0,1,,,,
-1974,West Germany,8.5,Netherlands,West germany,4,1,2,,,,
-1978,Argentina,14.8,Argentina,Hungary,1,2,1,,,,
-1978,Argentina,14.8,Italy,France,1,2,1,,,,
-1978,Argentina,14.8,Argentina,France,1,2,1,,,,
-1978,Argentina,14.8,Italy,Hungary,1,3,1,,,,
-1978,Argentina,14.8,Argentina,Italy,1,0,1,,,,
-1978,Argentina,14.8,France,Hungary,1,3,1,,,,
-1978,Argentina,14.8,West Germany,Poland,1,0,0,,,,
-1978,Argentina,14.8,Tunisia,Mexico,1,3,1,,,,
-1978,Argentina,14.8,Poland,Tunisia,1,1,0,,,,
-1978,Argentina,14.8,West Germany,Mexico,1,6,0,,,,
-1978,Argentina,14.8,Poland,Tunisia,1,3,1,,,,
-1978,Argentina,14.8,West Germany,Mexico,1,0,0,,,,
-1978,Argentina,14.8,Austria,Spain,1,2,1,,,,
-1978,Argentina,14.8,Brazil ,Sweden,1,1,1,,,,
-1978,Argentina,14.8,Austria,Sweden,1,1,0,,,,
-1978,Argentina,14.8,Brazil,Spain,1,0,0,,,,
-1978,Argentina,14.8,Spain,Sweden,1,1,0,,,,
-1978,Argentina,14.8,Brazil,Austria,1,1,0,,,,
-1978,Argentina,14.8,Peru,Scotland,1,3,1,,,,
-1978,Argentina,14.8,Netherlands,Iran,1,3,0,,,,
-1978,Argentina,14.8,Scotland,Iran,1,1,1,,,,
-1978,Argentina,14.8,Netherlands,Peru,1,0,0,,,,
-1978,Argentina,14.8,Peru,Iran,1,4,1,,,,
-1978,Argentina,14.8,Scotland,Netherlands,1,3,2,,,,
-1978,Argentina,14.8,Italy,West germany,2,0,0,,,,
-1978,Argentina,14.8,Austria,Netherlands,2,1,5,,,,
-1978,Argentina,14.8,Italy,Austria,2,1,0,,,,
-1978,Argentina,14.8,Netherlands,West germany,2,2,2,,,,
-1978,Argentina,14.8,Italy,Netherlands,2,1,2,,,,
-1978,Argentina,14.8,Austria,West germany,2,3,2,,,,
-1978,Argentina,14.8,Argentina,Poland,2,2,0,,,,
-1978,Argentina,14.8,Peru,Brazil,2,0,3,,,,
-1978,Argentina,14.8,Argentina,Brazil,2,0,0,,,,
-1978,Argentina,14.8,Peru,Poland,2,0,1,,,,
-1978,Argentina,14.8,Argentina,Peru,2,6,0,,,,
-1978,Argentina,14.8,Poland,Brazil,2,1,3,,,,
-1978,Argentina,14.8,Brazil ,Italy,3,2,1,,,,
-1978,Argentina,14.8,Netherlands,Argentina,4,1,3,,,,
-1982,Spain,13.3,Italy,Poland,1,0,0,,,,
-1982,Spain,13.3,Peru,Cameroon,1,0,0,,,,
-1982,Spain,13.3,Italy,Peru,1,1,1,,,,
-1982,Spain,13.3,Poland,Cameroon,1,0,0,,,,
-1982,Spain,13.3,Poland,Peru,1,5,1,,,,
-1982,Spain,13.3,Italy,Cameroon,1,1,1,,,,
-1982,Spain,13.3,West Germany,Algeria,1,1,2,,,,
-1982,Spain,13.3,Chile,Austria,1,0,1,,,,
-1982,Spain,13.3,West Germany,Chile,1,4,1,,,,
-1982,Spain,13.3,Algeria,Chile,1,3,2,,,,
-1982,Spain,13.3,West Germany,Austria,1,1,0,,,,
-1982,Spain,13.3,Argentina,Belgium,1,0,1,,,,
-1982,Spain,13.3,Hungary,El Salvador,1,10,1,,,,
-1982,Spain,13.3,Argentina,Hungary,1,4,1,,,,
-1982,Spain,13.3,Belgium,El Salvador,1,1,0,,,,
-1982,Spain,13.3,Belgium,Hungary,1,1,1,,,,
-1982,Spain,13.3,Argentina,El Salvador,1,2,0,,,,
-1982,Spain,13.3,England,France,1,3,1,,,,
-1982,Spain,13.3,Czechoslovakia,Kuwait,1,1,1,,,,
-1982,Spain,13.3,England,Czechoslovakia,1,2,0,,,,
-1982,Spain,13.3,France,Kuwait,1,4,1,,,,
-1982,Spain,13.3,France,Czechoslovakia,1,1,1,,,,
-1982,Spain,13.3,England,Kuwait,1,1,0,,,,
-1982,Spain,13.3,Spain,Honduras,1,1,1,,,,
-1982,Spain,13.3,Yugoslavia,Northern Ireland,1,0,0,,,,
-1982,Spain,13.3,Spain,Yugoslavia,1,2,1,,,,
-1982,Spain,13.3,Honduras,Northern Ireland,1,1,1,,,,
-1982,Spain,13.3,Honduras,Yugoslavia,1,0,1,,,,
-1982,Spain,13.3,Spain,Northern Ireland,1,0,1,,,,
-1982,Spain,13.3,Brazil,Soviet Union,1,2,1,,,,
-1982,Spain,13.3,Scotland,New Zealand,1,5,2,,,,
-1982,Spain,13.3,Brazil,Scotland,1,4,1,,,,
-1982,Spain,13.3,Soviet Union,New Zealand,1,3,0,,,,
-1982,Spain,13.3,Soviet Union,Scotland,1,2,2,,,,
-1982,Spain,13.3,Brazil,New Zealand,1,4,0,,,,
-1982,Spain,13.3,Poland,Belgium,2,3,0,,,,
-1982,Spain,13.3,Belgium,Soviet Union,2,0,1,,,,
-1982,Spain,13.3,Soviet Union,Poland,2,0,0,,,,
-1982,Spain,13.3,West Germany,England,2,0,0,,,,
-1982,Spain,13.3,West Germany,Spain,2,2,1,,,,
-1982,Spain,13.3,Spain,England,2,0,0,,,,
-1982,Spain,13.3,Italy,Argentina,2,2,1,,,,
-1982,Spain,13.3,Argentina,Brazil,2,1,3,,,,
-1982,Spain,13.3,Italy,Brazil,2,3,2,,,,
-1982,Spain,13.3,Austria,France,2,0,1,,,,
-1982,Spain,13.3,Austria,Northern Ireland,2,2,2,,,,
-1982,Spain,13.3,Northern Ireland,France,2,1,4,,,,
-1982,Spain,13.3,Poland,Italy,3,0,2,,,,
-1982,Spain,13.3,West Germany,France,3,1,1,,,,
-1982,Spain,13.3,Poland,France,4,3,2,,,,
-1982,Spain,13.3,Italy,West Germany,5,3,1,,,,
-1986,Mexico,21,Bulgaria,Italy,1,1,1,,,,
-1986,Mexico,21,Argentina,South Korea,1,3,1,,,,
-1986,Mexico,21,Italy,Argentina,1,1,1,,,,
-1986,Mexico,21,South Korea,Bulgaria,1,1,1,,,,
-1986,Mexico,21,South Korea,Italy,1,2,3,,,,
-1986,Mexico,21,Argentina,Bulgaria,1,2,0,,,,
-1986,Mexico,21,Belgium,Mexico,1,1,2,,,,
-1986,Mexico,21,Paraguay,Iraq,1,1,0,,,,
-1986,Mexico,21,Mexico,Paraguay,1,1,1,,,,
-1986,Mexico,21,Iraq,Belgium,1,1,2,,,,
-1986,Mexico,21,Iraq,Mexico,1,0,1,,,,
-1986,Mexico,21,Paraguay,Belgium,1,2,2,,,,
-1986,Mexico,21,Canada,France,1,0,1,,,,
-1986,Mexico,21,Soviet Union,Hungary,1,6,0,,,,
-1986,Mexico,21,France,Soviet Union,1,1,1,,,,
-1986,Mexico,21,Hungary,Canada,1,2,0,,,,
-1986,Mexico,21,Hungary,France,1,0,3,,,,
-1986,Mexico,21,Soviet Union,Canada,1,2,0,,,,
-1986,Mexico,21,Spain,Brazil,1,0,1,,,,
-1986,Mexico,21,Algeria,Northern Ireland,1,1,1,,,,
-1986,Mexico,21,Brazil,Algeria,1,1,0,,,,
-1986,Mexico,21,Northern Ireland,Spain,1,1,2,,,,
-1986,Mexico,21,Northern Ireland,Brazil,1,0,3,,,,
-1986,Mexico,21,Algeria,Spain,1,0,3,,,,
-1986,Mexico,21,Uruguay,West Germany,1,1,1,,,,
-1986,Mexico,21,Scotland,Denmark,1,0,1,,,,
-1986,Mexico,21,West Germany,Scotland,1,2,1,,,,
-1986,Mexico,21,Denmark,Uruguay,1,6,1,,,,
-1986,Mexico,21,Denmark,West Germany,1,2,0,,,,
-1986,Mexico,21,Scotland,Uruguay,1,0,0,,,,
-1986,Mexico,21,Morocco,Poland,1,0,0,,,,
-1986,Mexico,21,Portugal,England,1,1,0,,,,
-1986,Mexico,21,England,Morocco,1,0,0,,,,
-1986,Mexico,21,Poland,Portugal,1,1,0,,,,
-1986,Mexico,21,Portugal,Morocco,1,1,3,,,,
-1986,Mexico,21,England,Poland,1,3,0,,,,
-1986,Mexico,21,Mexico,Bulgaria,2,2,0,,,,
-1986,Mexico,21,Soviet Union,Belgium,2,2,2,,,,
-1986,Mexico,21,Argentina,Uruguay,2,1,0,,,,
-1986,Mexico,21,Brazil ,Poland,2,4,0,,,,
-1986,Mexico,21,Italy,France,2,0,2,,,,
-1986,Mexico,21,Morocco,West germany,2,0,1,,,,
-1986,Mexico,21,England,Paraguay,2,3,0,,,,
-1986,Mexico,21,Denmark,Spain,2,1,5,,,,
-1986,Mexico,21,Brazil,France,3,1,1,,,,
-1986,Mexico,21,West Germany,Mexico,3,0,0,,,,
-1986,Mexico,21,Spain,Belgium,3,1,1,,,,
-1986,Mexico,21,Argentina,England,3,2,1,,,,
-1986,Mexico,21,Argentina,Belgium,4,2,0,,,,
-1986,Mexico,21,France,West Germany,4,0,2,,,,
-1986,Mexico,21,France,Belgium,5,2,2,,,,
-1986,Mexico,21,Argentina,West Germany,6,3,2,,,,
-1990,Italy,13.35,Italy      ,Austria   ,1,1,0,,,,
-1990,Italy,13.35,United States,Czechoslovakia  ,1,1,5,,,,
-1990,Italy,13.35,Italy      ,United States,1,1,0,,,,
-1990,Italy,13.35,Austria    ,Czechoslovakia  ,1,0,1,,,,
-1990,Italy,13.35,Italy      ,Czechoslovakia    ,1,2,0,,,,
-1990,Italy,13.35,Austria    ,United States,1,2,1,,,,
-1990,Italy,13.35,Argentina       ,Cameroon   ,1,0,1,,,,
-1990,Italy,13.35,Soviet Union,Romania  ,1,0,2,,,,
-1990,Italy,13.35,Argentina       ,Soviet Union ,1,2,0,,,,
-1990,Italy,13.35,Cameroon        ,Romania   ,1,2,1,,,,
-1990,Italy,13.35,Argentina       ,Romania  ,1,1,1,,,,
-1990,Italy,13.35,Cameroon        ,Soviet Union,1,0,4,,,,
-1990,Italy,13.35,Brazil ,Sweden,1,2,1,,,,
-1990,Italy,13.35,Costa Rica,Scotland,1,1,0,,,,
-1990,Italy,13.35,Brazil ,Costa Rica,1,1,0,,,,
-1990,Italy,13.35,Sweden,Scotland,1,1,2,,,,
-1990,Italy,13.35,Brazil ,Scotland,1,1,0,,,,
-1990,Italy,13.35,Sweden,Costa Rica,1,1,2,,,,
-1990,Italy,13.35,United Arab Emirates,Colombia,1,0,2,,,,
-1990,Italy,13.35,West Germany,Yugoslavia,1,4,1,,,,
-1990,Italy,13.35,Yugoslavia,Colombia,1,1,0,,,,
-1990,Italy,13.35,West Germany,United Arab Emirates,1,5,1,,,,
-1990,Italy,13.35,West Germany,Colombia,1,1,1,,,,
-1990,Italy,13.35,Yugoslavia,United Arab Emirates,1,4,1,,,,
-1990,Italy,13.35,Belgium,South Korea,1,2,0,,,,
-1990,Italy,13.35,Uruguay,Spain,1,0,0,,,,
-1990,Italy,13.35,Belgium,Uruguay,1,3,1,,,,
-1990,Italy,13.35,South Korea,Spain,1,1,3,,,,
-1990,Italy,13.35,Belgium,Spain,1,1,2,,,,
-1990,Italy,13.35,South Korea,Uruguay,1,0,1,,,,
-1990,Italy,13.35,England,Ireland,1,1,1,,,,
-1990,Italy,13.35,Netherlands,Egypt,1,1,1,,,,
-1990,Italy,13.35,England,Netherlands,1,0,0,,,,
-1990,Italy,13.35,Ireland,Egypt,1,0,0,,,,
-1990,Italy,13.35,England,Egypt,1,1,0,,,,
-1990,Italy,13.35,Ireland,Netherlands,1,1,1,,,,
-1990,Italy,13.35,Cameroon        ,Colombia,2,0,0,,,,
-1990,Italy,13.35,Czechoslovakia,Costa Rica,2,4,1,,,,
-1990,Italy,13.35,Brazil ,Argentina,2,0,1,,,,
-1990,Italy,13.35,West Germany,Netherlands,2,2,1,,,,
-1990,Italy,13.35,Ireland,Romania  ,2,0,0,,,,
-1990,Italy,13.35,Italy      ,Uruguay,2,2,0,,,,
-1990,Italy,13.35,Spain,Yugoslavia,2,1,1,,,,
-1990,Italy,13.35,England,Cameroon   ,2,0,0,,,,
-1990,Italy,13.35,Yugoslavia,Argentina,3,0,0,,,,
-1990,Italy,13.35,Italy      ,Ireland,3,1,0,,,,
-1990,Italy,13.35,West Germany,Czechoslovakia  ,3,1,0,,,,
-1990,Italy,13.35,England,Cameroon   ,3,2,2,,,,
-1990,Italy,13.35,Italy      ,Argentina,4,1,1,,,,
-1990,Italy,13.35,West Germany,England,4,1,1,,,,
-1990,Italy,13.35,Italy      ,England,5,2,1,,,,
-1990,Italy,13.35,West Germany,Argentina,6,1,0,,,,
-1994,United States,8.55,United States,Switzerland,1,1,1,,,,
-1994,United States,8.55,Colombia,Romania  ,1,1,3,,,,
-1994,United States,8.55,Romania,Switzerland,1,1,4,,,,
-1994,United States,8.55,United States,Colombia,1,2,1,,,,
-1994,United States,8.55,United States,Colombia,1,0,1,,,,
-1994,United States,8.55,Switzerland,Colombia,1,0,2,,,,
-1994,United States,8.55,Cameroon        ,Sweden,1,2,2,,,,
-1994,United States,8.55,Brazil,Russia,1,2,0,,,,
-1994,United States,8.55,Brazil,Cameroon   ,1,3,0,,,,
-1994,United States,8.55,Sweden,Russia,1,3,1,,,,
-1994,United States,8.55,Russia,Cameroon   ,1,6,1,,,,
-1994,United States,8.55,Brazil ,Sweden,1,1,1,,,,
-1994,United States,8.55,Germany,Bolivia,1,1,0,,,,
-1994,United States,8.55,Spain,South Korea,1,2,2,,,,
-1994,United States,8.55,Germany,Spain,1,1,1,,,,
-1994,United States,8.55,South Korea,Bolivia,1,0,0,,,,
-1994,United States,8.55,Bolivia,Spain,1,1,3,,,,
-1994,United States,8.55,Germany,South Korea,1,3,2,,,,
-1994,United States,8.55,Argentina       ,Greece,1,4,0,,,,
-1994,United States,8.55,Nigeria,Bulgaria,1,3,0,,,,
-1994,United States,8.55,Argentina       ,Nigeria,1,2,1,,,,
-1994,United States,8.55,Greece,Bulgaria,1,0,4,,,,
-1994,United States,8.55,Greece,Nigeria,1,0,2,,,,
-1994,United States,8.55,Argentina       ,Bulgaria,1,0,2,,,,
-1994,United States,8.55,Italy      ,Ireland,1,0,1,,,,
-1994,United States,8.55,Norway,Mexico,1,1,0,,,,
-1994,United States,8.55,Italy      ,Norway,1,1,0,,,,
-1994,United States,8.55,Mexico,Ireland,1,3,2,,,,
-1994,United States,8.55,Ireland,Norway,1,0,0,,,,
-1994,United States,8.55,Italy      ,Mexico,1,1,1,,,,
-1994,United States,8.55,Belgium,Morocco,1,1,0,,,,
-1994,United States,8.55,Netherlands,Saudi Arabia,1,2,1,,,,
-1994,United States,8.55,Belgium,Netherlands,1,1,0,,,,
-1994,United States,8.55,Saudi Arabia,Morocco,1,2,1,,,,
-1994,United States,8.55,Morocco,Netherlands,1,1,2,,,,
-1994,United States,8.55,Belgium,Saudi Arabia,1,0,1,,,,
-1994,United States,8.55,Germany,Belgium,2,3,2,,,,
-1994,United States,8.55,Spain,Switzerland,2,3,0,,,,
-1994,United States,8.55,Saudi Arabia,Sweden,2,1,3,,,,
-1994,United States,8.55,Romania,Argentina,2,3,2,,,,
-1994,United States,8.55,Netherlands,Ireland,2,2,0,,,,
-1994,United States,8.55,Brazil ,United States,2,1,0,,,,
-1994,United States,8.55,Nigeria,Italy,2,1,1,,,,
-1994,United States,8.55,Mexico,Bulgaria,2,1,1,,,,
-1994,United States,8.55,Italy      ,Spain,3,2,1,,,,
-1994,United States,8.55,Netherlands,Brazil,3,2,3,,,,
-1994,United States,8.55,Bulgaria,Germany,3,2,1,,,,
-1994,United States,8.55,Romania,Sweden,3,1,1,,,,
-1994,United States,8.55,Bulgaria,Italy,4,1,2,,,,
-1994,United States,8.55,Sweden,Brazil,4,0,1,,,,
-1994,United States,8.55,Sweden,Bulgaria,5,4,0,,,,
-1994,United States,8.55,Brazil,italy,6,0,0,,,,
-1998,France,10.7,Brazil ,Scotland,1,2,1,,,,
-1998,France,10.7,Morocco,Norway,1,2,2,,,,
-1998,France,10.7,Scotland,Norway,1,1,1,,,,
-1998,France,10.7,Brazil ,Morocco,1,3,0,,,,
-1998,France,10.7,Scotland,Morocco,1,0,3,,,,
-1998,France,10.7,Brazil ,Norway,1,1,2,,,,
-1998,France,10.7,Cameroon        ,Austria,1,1,1,,,,
-1998,France,10.7,Italy      ,Chile,1,2,2,,,,
-1998,France,10.7,Chile,Austria,1,1,1,,,,
-1998,France,10.7,Italy      ,Cameroon   ,1,3,0,,,,
-1998,France,10.7,Italy      ,Austria,1,2,1,,,,
-1998,France,10.7,Chile,Cameroon   ,1,1,1,,,,
-1998,France,10.7,Saudi Arabia,Denmark,1,0,1,,,,
-1998,France,10.7,France,South Africa,1,3,0,,,,
-1998,France,10.7,France,Saudi Arabia,1,4,0,,,,
-1998,France,10.7,South Africa,Denmark,1,1,1,,,,
-1998,France,10.7,France,Denmark,1,2,1,,,,
-1998,France,10.7,South Africa,Saudi Arabia,1,2,2,,,,
-1998,France,10.7,Paraguay,Bulgaria,1,0,0,,,,
-1998,France,10.7,Spain,Nigeria,1,2,3,,,,
-1998,France,10.7,Nigeria,Bulgaria,1,1,0,,,,
-1998,France,10.7,Spain,Paraguay,1,0,0,,,,
-1998,France,10.7,Spain,Bulgaria,1,6,1,,,,
-1998,France,10.7,Nigeria,Paraguay,1,1,3,,,,
-1998,France,10.7,Netherlands,Belgium,1,0,0,,,,
-1998,France,10.7,South Korea,Mexico,1,1,3,,,,
-1998,France,10.7,Netherlands,South Korea,1,5,0,,,,
-1998,France,10.7,Belgium,Mexico,1,2,2,,,,
-1998,France,10.7,Belgium,South Korea,1,1,1,,,,
-1998,France,10.7,Netherlands,Mexico,1,2,2,,,,
-1998,France,10.7,Yugoslavia,Iran,1,1,0,,,,
-1998,France,10.7,Germany,United States,1,2,0,,,,
-1998,France,10.7,Germany,Yugolavia,1,2,2,,,,
-1998,France,10.7,United States,Iran,1,1,2,,,,
-1998,France,10.7,Germany,Iran,1,2,0,,,,
-1998,France,10.7,United States,Yugolavia,1,0,1,,,,
-1998,France,10.7,Romania,Colombia,1,1,0,,,,
-1998,France,10.7,England,Tunisia,1,2,0,,,,
-1998,France,10.7,Colombia,Tunisia,1,1,0,,,,
-1998,France,10.7,Romania,england,1,2,1,,,,
-1998,France,10.7,Romania,Tunisia,1,1,1,,,,
-1998,France,10.7,Colombia,england,1,0,2,,,,
-1998,France,10.7,Jamaica,Croatia,1,1,3,,,,
-1998,France,10.7,Argentina,Japan,1,1,0,,,,
-1998,France,10.7,Japan,Croatia,1,0,1,,,,
-1998,France,10.7,Argentina,jamaica,1,5,0,,,,
-1998,France,10.7,Japan,jamaica,1,1,2,,,,
-1998,France,10.7,Argentina,Croatia,1,1,0,,,,
-1998,France,10.7,Brazil ,Chile,2,4,1,,,,
-1998,France,10.7,Italy      ,Norway,2,1,0,,,,
-1998,France,10.7,Nigeria,Denmark,2,1,4,,,,
-1998,France,10.7,France,Paraguay,2,0,0,,,,
-1998,France,10.7,Germany,Mexico,2,2,1,,,,
-1998,France,10.7,Netherlands,Yugolavia,2,2,1,,,,
-1998,France,10.7,Argentina,England,2,2,2,,,,
-1998,France,10.7,Romania,Croatia,2,0,1,,,,
-1998,France,10.7,Italy      ,France,3,0,0,,,,
-1998,France,10.7,Brazil,Denmark,3,3,2,,,,
-1998,France,10.7,Germany,Croatia,3,0,3,,,,
-1998,France,10.7,Netherlands,Argentina,3,2,1,,,,
-1998,France,10.7,Brazil ,Netherlands,4,1,1,,,,
-1998,France,10.7,France,Croatia,4,2,1,,,,
-1998,France,10.7,Netherlands,Croatia,5,1,2,,,,
-1998,France,10.7,Brazil ,France,6,0,3,,,,
-2002,South Korea and Japan,11.15,France,Senegal,1,0,1,,,,
-2002,South Korea and Japan,11.15,Uruguay,Denmark,1,1,2,,,,
-2002,South Korea and Japan,11.15,France,Uruguay,1,0,0,,,,
-2002,South Korea and Japan,11.15,Denmark,Senegal,1,1,1,,,,
-2002,South Korea and Japan,11.15,Denmark,France,1,2,0,,,,
-2002,South Korea and Japan,11.15,Senegal,Uruguay,1,3,3,,,,
-2002,South Korea and Japan,11.15,Paraguay,South Africa,1,2,2,,,,
-2002,South Korea and Japan,11.15,Spain,Slovenia,1,3,1,,,,
-2002,South Korea and Japan,11.15,Spain,Paraguay,1,3,1,,,,
-2002,South Korea and Japan,11.15,South Africa,Slovenia,1,1,0,,,,
-2002,South Korea and Japan,11.15,South Africa,Spain,1,2,3,,,,
-2002,South Korea and Japan,11.15,Slovenia,Paraguay,1,1,3,,,,
-2002,South Korea and Japan,11.15,Brazil ,Turkey,1,2,1,,,,
-2002,South Korea and Japan,11.15,China,Costa Rica,1,0,2,,,,
-2002,South Korea and Japan,11.15,Brazil ,China,1,4,0,,,,
-2002,South Korea and Japan,11.15,Costa Rica,Turkey,1,1,1,,,,
-2002,South Korea and Japan,11.15,Costa Rica,Brazil,1,2,5,,,,
-2002,South Korea and Japan,11.15,Turkey,China,1,3,0,,,,
-2002,South Korea and Japan,11.15,South Korea,Poland,1,2,0,,,,
-2002,South Korea and Japan,11.15,United States,Portugal,1,3,2,,,,
-2002,South Korea and Japan,11.15,South Korea,United States,1,1,1,,,,
-2002,South Korea and Japan,11.15,Portugal,Poland,1,4,0,,,,
-2002,South Korea and Japan,11.15,Portugal,South Korea,1,0,1,,,,
-2002,South Korea and Japan,11.15,Poland,United States,1,3,1,,,,
-2002,South Korea and Japan,11.15,Ireland,Germany,1,1,1,,,,
-2002,South Korea and Japan,11.15,Germany,Saudi Arabia,1,8,0,,,,
-2002,South Korea and Japan,11.15,Germany,Republic of Ireland,1,1,1,,,,
-2002,South Korea and Japan,11.15,Cameroon,Cameroon,1,0,2,,,,
-2002,South Korea and Japan,11.15,Saudi Arabia,Ireland,1,0,3,,,,
-2002,South Korea and Japan,11.15,England,Sweden,1,1,1,,,,
-2002,South Korea and Japan,11.15,Argentina,Nigeria,1,1,0,,,,
-2002,South Korea and Japan,11.15,Sweden,Nigeria,1,2,1,,,,
-2002,South Korea and Japan,11.15,Argentina,England,1,0,1,,,,
-2002,South Korea and Japan,11.15,Sweden,Argentina,1,1,1,,,,
-2002,South Korea and Japan,11.15,Nigeria,England,1,0,0,,,,
-2002,South Korea and Japan,11.15,Croatia,Mexico,1,0,1,,,,
-2002,South Korea and Japan,11.15,Italy,Ecuador,1,0,1,,,,
-2002,South Korea and Japan,11.15,Italy,Ecuador,1,2,0,,,,
-2002,South Korea and Japan,11.15,Italy,Croatia,1,1,2,,,,
-2002,South Korea and Japan,11.15,Mexico,Ecuador,1,2,1,,,,
-2002,South Korea and Japan,11.15,Mexico,Italy,1,1,1,,,,
-2002,South Korea and Japan,11.15,Ecuador,Croatia,1,1,0,,,,
-2002,South Korea and Japan,11.15,Japan,Belgium,1,2,2,,,,
-2002,South Korea and Japan,11.15,Russia,Tunisia,1,2,0,,,,
-2002,South Korea and Japan,11.15,Japan,Russia,1,1,0,,,,
-2002,South Korea and Japan,11.15,Tunisia,Belgium,1,1,1,,,,
-2002,South Korea and Japan,11.15,Tunisia,Japan,1,0,2,,,,
-2002,South Korea and Japan,11.15,Belgium,Russia,1,3,2,,,,
-2002,South Korea and Japan,11.15,Germany,Paraguay,2,1,0,,,,
-2002,South Korea and Japan,11.15,Denmark,England,2,0,3,,,,
-2002,South Korea and Japan,11.15,Sweden,Senegal,2,1,1,,,,
-2002,South Korea and Japan,11.15,Spain,Ireland,2,1,1,,,,
-2002,South Korea and Japan,11.15,Mexico,United States,2,0,2,,,,
-2002,South Korea and Japan,11.15,Brazil ,Belgium,2,2,0,,,,
-2002,South Korea and Japan,11.15,Japan,Turkey,2,0,1,,,,
-2002,South Korea and Japan,11.15,South Korea,Italy,2,1,1,,,,
-2002,South Korea and Japan,11.15,England,Brazil,3,1,2,,,,
-2002,South Korea and Japan,11.15,Germany,United States,3,1,0,,,,
-2002,South Korea and Japan,11.15,Spain,South Korea,3,0,0,,,,
-2002,South Korea and Japan,11.15,Senegal,Turkey,3,0,0,,,,
-2002,South Korea and Japan,11.15,Germany,South Korea,4,1,2,,,,
-2002,South Korea and Japan,11.15,Brazil ,Turkey,4,1,0,,,,
-2002,South Korea and Japan,11.15,South Korea,Turkey,5,0,0,,,,
-2002,South Korea and Japan,11.15,Germany,Brazil,6,0,0,,,,
-2006,Germany,8.5,Germany,Costa Rica,1,4,2,,,,
-2006,Germany,8.5,Poland,Ecuador,1,0,2,,,,
-2006,Germany,8.5,Germany,Poland,1,1,0,,,,
-2006,Germany,8.5,Ecuador,Costa Rica,1,3,0,,,,
-2006,Germany,8.5,Ecuador,Germany,1,0,3,,,,
-2006,Germany,8.5,Costa Rica,Poland,1,1,2,,,,
-2006,Germany,8.5,England,Paraguay,1,1,0,,,,
-2006,Germany,8.5,Trinidad and Tobago,Sweden,1,0,0,,,,
-2006,Germany,8.5,England,Trinidad and Tobago,1,2,0,,,,
-2006,Germany,8.5,Sweden,Paraguay,1,1,0,,,,
-2006,Germany,8.5,Sweden,England,1,2,2,,,,
-2006,Germany,8.5,Paraguay,Trinidad and Tobago,1,2,0,,,,
-2006,Germany,8.5,Argentina,Cote d'Ivoire,1,2,1,,,,
-2006,Germany,8.5,Serbia and Montenegro,Netherlands,1,0,1,,,,
-2006,Germany,8.5,Argentina,Serbia and Montenegro,1,6,0,,,,
-2006,Germany,8.5,Netherlands,Cote d'Ivoire,1,2,1,,,,
-2006,Germany,8.5,Netherlands,Argentina,1,0,0,,,,
-2006,Germany,8.5,Cote d'Ivoire,Serbia and Montenegro,1,3,2,,,,
-2006,Germany,8.5,Mexico,Iran,1,3,1,,,,
-2006,Germany,8.5,Angola,Portugal,1,0,1,,,,
-2006,Germany,8.5,Mexico,Angola,1,0,0,,,,
-2006,Germany,8.5,Portugal,Iran,1,2,0,,,,
-2006,Germany,8.5,Portugal,Mexico,1,2,1,,,,
-2006,Germany,8.5,Iran,Angola,1,1,1,,,,
-2006,Germany,8.5,Italy,Ghana,1,2,0,,,,
-2006,Germany,8.5,United States,Czech Republic,1,0,3,,,,
-2006,Germany,8.5,Italy,United States,1,1,1,,,,
-2006,Germany,8.5,Czech Republic,Ghana,1,0,2,,,,
-2006,Germany,8.5,Czech Republic,Italy,1,0,2,,,,
-2006,Germany,8.5,Ghana,United States,1,2,1,,,,
-2006,Germany,8.5,Brazil ,Croatia,1,1,0,,,,
-2006,Germany,8.5,Australia,Japan,1,3,1,,,,
-2006,Germany,8.5,Brazil ,Australia,1,2,0,,,,
-2006,Germany,8.5,Japan,Croatia,1,0,0,,,,
-2006,Germany,8.5,Japan,Brazil,1,1,4,,,,
-2006,Germany,8.5,Croatia,Australia,1,2,2,,,,
-2006,Germany,8.5,France,Switzerland,1,0,0,,,,
-2006,Germany,8.5,South Korea,Togo,1,2,1,,,,
-2006,Germany,8.5,France,South Korea,1,1,1,,,,
-2006,Germany,8.5,Togo,Switzerland,1,0,2,,,,
-2006,Germany,8.5,Togo,France,1,0,2,,,,
-2006,Germany,8.5,Switzerland,South Korea,1,2,0,,,,
-2006,Germany,8.5,Spain,Ukraine,1,4,0,,,,
-2006,Germany,8.5,Tunisia,Saudi Arabia,1,2,2,,,,
-2006,Germany,8.5,Spain,Tunisia,1,3,1,,,,
-2006,Germany,8.5,Saudi Arabia,Ukraine,1,0,4,,,,
-2006,Germany,8.5,Saudi Arabia,Spain,1,0,1,,,,
-2006,Germany,8.5,Ukraine,Tunisia,1,1,0,,,,
-2006,Germany,8.5,Germany,Sweden,2,2,0,,,,
-2006,Germany,8.5,Argentina,Mexico,2,1,1,,,,
-2006,Germany,8.5,England,Ecuador,2,1,0,,,,
-2006,Germany,8.5,Portugal,Netherlands,2,1,0,,,,
-2006,Germany,8.5,Italy,Australia,2,1,0,,,,
-2006,Germany,8.5,Switzerland,Ukraine,2,0,0,,,,
-2006,Germany,8.5,Brazil ,Ghana,2,3,0,,,,
-2006,Germany,8.5,Spain,France,2,1,3,,,,
-2006,Germany,8.5,Germany,Argentina,3,1,1,,,,
-2006,Germany,8.5,Italy,Ukraine,3,3,0,,,,
-2006,Germany,8.5,England,Portugal,3,0,0,,,,
-2006,Germany,8.5,Brazil ,France,3,0,1,,,,
-2006,Germany,8.5,Germany,Italy,4,0,0,,,,
-2006,Germany,8.5,Portugal,France,4,0,1,,,,
-2006,Germany,8.5,Germany,Portugal,5,3,1,,,,
-2006,Germany,8.5,Italy,France,6,1,1,,,,
-2010,South Africa,17.75,South Africa,Mexico,1,1,1,,,,
-2010,South Africa,17.75,Uruguay,France,1,0,0,,,,
-2010,South Africa,17.75,South Africa,Uruguay,1,0,3,,,,
-2010,South Africa,17.75,France,Mexico,1,0,2,,,,
-2010,South Africa,17.75,Mexico,Uruguay,1,0,1,,,,
-2010,South Africa,17.75,France,South Africa,1,1,2,,,,
-2010,South Africa,17.75,South Korea,Greece,1,2,0,,,,
-2010,South Africa,17.75,Argentina,Nigeria,1,1,0,,,,
-2010,South Africa,17.75,Argentina,South Korea,1,4,1,,,,
-2010,South Africa,17.75,Greece,Nigeria,1,2,1,,,,
-2010,South Africa,17.75,Nigeria,South Korea,1,2,2,,,,
-2010,South Africa,17.75,Greece,Argentina,1,0,2,,,,
-2010,South Africa,17.75,England,United States,1,1,1,,,,
-2010,South Africa,17.75,Algeria,Slovenia,1,0,1,,,,
-2010,South Africa,17.75,Slovenia,United States,1,2,2,,,,
-2010,South Africa,17.75,England,Algeria,1,0,0,,,,
-2010,South Africa,17.75,United States,Algeria,1,1,0,,,,
-2010,South Africa,17.75,Slovenia,England,1,0,1,,,,
-2010,South Africa,17.75,Serbia,Ghana,1,0,1,,,,
-2010,South Africa,17.75,Germany,Australia,1,4,0,,,,
-2010,South Africa,17.75,Germany,Serbia,1,0,1,,,,
-2010,South Africa,17.75,Ghana,Australia,1,1,1,,,,
-2010,South Africa,17.75,Australia,Serbia,1,2,1,,,,
-2010,South Africa,17.75,Ghana,Germany,1,0,1,,,,
-2010,South Africa,17.75,Netherlands,Denmark,1,2,0,,,,
-2010,South Africa,17.75,Japan,Cameroon,1,1,0,,,,
-2010,South Africa,17.75,Netherlands,Japan,1,1,0,,,,
-2010,South Africa,17.75,Cameroon,Denmark,1,1,2,,,,
-2010,South Africa,17.75,Denmark,Japan,1,1,3,,,,
-2010,South Africa,17.75,Cameroon,Netherlands,1,1,2,,,,
-2010,South Africa,17.75,Italy,Paraguay,1,1,1,,,,
-2010,South Africa,17.75,New Zealand,Slovakia,1,1,1,,,,
-2010,South Africa,17.75,Slovakia,Paraguay,1,0,2,,,,
-2010,South Africa,17.75,Italy,New Zealand,1,1,1,,,,
-2010,South Africa,17.75,Slovakia,Italy,1,3,2,,,,
-2010,South Africa,17.75,Paraguay,New Zealand,1,0,0,,,,
-2010,South Africa,17.75,Côte d'Ivoire,Portugal,1,0,0,,,,
-2010,South Africa,17.75,Brazil,North Korea,1,2,1,,,,
-2010,South Africa,17.75,Brazil,Côte d'Ivoire,1,3,1,,,,
-2010,South Africa,17.75,Portugal,North Korea,1,7,0,,,,
-2010,South Africa,17.75,Portugal,Brazil,1,0,0,,,,
-2010,South Africa,17.75,North Korea,Côte d'Ivoire,1,0,3,,,,
-2010,South Africa,17.75,Honduras,Chile,1,0,1,,,,
-2010,South Africa,17.75,Spain,Switzerland,1,0,1,,,,
-2010,South Africa,17.75,Chile,Switzerland,1,1,0,,,,
-2010,South Africa,17.75,Spain,Honduras,1,2,0,,,,
-2010,South Africa,17.75,Chile,Spain,1,1,2,,,,
-2010,South Africa,17.75,Switzerland,Honduras,1,0,0,,,,
-2010,South Africa,17.75,Uruguay,South Korea,2,2,1,,,,
-2010,South Africa,17.75,United States,Ghana,2,1,1*,,,,
-2010,South Africa,17.75,Germany,England,2,4,1,,,,
-2010,South Africa,17.75,Argentina,Mexico,2,3,1,,,,
-2010,South Africa,17.75,Netherlands,Slovakia,2,2,1,,,,
-2010,South Africa,17.75,Brazil,Chile,2,3,0,,,,
-2010,South Africa,17.75,Paraguay,Japan,2,0*,0,,,,
-2010,South Africa,17.75,Spain,Portugal,2,1,0,,,,
-2010,South Africa,17.75,Netherlands,Brazil,3,2,1,,,,
-2010,South Africa,17.75,Uruguay,Ghana,3,1*,1,,,,
-2010,South Africa,17.75,Argentina,Germany,3,0,4,,,,
-2010,South Africa,17.75,Paraguay,Spain,3,0,1,,,,
-2010,South Africa,17.75,Uruguay,Netherlands,4,2,3,,,,
-2010,South Africa,17.75,Germany,Spain,4,0,1,,,,
-2010,South Africa,17.75,Uruguay,Germany,5,2,3,,,,
-2010,South Africa,17.75,Netherlands,Spain,6,0,0*,,,,
-2014,Brazil,24.95,Brazil,Croatia,1,3,1,,,,
-2014,Brazil,24.95,Mexico,Cameroon,1,1,0,,,,
-2014,Brazil,24.95,Brazil,Mexico,1,0,0,,,,
-2014,Brazil,24.95,Cameroon,Croatia,1,0,4,,,,
-2014,Brazil,24.95,Cameroon,Brazil,1,1,4,,,,
-2014,Brazil,24.95,Croatia,Mexico,1,1,3,,,,
-2014,Brazil,24.95,Spain,Netherlands,1,1,5,,,,
-2014,Brazil,24.95,Chile,Australia,1,3,1,,,,
-2014,Brazil,24.95,Spain,Chile,1,0,2,,,,
-2014,Brazil,24.95,Australia,Netherlands,1,2,3,,,,
-2014,Brazil,24.95,Australia,Spain,1,0,3,,,,
-2014,Brazil,24.95,Netherlands,Chile,1,2,0,,,,
-2014,Brazil,24.95,Colombia,Greece,1,3,0,,,,
-2014,Brazil,24.95,Côte d'Ivoire,Japan,1,2,1,,,,
-2014,Brazil,24.95,Colombia,Côte d'Ivoire,1,2,1,,,,
-2014,Brazil,24.95,Japan,Greece,1,0,0,,,,
-2014,Brazil,24.95,Japan,Colombia,1,1,4,,,,
-2014,Brazil,24.95,Greece,Côte d'Ivoire,1,2,1,,,,
-2014,Brazil,24.95,Uruguay,Costa Rica,1,1,3,,,,
-2014,Brazil,24.95,England,Italy,1,1,2,,,,
-2014,Brazil,24.95,Uruguay,England,1,2,1,,,,
-2014,Brazil,24.95,Italy,Costa Rica,1,0,1,,,,
-2014,Brazil,24.95,Italy,Uruguay,1,0,1,,,,
-2014,Brazil,24.95,Costa Rica,England,1,0,0,,,,
-2014,Brazil,24.95,Switzerland,Ecuador,1,2,1,,,,
-2014,Brazil,24.95,France,Honduras,1,3,0,,,,
-2014,Brazil,24.95,Switzerland,France,1,2,5,,,,
-2014,Brazil,24.95,Honduras,Ecuador,1,1,2,,,,
-2014,Brazil,24.95,Honduras,Switzerland,1,0,3,,,,
-2014,Brazil,24.95,Ecuador,France,1,0,0,,,,
-2014,Brazil,24.95,Argentina,Bosnia-Herzegovina,1,2,1,,,,
-2014,Brazil,24.95,Iran,Nigeria,1,0,0,,,,
-2014,Brazil,24.95,Argentina,Iran,1,1,0,,,,
-2014,Brazil,24.95,Nigeria,Bosnia-Herzegovina,1,1,0,,,,
-2014,Brazil,24.95,Nigeria,Argentina,1,2,3,,,,
-2014,Brazil,24.95,Bosnia-Herzegovina,Iran,1,3,1,,,,
-2014,Brazil,24.95,Germany,Portugal,1,4,0,,,,
-2014,Brazil,24.95,Ghana,United States,1,1,2,,,,
-2014,Brazil,24.95,Germany,Ghana,1,2,2,,,,
-2014,Brazil,24.95,United States,Portugal,1,2,2,,,,
-2014,Brazil,24.95,United States,Germany,1,0,1,,,,
-2014,Brazil,24.95,Portugal,Ghana,1,2,1,,,,
-2014,Brazil,24.95,Belgium,Algeria,1,2,1,,,,
-2014,Brazil,24.95,Russia,South Korea,1,1,1,,,,
-2014,Brazil,24.95,Belgium,Russia,1,1,0,,,,
-2014,Brazil,24.95,South Korea,Algeria,1,2,4,,,,
-2014,Brazil,24.95,South Korea,Belgium,1,0,1,,,,
-2014,Brazil,24.95,Algeria,Russia,1,1,1,,,,
-2014,Brazil,24.95,Brazil,Chile,2,1*,1,,,,
-2014,Brazil,24.95,Colombia,Uruguay,2,2,0,,,,
-2014,Brazil,24.95,Netherlands,Mexico,2,2,1,,,,
-2014,Brazil,24.95,Costa Rica,Greece,2,1*,1,,,,
-2014,Brazil,24.95,France,Nigeria,2,2,0,,,,
-2014,Brazil,24.95,Germany,Algeria,2,0*,0,,,,
-2014,Brazil,24.95,Argentina,Switzerland,2,0*,0,,,,
-2014,Brazil,24.95,Belgium,United States,2,0*,0,,,,
-2014,Brazil,24.95,Brazil,Colombia,3,2,1,,,,
-2014,Brazil,24.95,France,Germany,3,0,1,,,,
-2014,Brazil,24.95,Netherlands,Costa Rica,3,0*,0,,,,
-2014,Brazil,24.95,Argentina,Belgium,3,1,0,,,,
-2014,Brazil,24.95,Brazil,Germany,4,1,7,,,,
-2014,Brazil,24.95,Netherlands,Argentina,4,0*,0,,,,
-2014,Brazil,24.95,Brazil,Netherlands,5,0,3,,,,
-2014,Brazil,24.95,Germany,Argentina,6,0*,0,,,,
-2018,Russia,-5.1,Russia,Saudi Arabia,1,5,0,,,,
-2018,Russia,-5.1,Egypt,Uruguay,1,0,1,,,,
-2018,Russia,-5.1,Russia,Egypt,1,3,1,,,,
-2018,Russia,-5.1,Uruguay,Saudi Arabia,1,1,0,,,,
-2018,Russia,-5.1,Uruguay,Russia,1,3,0,,,,
-2018,Russia,-5.1,Saudi Arabia,Egypt,1,2,1,,,,
-2018,Russia,-5.1,Morocco,Iran,1,0,1,,,,
-2018,Russia,-5.1,Portugal,Spain,1,3,3,,,,
-2018,Russia,-5.1,Protugal,Morocco,1,1,0,,,,
-2018,Russia,-5.1,Iran,Spain,1,0,1,,,,
-2018,Russia,-5.1,Iran,Portugal,1,1,1,,,,
-2018,Russia,-5.1,Spain,Morocco,1,2,2,,,,
-2018,Russia,-5.1,France,Australia,1,2,1,,,,
-2018,Russia,-5.1,Peru,Denmark,1,0,1,,,,
-2018,Russia,-5.1,Denmark,Australia,1,1,1,,,,
-2018,Russia,-5.1,France,Peru,1,1,0,,,,
-2018,Russia,-5.1,Denmark,France,1,0,0,,,,
-2018,Russia,-5.1,Australia,Peru,1,0,2,,,,
-2018,Russia,-5.1,Argentina,Iceland,1,1,1,,,,
-2018,Russia,-5.1,Croatia,Nigeria,1,2,0,,,,
-2018,Russia,-5.1,Argentina,Croatia,1,0,3,,,,
-2018,Russia,-5.1,Nigeria,Iceland,1,2,0,,,,
-2018,Russia,-5.1,Nigeria,Argentina,1,1,2,,,,
-2018,Russia,-5.1,Iceland,Croatia,1,1,2,,,,
-2018,Russia,-5.1,Costa Rica,Serbia,1,0,1,,,,
-2018,Russia,-5.1,Brazil,Switzerland,1,1,1,,,,
-2018,Russia,-5.1,Brazil,Costa Rica,1,2,0,,,,
-2018,Russia,-5.1,Serbia,Switzerland,1,1,2,,,,
-2018,Russia,-5.1,Serbia,Brazil,1,0,2,,,,
-2018,Russia,-5.1,Switzerland,Costa Rica,1,2,2,,,,
-2018,Russia,-5.1,Germany,Mexico,1,0,1,,,,
-2018,Russia,-5.1,Sweden,South Korea,1,1,0,,,,
-2018,Russia,-5.1,South Korea,Mexico,1,1,2,,,,
-2018,Russia,-5.1,Germany,Sweden,1,2,1,,,,
-2018,Russia,-5.1,South Korea,Germany,1,2,0,,,,
-2018,Russia,-5.1,Mexico,Sweden,1,0,3,,,,
-2018,Russia,-5.1,Belgium,Panama,1,3,0,,,,
-2018,Russia,-5.1,Tunisia,England,1,1,2,,,,
-2018,Russia,-5.1,Belgium,Tunisia,1,5,2,,,,
-2018,Russia,-5.1,England,Panama,1,6,1,,,,
-2018,Russia,-5.1,England,Belgium,1,0,1,,,,
-2018,Russia,-5.1,Panama,Tunisia,1,1,2,,,,
-2018,Russia,-5.1,Colombia,Japan,1,1,2,,,,
-2018,Russia,-5.1,Poland,Senegal,1,1,2,,,,
-2018,Russia,-5.1,Japan,Senegal,1,2,2,,,,
-2018,Russia,-5.1,Poland,Colombia,1,0,3,,,,
-2018,Russia,-5.1,Japan,Poland,1,0,1,,,,
-2018,Russia,-5.1,Senegal,Colombia,1,0,1,,,,
-2018,Russia,-5.1,France,Argentina,2,4,3,,,,
-2018,Russia,-5.1,Uruguay,Portugal,2,2,1,,,,
-2018,Russia,-5.1,Spain,Russia,2,1,1*,,,,
-2018,Russia,-5.1,Croatia,Denmark,2,1*,1,,,,
-2018,Russia,-5.1,Brazil,Mexico,2,2,0,,,,
-2018,Russia,-5.1,Belgium,Japan,2,3,2,,,,
-2018,Russia,-5.1,Sweden,Switzerland,2,1,0,,,,
-2018,Russia,-5.1,Colombia,England,2,1,1*,,,,
-2018,Russia,-5.1,Uruguay,France,3,0,2,,,,
-2018,Russia,-5.1,Brazil,Belgium,3,1,2,,,,
-2018,Russia,-5.1,Sweden,England,3,0,2,,,,
-2018,Russia,-5.1,Russia,Croatia,3,1,1*,,,,
-2018,Russia,-5.1,France,Belgium,4,1,0,,,,
-2018,Russia,-5.1,Croatia,England,4,1*,1,,,,
-2018,Russia,-5.1,Belgium,England,5,2,0,,,,
-2018,Russia,-5.1,France,Croatia,6,4,2,,,,
+,Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,Year,Location,Average Yearly Temperature (Celsius),TeamA,TeamB,Round,Full-time score TeamA,Full-time score TeamB,TeamA Elo Rating,TeamB Elo Rating,Form of TeamA,Form of TeamB
+0,0,0,0,0,1930,Uruguay,17.55,France,Mexico,1,4,1,1000.0,1000.0,Neutral,Neutral
+1,1,1,1,1,1930,Uruguay,17.55,Argentina,France,1,1,0,,,Neutral,Neutral
+2,2,2,2,2,1930,Uruguay,17.55,Chile,Mexico,1,3,0,,,Neutral,Neutral
+3,3,3,3,3,1930,Uruguay,17.55,Chile,France,1,1,0,,,Neutral,Neutral
+4,4,4,4,4,1930,Uruguay,17.55,Argentina,Mexico,1,6,3,,,Neutral,Neutral
+5,5,5,5,5,1930,Uruguay,17.55,Argentina,Chile,1,3,1,,,Neutral,Neutral
+6,6,6,6,6,1930,Uruguay,17.55,Yugoslavia,Brazil,1,2,1,,,Neutral,Neutral
+7,7,7,7,7,1930,Uruguay,17.55,Yugoslavia,Bolivia,1,4,0,,,Neutral,Neutral
+8,8,8,8,8,1930,Uruguay,17.55,Brazil,Bolivia,1,4,0,,,Neutral,Neutral
+9,9,9,9,9,1930,Uruguay,17.55,Romania,Peru,1,3,1,,,Neutral,Neutral
+10,10,10,10,10,1930,Uruguay,17.55,Uruguay,Peru,1,1,0,,,Neutral,Neutral
+11,11,11,11,11,1930,Uruguay,17.55,Uruguay,Romania,1,4,0,,,Neutral,Neutral
+12,12,12,12,12,1930,Uruguay,17.55,United States,Belgium,1,3,0,,,Neutral,Neutral
+13,13,13,13,13,1930,Uruguay,17.55,United States,Paraguay,1,3,0,,,Neutral,Neutral
+14,14,14,14,14,1930,Uruguay,17.55,Paraguay,Belgium,1,1,0,,,Neutral,Neutral
+15,15,15,15,15,1930,Uruguay,17.55,Argentina,United States,2,6,1,,,Neutral,Neutral
+16,16,16,16,16,1930,Uruguay,17.55,Uruguay,Yugoslavia,2,6,1,,,Neutral,Neutral
+17,17,17,17,17,1930,Uruguay,17.55,Uruguay,Argentina,3,4,2,,,Neutral,Good
+18,18,18,18,18,1934,Italy,13.35,Sweden,Argentina,1,3,2,,,Neutral,Good
+19,19,19,19,19,1934,Italy,13.35,Austria,France,1,3,2,,,Neutral,Neutral
+20,20,20,20,20,1934,Italy,13.35,Germany,Belgium,1,5,2,,,Neutral,Neutral
+21,21,21,21,21,1934,Italy,13.35,Spain,Brazil,1,3,1,,,Neutral,Neutral
+22,22,22,22,22,1934,Italy,13.35,Hungary,Egypt,1,4,2,,,Neutral,Neutral
+23,23,23,23,23,1934,Italy,13.35,Switzerland,Netherlands,1,3,2,,,Neutral,Neutral
+24,24,24,24,24,1934,Italy,13.35,Italy,United States,1,7,1,,,Neutral,Neutral
+25,25,25,25,25,1934,Italy,13.35,Czechoslovakia,Romania,1,2,1,,,Neutral,Neutral
+26,26,26,26,26,1934,Italy,13.35,Czechoslovakia,Switzerland,2,3,2,,,Neutral,Neutral
+27,27,27,27,27,1934,Italy,13.35,Germany,Sweden,2,2,1,,,Neutral,Neutral
+28,28,28,28,28,1934,Italy,13.35,Italy,Spain,2,1,1,,,Neutral,Neutral
+29,29,29,29,29,1934,Italy,13.35,Austria,Hungary,2,2,1,,,Neutral,Neutral
+30,30,30,30,30,1934,Italy,13.35,Italy,Spain,2,1,0,,,Neutral,Neutral
+31,31,31,31,31,1934,Italy,13.35,Italy,Austria,3,1,0,,,Neutral,Neutral
+32,32,32,32,32,1934,Italy,13.35,Czechoslovakia,Germany,3,3,1,,,Neutral,Neutral
+33,33,33,33,33,1934,Italy,13.35,Germany,Austria,3,3,2,,,Neutral,Neutral
+34,34,34,34,34,1934,Italy,13.35,Italy,Czechoslovakia,4,2,1,,,Good,Neutral
+35,35,35,35,35,1938,France,10.7,Switzerland,Germany,1,1,1,,,Neutral,Neutral
+36,36,36,36,36,1938,France,10.7,Hungary,Dutch East Indies,1,6,0,,,Neutral,Neutral
+37,37,37,37,37,1938,France,10.7,France,Belgium,1,3,1,,,Bad,Neutral
+38,38,38,38,38,1938,France,10.7,Cuba,Romania,1,3,3,,,Neutral,Neutral
+39,39,39,39,39,1938,France,10.7,Italy,Norway,1,2,1,,,Good,Neutral
+40,40,40,40,40,1938,France,10.7,Brazil,Poland,1,6,5,,,Neutral,Neutral
+41,41,41,41,41,1938,France,10.7,Czechoslovakia,Netherlands,1,3,0,,,Good,Neutral
+42,42,42,42,42,1938,France,10.7,Cuba,Romania,1,2,1,,,Neutral,Bad
+43,43,43,43,43,1938,France,10.7,Germany,Switzerland,1,2,4,,,Bad,Neutral
+44,44,44,44,44,1938,France,10.7,Brazil,Czechoslovakia,2,1,1,,,Bad,Good
+45,45,45,45,45,1938,France,10.7,Switzerland,Hungary,2,0,2,,,Bad,Neutral
+46,46,46,46,46,1938,France,10.7,Sweden,Cuba,2,8,0,,,Neutral,Neutral
+47,47,47,47,47,1938,France,10.7,France,Italy,2,1,3,,,Bad,Good
+48,48,48,48,48,1938,France,10.7,Brazil,Czechoslovakia,2,2,1,,,Good,Bad
+49,49,49,49,49,1938,France,10.7,Hungary,Sweden,3,5,1,,,Good,Neutral
+50,50,50,50,50,1938,France,10.7,Italy,Brazil,3,2,1,,,Good,Bad
+51,51,51,51,51,1938,France,10.7,Sweden,Brazil,4,2,4,,,Bad,Good
+52,52,52,52,52,1938,France,10.7,Hungary,Italy,5,2,4,,,Good,Good
+53,53,53,53,53,1950,Brazil,24.95,Brazil,Mexico,1,4,0,,,Good,Neutral
+54,54,54,54,54,1950,Brazil,24.95,Yugoslavia,Switzerland,1,3,0,,,Neutral,Bad
+55,55,55,55,55,1950,Brazil,24.95,Brazil,Switzerland,1,2,2,,,Good,Bad
+56,56,56,56,56,1950,Brazil,24.95,Yugoslavia,Mexico,1,4,1,,,Neutral,Bad
+57,57,57,57,57,1950,Brazil,24.95,Brazil,Yugoslavia,1,2,0,,,Good,Good
+58,58,58,58,58,1950,Brazil,24.95,Switzerland,Mexico,1,2,1,,,Bad,Bad
+59,59,59,59,59,1950,Brazil,24.95,England,Chile,1,2,0,,,Neutral,Neutral
+60,60,60,60,60,1950,Brazil,24.95,Spain,United States,1,3,1,,,Neutral,Bad
+61,61,61,61,61,1950,Brazil,24.95,Spain,Chile,1,2,0,,,Good,Bad
+62,62,62,62,62,1950,Brazil,24.95,United States,England,1,1,0,,,Bad,Neutral
+63,63,63,63,63,1950,Brazil,24.95,Spain,England,1,1,0,,,Good,Neutral
+64,64,64,64,64,1950,Brazil,24.95,Chile,United States,1,5,2,,,Bad,Bad
+65,65,65,65,65,1950,Brazil,24.95,Sweden,Italy,1,3,2,,,Bad,Good
+66,66,66,66,66,1950,Brazil,24.95,Sweden,Paraguay,1,2,2,,,Bad,Neutral
+67,67,67,67,67,1950,Brazil,24.95,Italy,Paraguay,1,2,0,,,Good,Neutral
+68,68,68,68,68,1950,Brazil,24.95,Uruguay,Bolivia,1,8,0,,,Good,Neutral
+69,69,69,69,69,1950,Brazil,24.95,Uruguay,Spain,1,2,2,,,Good,Good
+70,70,70,70,70,1950,Brazil,24.95,Brazil,Sweden,1,7,1,,,Good,Bad
+71,71,71,71,71,1950,Brazil,24.95,Brazil,Spain,1,6,1,,,Good,Good
+72,72,72,72,72,1950,Brazil,24.95,Uruguay,Sweden,1,3,2,,,Good,Bad
+73,73,73,73,73,1950,Brazil,24.95,Sweden,Spain,1,3,1,,,Bad,Bad
+74,74,74,74,74,1950,Brazil,24.95,Uruguay,Brazil,1,2,1,,,Good,Good
+75,75,75,75,75,1954,Switzerland,5.5,Brazil,Mexico,1,5,0,,,Good,Bad
+76,76,76,76,76,1954,Switzerland,5.5,Yugoslavia,France,1,1,0,,,Good,Bad
+77,77,77,77,77,1954,Switzerland,5.5,Brazil,Yugoslavia,1,1,1,,,Good,Good
+78,78,78,78,78,1954,Switzerland,5.5,France,Mexico,1,3,2,,,Bad,Bad
+79,79,79,79,79,1954,Switzerland,5.5,West Germany,Turkey,1,4,1,,,Neutral,Neutral
+80,80,80,80,80,1954,Switzerland,5.5,Hungary,South Korea,1,9,0,,,Good,Neutral
+81,81,81,81,81,1954,Switzerland,5.5,Hungary,West Germany,1,8,3,,,Good,Neutral
+82,82,82,82,82,1954,Switzerland,5.5,Turkey,South Korea,1,7,0,,,Neutral,Neutral
+83,83,83,83,83,1954,Switzerland,5.5,West Germany,Turkey,1,7,2,,,Neutral,Neutral
+84,84,84,84,84,1954,Switzerland,5.5,Uruguay,Czechoslovakia,1,2,0,,,Good,Bad
+85,85,85,85,85,1954,Switzerland,5.5,Austria,Scotland,1,1,0,,,Good,Neutral
+86,86,86,86,86,1954,Switzerland,5.5,Austria,Czechoslovakia,1,5,0,,,Good,Bad
+87,87,87,87,87,1954,Switzerland,5.5,Uruguay,Scotland,1,7,0,,,Good,Neutral
+88,88,88,88,88,1954,Switzerland,5.5,England,Belgium,1,4,4,,,Neutral,Bad
+89,89,89,89,89,1954,Switzerland,5.5,Switzerland,Italy,1,2,1,,,Bad,Good
+90,90,90,90,90,1954,Switzerland,5.5,England,Switzerland,1,2,0,,,Bad,Bad
+91,91,91,91,91,1954,Switzerland,5.5,Italy,Belgium,1,4,1,,,Good,Bad
+92,92,92,92,92,1954,Switzerland,5.5,Switzerland,Italy,1,4,1,,,Good,Bad
+93,93,93,93,93,1954,Switzerland,5.5,Austria,Switzerland,2,7,5,,,Good,Good
+94,94,94,94,94,1954,Switzerland,5.5,Uruguay,England,2,4,2,,,Good,Bad
+95,95,95,95,95,1954,Switzerland,5.5,Yugoslavia,West Germany,2,0,2,,,Bad,Neutral
+96,96,96,96,96,1954,Switzerland,5.5,Brazil,Hungary,2,2,4,,,Bad,Good
+97,97,97,97,97,1954,Switzerland,5.5,West Germany,Austria,3,6,1,,,Good,Good
+98,98,98,98,98,1954,Switzerland,5.5,Hungary,Uruguay,3,4,2,,,Good,Good
+99,99,99,99,99,1954,Switzerland,5.5,Uruguay,Austria,4,1,3,,,Good,Good
+100,100,100,100,100,1954,Switzerland,5.5,Hungary,West Germany,5,2,3,,,Good,Good
+101,101,101,101,101,1958,Sweden,2.1,West Germany,Argentina,1,3,1,,,Good,Bad
+102,102,102,102,102,1958,Sweden,2.1,Northern Ireland,Czechoslovakia,1,1,0,,,Neutral,Bad
+103,103,103,103,103,1958,Sweden,2.1,Argentina,Northern Ireland,1,3,1,,,Bad,Neutral
+104,104,104,104,104,1958,Sweden,2.1,West Germany,Czechoslovakia,1,2,2,,,Good,Bad
+105,105,105,105,105,1958,Sweden,2.1,West Germany,Northern Ireland,1,2,2,,,Good,Neutral
+106,106,106,106,106,1958,Sweden,2.1,Czechoslovakia,Argentina,1,6,1,,,Bad,Bad
+107,107,107,107,107,1958,Sweden,2.1,Northern Ireland,Czechoslovakia,1,2,1,,,Neutral,Bad
+108,108,108,108,108,1958,Sweden,2.1,France,Paraguay,1,7,3,,,Good,Bad
+109,109,109,109,109,1958,Sweden,2.1,Yugoslavia,Scotland,1,1,1,,,Bad,Neutral
+110,110,110,110,110,1958,Sweden,2.1,Yugoslavia,France,1,3,2,,,Bad,Bad
+111,111,111,111,111,1958,Sweden,2.1,Paraguay,Scotland,1,3,2,,,Bad,Neutral
+112,112,112,112,112,1958,Sweden,2.1,France,Scotland,1,2,1,,,Good,Bad
+113,113,113,113,113,1958,Sweden,2.1,Paraguay,Yugoslavia,1,3,3,,,Bad,Bad
+114,114,114,114,114,1958,Sweden,2.1,Sweden,Mexico,1,3,0,,,Bad,Bad
+115,115,115,115,115,1958,Sweden,2.1,Hungary,Wales,1,1,1,,,Good,Neutral
+116,116,116,116,116,1958,Sweden,2.1,Mexico,Wales,1,1,1,,,Bad,Neutral
+117,117,117,117,117,1958,Sweden,2.1,Sweden,Hungary,1,2,1,,,Good,Bad
+118,118,118,118,118,1958,Sweden,2.1,Sweden,Wales,1,0,0,,,Good,Neutral
+119,119,119,119,119,1958,Sweden,2.1,Hungary,Mexico,1,4,0,,,Bad,Bad
+120,120,120,120,120,1958,Sweden,2.1,Wales,Hungary,1,2,1,,,Neutral,Bad
+121,121,121,121,121,1958,Sweden,2.1,Brazil,Austria,1,3,0,,,Bad,Good
+122,122,122,122,122,1958,Sweden,2.1,Soviet Union,England,1,2,2,,,Neutral,Bad
+123,123,123,123,123,1958,Sweden,2.1,Brazil,England,1,0,0,,,Bad,Bad
+124,124,124,124,124,1958,Sweden,2.1,Soviet Union,Austria,1,2,0,,,Neutral,Bad
+125,125,125,125,125,1958,Sweden,2.1,England,Austria,1,2,2,,,Bad,Bad
+126,126,126,126,126,1958,Sweden,2.1,Brazil,Soviet Union,1,2,0,,,Bad,Neutral
+127,127,127,127,127,1958,Sweden,2.1,Soviet Union,England,1,1,0,,,Neutral,Bad
+128,128,128,128,128,1958,Sweden,2.1,France,Northern Ireland,2,4,0,,,Good,Bad
+129,129,129,129,129,1958,Sweden,2.1,Sweden,Soviet Union,2,2,0,,,Good,Bad
+130,130,130,130,130,1958,Sweden,2.1,Brazil,Wales,2,1,0,,,Good,Bad
+131,131,131,131,131,1958,Sweden,2.1,West Germany,Yugoslavia,2,1,0,,,Good,Bad
+132,132,132,132,132,1958,Sweden,2.1,France,Brazil,3,2,5,,,Good,Good
+133,133,133,133,133,1958,Sweden,2.1,West Germany,Sweden,3,1,3,,,Bad,Good
+134,134,134,134,134,1958,Sweden,2.1,West Germany,France,4,3,6,,,Bad,Good
+135,135,135,135,135,1958,Sweden,2.1,Sweden,Brazil,5,2,5,,,Good,Good
+136,136,136,136,136,1962,Chile,8.45,Uruguay,Colombia,1,2,1,,,Good,Neutral
+137,137,137,137,137,1962,Chile,8.45,Soviet Union,Yugoslavia,1,2,0,,,Good,Bad
+138,138,138,138,138,1962,Chile,8.45,Yugoslavia,Uruguay,1,3,1,,,Bad,Bad
+139,139,139,139,139,1962,Chile,8.45,Soviet Union,Colombia,1,4,4,,,Bad,Neutral
+140,140,140,140,140,1962,Chile,8.45,Soviet Union,Uruguay,1,2,1,,,Good,Bad
+141,141,141,141,141,1962,Chile,8.45,Yugoslavia,Colombia,1,5,0,,,Bad,Neutral
+142,142,142,142,142,1962,Chile,8.45,Chile,Switzerland,1,3,1,,,Bad,Bad
+143,143,143,143,143,1962,Chile,8.45,West Germany,Italy,1,0,0,,,Bad,Bad
+144,144,144,144,144,1962,Chile,8.45,Chile,Italy,1,2,0,,,Good,Bad
+145,145,145,145,145,1962,Chile,8.45,West Germany,Switzerland,1,2,1,,,Bad,Bad
+146,146,146,146,146,1962,Chile,8.45,West Germany,Chile,1,2,0,,,Bad,Good
+147,147,147,147,147,1962,Chile,8.45,Italy,Switzerland,1,3,0,,,Bad,Bad
+148,148,148,148,148,1962,Chile,8.45,Brazil,Mexico,1,2,0,,,Good,Bad
+149,149,149,149,149,1962,Chile,8.45,Czechoslovakia,Spain,1,1,0,,,Bad,Bad
+150,150,150,150,150,1962,Chile,8.45,Brazil,Czechoslovakia,1,0,0,,,Good,Bad
+151,151,151,151,151,1962,Chile,8.45,Spain,Mexico,1,1,0,,,Bad,Bad
+152,152,152,152,152,1962,Chile,8.45,Brazil,Spain,1,2,1,,,Good,Bad
+153,153,153,153,153,1962,Chile,8.45,Mexico,Czechoslovakia,1,3,1,,,Bad,Bad
+154,154,154,154,154,1962,Chile,8.45,Argentina,Bulgaria,1,1,0,,,Bad,Neutral
+155,155,155,155,155,1962,Chile,8.45,Hungary,England,1,2,1,,,Bad,Bad
+156,156,156,156,156,1962,Chile,8.45,England,Argentina,1,3,1,,,Bad,Bad
+157,157,157,157,157,1962,Chile,8.45,Hungary,Bulgaria,1,6,1,,,Good,Neutral
+158,158,158,158,158,1962,Chile,8.45,Hungary,Argentina,1,0,0,,,Good,Bad
+159,159,159,159,159,1962,Chile,8.45,England,Bulgaria,1,0,0,,,Bad,Neutral
+160,160,160,160,160,1962,Chile,8.45,Chile,Soviet Union,2,2,1,,,Good,Bad
+161,161,161,161,161,1962,Chile,8.45,Yugoslavia,West Germany,2,1,0,,,Good,Bad
+162,162,162,162,162,1962,Chile,8.45,Brazil,England,2,3,1,,,Good,Bad
+163,163,163,163,163,1962,Chile,8.45,Czechoslovakia,Hungary,2,1,0,,,Bad,Bad
+164,164,164,164,164,1962,Chile,8.45,Brazil,Chile,3,4,2,,,Good,Good
+165,165,165,165,165,1962,Chile,8.45,Czechoslovakia,Yugoslavia,3,3,1,,,Good,Good
+166,166,166,166,166,1962,Chile,8.45,Chile,Yugoslavia,4,1,0,,,Good,Good
+167,167,167,167,167,1962,Chile,8.45,Brazil,Czechoslovakia,5,3,1,,,Good,Bad
+168,168,168,168,168,1966,England,8.45,England,Uruguay,1,0,0,,,Bad,Bad
+169,169,169,169,169,1966,England,8.45,France,Mexico,1,1,1,,,Good,Bad
+170,170,170,170,170,1966,England,8.45,Uruguay,France,1,2,1,,,Bad,Bad
+171,171,171,171,171,1966,England,8.45,England,Mexico,1,2,0,,,Bad,Bad
+172,172,172,172,172,1966,England,8.45,Mexico,Uruguay,1,0,0,,,Bad,Bad
+173,173,173,173,173,1966,England,8.45,England,France,1,2,0,,,Bad,Bad
+174,174,174,174,174,1966,England,8.45,West Germany,Switzerland,1,5,0,,,Good,Bad
+175,175,175,175,175,1966,England,8.45,Argentina,Spain,1,2,1,,,Bad,Bad
+176,176,176,176,176,1966,England,8.45,Spain,Switzerland,1,2,1,,,Bad,Bad
+177,177,177,177,177,1966,England,8.45,Argentina,West Germany,1,0,0,,,Bad,Good
+178,178,178,178,178,1966,England,8.45,Argentina,Switzerland,1,2,0,,,Bad,Bad
+179,179,179,179,179,1966,England,8.45,West Germany,Spain,1,2,1,,,Good,Bad
+180,180,180,180,180,1966,England,8.45,Brazil,Bulgaria,1,2,0,,,Good,Neutral
+181,181,181,181,181,1966,England,8.45,Portugal,Hungary,1,3,1,,,Neutral,Bad
+182,182,182,182,182,1966,England,8.45,Hungary,Brazil,1,3,1,,,Bad,Good
+183,183,183,183,183,1966,England,8.45,Portugal,Bulgaria,1,3,0,,,Neutral,Bad
+184,184,184,184,184,1966,England,8.45,Portugal,Brazil,1,3,1,,,Neutral,Good
+185,185,185,185,185,1966,England,8.45,Hungary,Bulgaria,1,3,1,,,Bad,Bad
+186,186,186,186,186,1966,England,8.45,Soviet Union,North Korea,1,3,0,,,Good,Neutral
+187,187,187,187,187,1966,England,8.45,Italy,Chile,1,2,0,,,Bad,Bad
+188,188,188,188,188,1966,England,8.45,Chile,North Korea,1,1,1,,,Bad,Neutral
+189,189,189,189,189,1966,England,8.45,Soviet Union,Italy,1,1,0,,,Good,Bad
+190,190,190,190,190,1966,England,8.45,North Korea,Italy,1,1,0,,,Neutral,Bad
+191,191,191,191,191,1966,England,8.45,Soviet Union,Chile,1,2,1,,,Good,Bad
+192,192,192,192,192,1966,England,8.45,England,Argentina,2,1,0,,,Good,Bad
+193,193,193,193,193,1966,England,8.45,West Germany,Uruguay,2,4,0,,,Good,Bad
+194,194,194,194,194,1966,England,8.45,Soviet Union,Hungary,2,2,1,,,Good,Bad
+195,195,195,195,195,1966,England,8.45,Portugal,North Korea,2,5,3,,,Neutral,Neutral
+196,196,196,196,196,1966,England,8.45,West Germany,Soviet Union,3,2,1,,,Good,Good
+197,197,197,197,197,1966,England,8.45,England,Portugal,3,2,1,,,Good,Good
+198,198,198,198,198,1966,England,8.45,Portugal,Soviet Union,4,2,1,,,Good,Good
+199,199,199,199,199,1966,England,8.45,England,West Germany,5,4,2,,,Good,Good
+200,200,200,200,200,1970,Mexico,21.0,Mexico,Soviet Union,1,0,0,,,Bad,Bad
+201,201,201,201,201,1970,Mexico,21.0,Belgium,El Salvador,1,3,0,,,Bad,Neutral
+202,202,202,202,202,1970,Mexico,21.0,Soviet Union,Belgium,1,4,1,,,Bad,Bad
+203,203,203,203,203,1970,Mexico,21.0,Mexico,El Salvador,1,4,0,,,Bad,Neutral
+204,204,204,204,204,1970,Mexico,21.0,Soviet Union,El Salvador,1,2,0,,,Bad,Neutral
+205,205,205,205,205,1970,Mexico,21.0,Mexico,Belgium,1,1,0,,,Bad,Bad
+206,206,206,206,206,1970,Mexico,21.0,Uruguay,Israel,1,2,0,,,Bad,Neutral
+207,207,207,207,207,1970,Mexico,21.0,Italy,Sweden,1,1,0,,,Good,Bad
+208,208,208,208,208,1970,Mexico,21.0,Uruguay,Italy,1,0,0,,,Bad,Bad
+209,209,209,209,209,1970,Mexico,21.0,Sweden,Israel,1,1,1,,,Bad,Neutral
+210,210,210,210,210,1970,Mexico,21.0,Uruguay,Sweden,1,0,1,,,Bad,Bad
+211,211,211,211,211,1970,Mexico,21.0,Israel,Italy,1,0,0,,,Neutral,Bad
+212,212,212,212,212,1970,Mexico,21.0,Romania,England,1,0,1,,,Bad,Good
+213,213,213,213,213,1970,Mexico,21.0,Czechoslovakia,Brazil,1,1,4,,,Bad,Good
+214,214,214,214,214,1970,Mexico,21.0,Romania,Czechoslovakia,1,2,1,,,Bad,Bad
+215,215,215,215,215,1970,Mexico,21.0,England,Brazil,1,0,1,,,Good,Good
+216,216,216,216,216,1970,Mexico,21.0,Romania,Brazil,1,2,3,,,Bad,Good
+217,217,217,217,217,1970,Mexico,21.0,England,Czechoslovakia,1,1,0,,,Good,Bad
+218,218,218,218,218,1970,Mexico,21.0,Peru,Bulgaria,1,3,2,,,Neutral,Bad
+219,219,219,219,219,1970,Mexico,21.0,Morocco,West Germany,1,1,2,,,Neutral,Good
+220,220,220,220,220,1970,Mexico,21.0,Peru,Morocco,1,3,0,,,Neutral,Neutral
+221,221,221,221,221,1970,Mexico,21.0,Bulgaria,West Germany,1,2,5,,,Bad,Good
+222,222,222,222,222,1970,Mexico,21.0,Peru,West Germany,1,1,3,,,Bad,Good
+223,223,223,223,223,1970,Mexico,21.0,Bulgaria,Morocco,1,1,1,,,Bad,Neutral
+224,224,224,224,224,1970,Mexico,21.0,Soviet Union,Uruguay,2,0,1,,,Bad,Bad
+225,225,225,225,225,1970,Mexico,21.0,Italy,Mexico,2,4,1,,,Bad,Bad
+226,226,226,226,226,1970,Mexico,21.0,Brazil,Peru,2,4,2,,,Good,Bad
+227,227,227,227,227,1970,Mexico,21.0,West Germany,England,2,3,2,,,Good,Good
+228,228,228,228,228,1970,Mexico,21.0,Uruguay,Brazil,3,1,3,,,Bad,Good
+229,229,229,229,229,1970,Mexico,21.0,Italy,West Germany,3,4,3,,,Good,Good
+230,230,230,230,230,1970,Mexico,21.0,Uruguay,West Germany,4,0,1,,,Bad,Good
+231,231,231,231,231,1970,Mexico,21.0,Brazil,Italy,5,4,1,,,Good,Bad
+232,232,232,232,232,1974,West Germany,8.5,West Germany,Chile,1,1,0,,,Good,Bad
+233,233,233,233,233,1974,West Germany,8.5,East Germany,Australia,1,2,0,,,Neutral,Neutral
+234,234,234,234,234,1974,West Germany,8.5,Chile,East Germany,1,1,1,,,Bad,Neutral
+235,235,235,235,235,1974,West Germany,8.5,Australia,West Germany,1,0,3,,,Neutral,Good
+236,236,236,236,236,1974,West Germany,8.5,Australia,Chile,1,0,0,,,Neutral,Bad
+237,237,237,237,237,1974,West Germany,8.5,East Germany,West Germany,1,1,0,,,Neutral,Good
+238,238,238,238,238,1974,West Germany,8.5,Brazil,Yugoslavia,1,0,0,,,Good,Bad
+239,239,239,239,239,1974,West Germany,8.5,Zaire,Scotland,1,0,2,,,Neutral,Bad
+240,240,240,240,240,1974,West Germany,8.5,Yugoslavia,Zaire,1,9,0,,,Bad,Neutral
+241,241,241,241,241,1974,West Germany,8.5,Scotland,Brazil,1,0,0,,,Bad,Good
+242,242,242,242,242,1974,West Germany,8.5,Scotland,Yugoslavia,1,1,1,,,Bad,Bad
+243,243,243,243,243,1974,West Germany,8.5,Zaire,Brazil,1,0,3,,,Neutral,Good
+244,244,244,244,244,1974,West Germany,8.5,Uruguay,Netherlands,1,0,2,,,Bad,Neutral
+245,245,245,245,245,1974,West Germany,8.5,Sweden,Bulgaria,1,0,0,,,Bad,Bad
+246,246,246,246,246,1974,West Germany,8.5,Netherlands,Sweden,1,0,0,,,Neutral,Bad
+247,247,247,247,247,1974,West Germany,8.5,Uruguay,Bulgaria,1,1,1,,,Bad,Bad
+248,248,248,248,248,1974,West Germany,8.5,Netherlands,Bulgaria,1,4,1,,,Bad,Bad
+249,249,249,249,249,1974,West Germany,8.5,Sweden,Uruguay,1,3,0,,,Bad,Bad
+250,250,250,250,250,1974,West Germany,8.5,Italy,Haiti,1,3,1,,,Good,Neutral
+251,251,251,251,251,1974,West Germany,8.5,Poland,Argentina,1,3,2,,,Neutral,Bad
+252,252,252,252,252,1974,West Germany,8.5,Haiti,Poland,1,0,7,,,Neutral,Neutral
+253,253,253,253,253,1974,West Germany,8.5,Argentina,Italy,1,1,1,,,Bad,Good
+254,254,254,254,254,1974,West Germany,8.5,Argentina,Haiti,1,4,1,,,Bad,Neutral
+255,255,255,255,255,1974,West Germany,8.5,Poland,Italy,1,2,1,,,Neutral,Bad
+256,256,256,256,256,1974,West Germany,8.5,Brazil,East Germany,2,1,0,,,Good,Neutral
+257,257,257,257,257,1974,West Germany,8.5,Netherlands,Argentina,2,4,0,,,Good,Bad
+258,258,258,258,258,1974,West Germany,8.5,East Germany,Netherlands,2,0,2,,,Bad,Good
+259,259,259,259,259,1974,West Germany,8.5,Argentina,Brazil,2,1,2,,,Bad,Good
+260,260,260,260,260,1974,West Germany,8.5,Argentina,East Germany,2,1,1,,,Bad,Bad
+261,261,261,261,261,1974,West Germany,8.5,Netherlands,Brazil,2,2,0,,,Good,Good
+262,262,262,262,262,1974,West Germany,8.5,Yugoslavia,West Germany,2,0,2,,,Bad,Good
+263,263,263,263,263,1974,West Germany,8.5,Sweden,Poland,2,0,1,,,Bad,Good
+264,264,264,264,264,1974,West Germany,8.5,West Germany,Sweden,2,4,2,,,Good,Bad
+265,265,265,265,265,1974,West Germany,8.5,Poland,Yugoslavia,2,2,1,,,Good,Bad
+266,266,266,266,266,1974,West Germany,8.5,Poland,West Germany,2,0,1,,,Good,Good
+267,267,267,267,267,1974,West Germany,8.5,Sweden,Yugoslavia,2,2,1,,,Bad,Bad
+268,268,268,268,268,1974,West Germany,8.5,Brazil,Poland,3,0,1,,,Good,Good
+269,269,269,269,269,1974,West Germany,8.5,Netherlands,West Germany,4,1,2,,,Good,Good
+270,270,270,270,270,1978,Argentina,14.8,Argentina,Hungary,1,2,1,,,Bad,Bad
+271,271,271,271,271,1978,Argentina,14.8,Italy,France,1,2,1,,,Bad,Bad
+272,272,272,272,272,1978,Argentina,14.8,Argentina,France,1,2,1,,,Bad,Bad
+273,273,273,273,273,1978,Argentina,14.8,Italy,Hungary,1,3,1,,,Good,Bad
+274,274,274,274,274,1978,Argentina,14.8,Argentina,Italy,1,0,1,,,Bad,Good
+275,275,275,275,275,1978,Argentina,14.8,France,Hungary,1,3,1,,,Bad,Bad
+276,276,276,276,276,1978,Argentina,14.8,West Germany,Poland,1,0,0,,,Good,Good
+277,277,277,277,277,1978,Argentina,14.8,Tunisia,Mexico,1,3,1,,,Neutral,Bad
+278,278,278,278,278,1978,Argentina,14.8,Poland,Tunisia,1,1,0,,,Good,Neutral
+279,279,279,279,279,1978,Argentina,14.8,West Germany,Mexico,1,6,0,,,Good,Bad
+280,280,280,280,280,1978,Argentina,14.8,Poland,Tunisia,1,3,1,,,Good,Neutral
+281,281,281,281,281,1978,Argentina,14.8,West Germany,Mexico,1,0,0,,,Good,Bad
+282,282,282,282,282,1978,Argentina,14.8,Austria,Spain,1,2,1,,,Bad,Bad
+283,283,283,283,283,1978,Argentina,14.8,Brazil,Sweden,1,1,1,,,Bad,Bad
+284,284,284,284,284,1978,Argentina,14.8,Austria,Sweden,1,1,0,,,Bad,Bad
+285,285,285,285,285,1978,Argentina,14.8,Brazil,Spain,1,0,0,,,Bad,Bad
+286,286,286,286,286,1978,Argentina,14.8,Spain,Sweden,1,1,0,,,Bad,Bad
+287,287,287,287,287,1978,Argentina,14.8,Brazil,Austria,1,1,0,,,Bad,Bad
+288,288,288,288,288,1978,Argentina,14.8,Peru,Scotland,1,3,1,,,Good,Bad
+289,289,289,289,289,1978,Argentina,14.8,Netherlands,Iran,1,3,0,,,Good,Neutral
+290,290,290,290,290,1978,Argentina,14.8,Scotland,Iran,1,1,1,,,Bad,Neutral
+291,291,291,291,291,1978,Argentina,14.8,Netherlands,Peru,1,0,0,,,Good,Bad
+292,292,292,292,292,1978,Argentina,14.8,Peru,Iran,1,4,1,,,Bad,Neutral
+293,293,293,293,293,1978,Argentina,14.8,Scotland,Netherlands,1,3,2,,,Bad,Bad
+294,294,294,294,294,1978,Argentina,14.8,Italy,West Germany,2,0,0,,,Good,Bad
+295,295,295,295,295,1978,Argentina,14.8,Austria,Netherlands,2,1,5,,,Bad,Bad
+296,296,296,296,296,1978,Argentina,14.8,Italy,Austria,2,1,0,,,Good,Bad
+297,297,297,297,297,1978,Argentina,14.8,Netherlands,West Germany,2,2,2,,,Bad,Bad
+298,298,298,298,298,1978,Argentina,14.8,Italy,Netherlands,2,1,2,,,Good,Bad
+299,299,299,299,299,1978,Argentina,14.8,Austria,West Germany,2,3,2,,,Bad,Bad
+300,300,300,300,300,1978,Argentina,14.8,Argentina,Poland,2,2,0,,,Good,Good
+301,301,301,301,301,1978,Argentina,14.8,Peru,Brazil,2,0,3,,,Bad,Bad
+302,302,302,302,302,1978,Argentina,14.8,Argentina,Brazil,2,0,0,,,Good,Bad
+303,303,303,303,303,1978,Argentina,14.8,Peru,Poland,2,0,1,,,Bad,Good
+304,304,304,304,304,1978,Argentina,14.8,Argentina,Peru,2,6,0,,,Good,Bad
+305,305,305,305,305,1978,Argentina,14.8,Poland,Brazil,2,1,3,,,Good,Good
+306,306,306,306,306,1978,Argentina,14.8,Brazil,Italy,3,2,1,,,Good,Bad
+307,307,307,307,307,1978,Argentina,14.8,Netherlands,Argentina,4,1,3,,,Bad,Good
+308,308,308,308,308,1982,Spain,13.3,Italy,Poland,1,0,0,,,Bad,Bad
+309,309,309,309,309,1982,Spain,13.3,Peru,Cameroon,1,0,0,,,Bad,Neutral
+310,310,310,310,310,1982,Spain,13.3,Italy,Peru,1,1,1,,,Bad,Bad
+311,311,311,311,311,1982,Spain,13.3,Poland,Cameroon,1,0,0,,,Bad,Neutral
+312,312,312,312,312,1982,Spain,13.3,Poland,Peru,1,5,1,,,Bad,Bad
+313,313,313,313,313,1982,Spain,13.3,Italy,Cameroon,1,1,1,,,Bad,Neutral
+314,314,314,314,314,1982,Spain,13.3,West Germany,Algeria,1,1,2,,,Bad,Neutral
+315,315,315,315,315,1982,Spain,13.3,Chile,Austria,1,0,1,,,Bad,Bad
+316,316,316,316,316,1982,Spain,13.3,West Germany,Chile,1,4,1,,,Bad,Bad
+317,317,317,317,317,1982,Spain,13.3,Algeria,Chile,1,3,2,,,Neutral,Bad
+318,318,318,318,318,1982,Spain,13.3,West Germany,Austria,1,1,0,,,Bad,Bad
+319,319,319,319,319,1982,Spain,13.3,Argentina,Belgium,1,0,1,,,Good,Bad
+320,320,320,320,320,1982,Spain,13.3,Hungary,El Salvador,1,10,1,,,Bad,Neutral
+321,321,321,321,321,1982,Spain,13.3,Argentina,Hungary,1,4,1,,,Good,Bad
+322,322,322,322,322,1982,Spain,13.3,Belgium,El Salvador,1,1,0,,,Good,Bad
+323,323,323,323,323,1982,Spain,13.3,Belgium,Hungary,1,1,1,,,Bad,Bad
+324,324,324,324,324,1982,Spain,13.3,Argentina,El Salvador,1,2,0,,,Good,Bad
+325,325,325,325,325,1982,Spain,13.3,England,France,1,3,1,,,Good,Bad
+326,326,326,326,326,1982,Spain,13.3,Czechoslovakia,Kuwait,1,1,1,,,Bad,Neutral
+327,327,327,327,327,1982,Spain,13.3,England,Czechoslovakia,1,2,0,,,Good,Bad
+328,328,328,328,328,1982,Spain,13.3,France,Kuwait,1,4,1,,,Bad,Neutral
+329,329,329,329,329,1982,Spain,13.3,France,Czechoslovakia,1,1,1,,,Bad,Bad
+330,330,330,330,330,1982,Spain,13.3,England,Kuwait,1,1,0,,,Good,Neutral
+331,331,331,331,331,1982,Spain,13.3,Spain,Honduras,1,1,1,,,Bad,Neutral
+332,332,332,332,332,1982,Spain,13.3,Yugoslavia,Northern Ireland,1,0,0,,,Bad,Bad
+333,333,333,333,333,1982,Spain,13.3,Spain,Yugoslavia,1,2,1,,,Bad,Bad
+334,334,334,334,334,1982,Spain,13.3,Honduras,Northern Ireland,1,1,1,,,Neutral,Bad
+335,335,335,335,335,1982,Spain,13.3,Honduras,Yugoslavia,1,0,1,,,Neutral,Bad
+336,336,336,336,336,1982,Spain,13.3,Spain,Northern Ireland,1,0,1,,,Bad,Bad
+337,337,337,337,337,1982,Spain,13.3,Brazil,Soviet Union,1,2,1,,,Good,Bad
+338,338,338,338,338,1982,Spain,13.3,Scotland,New Zealand,1,5,2,,,Bad,Neutral
+339,339,339,339,339,1982,Spain,13.3,Brazil,Scotland,1,4,1,,,Good,Bad
+340,340,340,340,340,1982,Spain,13.3,Soviet Union,New Zealand,1,3,0,,,Good,Neutral
+341,341,341,341,341,1982,Spain,13.3,Soviet Union,Scotland,1,2,2,,,Bad,Bad
+342,342,342,342,342,1982,Spain,13.3,Brazil,New Zealand,1,4,0,,,Good,Neutral
+343,343,343,343,343,1982,Spain,13.3,Poland,Belgium,2,3,0,,,Bad,Bad
+344,344,344,344,344,1982,Spain,13.3,Belgium,Soviet Union,2,0,1,,,Bad,Bad
+345,345,345,345,345,1982,Spain,13.3,Soviet Union,Poland,2,0,0,,,Bad,Bad
+346,346,346,346,346,1982,Spain,13.3,West Germany,England,2,0,0,,,Bad,Good
+347,347,347,347,347,1982,Spain,13.3,West Germany,Spain,2,2,1,,,Good,Bad
+348,348,348,348,348,1982,Spain,13.3,Spain,England,2,0,0,,,Bad,Good
+349,349,349,349,349,1982,Spain,13.3,Italy,Argentina,2,2,1,,,Bad,Good
+350,350,350,350,350,1982,Spain,13.3,Argentina,Brazil,2,1,3,,,Bad,Good
+351,351,351,351,351,1982,Spain,13.3,Italy,Brazil,2,3,2,,,Bad,Good
+352,352,352,352,352,1982,Spain,13.3,Austria,France,2,0,1,,,Bad,Good
+353,353,353,353,353,1982,Spain,13.3,Austria,Northern Ireland,2,2,2,,,Bad,Bad
+354,354,354,354,354,1982,Spain,13.3,Northern Ireland,France,2,1,4,,,Bad,Good
+355,355,355,355,355,1982,Spain,13.3,Poland,Italy,3,0,2,,,Bad,Good
+356,356,356,356,356,1982,Spain,13.3,West Germany,France,3,1,1,,,Good,Good
+357,357,357,357,357,1982,Spain,13.3,Poland,France,4,3,2,,,Good,Bad
+358,358,358,358,358,1982,Spain,13.3,Italy,West Germany,5,3,1,,,Good,Bad
+359,359,359,359,359,1986,Mexico,21.0,Bulgaria,Italy,1,1,1,,,Bad,Good
+360,360,360,360,360,1986,Mexico,21.0,Argentina,South Korea,1,3,1,,,Good,Neutral
+361,361,361,361,361,1986,Mexico,21.0,Italy,Argentina,1,1,1,,,Good,Bad
+362,362,362,362,362,1986,Mexico,21.0,South Korea,Bulgaria,1,1,1,,,Neutral,Bad
+363,363,363,363,363,1986,Mexico,21.0,South Korea,Italy,1,2,3,,,Bad,Good
+364,364,364,364,364,1986,Mexico,21.0,Argentina,Bulgaria,1,2,0,,,Bad,Bad
+365,365,365,365,365,1986,Mexico,21.0,Belgium,Mexico,1,1,2,,,Bad,Bad
+366,366,366,366,366,1986,Mexico,21.0,Paraguay,Iraq,1,1,0,,,Bad,Neutral
+367,367,367,367,367,1986,Mexico,21.0,Mexico,Paraguay,1,1,1,,,Bad,Bad
+368,368,368,368,368,1986,Mexico,21.0,Iraq,Belgium,1,1,2,,,Neutral,Bad
+369,369,369,369,369,1986,Mexico,21.0,Iraq,Mexico,1,0,1,,,Neutral,Bad
+370,370,370,370,370,1986,Mexico,21.0,Paraguay,Belgium,1,2,2,,,Bad,Bad
+371,371,371,371,371,1986,Mexico,21.0,Canada,France,1,0,1,,,Neutral,Good
+372,372,372,372,372,1986,Mexico,21.0,Soviet Union,Hungary,1,6,0,,,Good,Bad
+373,373,373,373,373,1986,Mexico,21.0,France,Soviet Union,1,1,1,,,Bad,Bad
+374,374,374,374,374,1986,Mexico,21.0,Hungary,Canada,1,2,0,,,Bad,Neutral
+375,375,375,375,375,1986,Mexico,21.0,Hungary,France,1,0,3,,,Bad,Bad
+376,376,376,376,376,1986,Mexico,21.0,Soviet Union,Canada,1,2,0,,,Good,Neutral
+377,377,377,377,377,1986,Mexico,21.0,Spain,Brazil,1,0,1,,,Bad,Good
+378,378,378,378,378,1986,Mexico,21.0,Algeria,Northern Ireland,1,1,1,,,Neutral,Bad
+379,379,379,379,379,1986,Mexico,21.0,Brazil,Algeria,1,1,0,,,Good,Neutral
+380,380,380,380,380,1986,Mexico,21.0,Northern Ireland,Spain,1,1,2,,,Bad,Bad
+381,381,381,381,381,1986,Mexico,21.0,Northern Ireland,Brazil,1,0,3,,,Bad,Good
+382,382,382,382,382,1986,Mexico,21.0,Algeria,Spain,1,0,3,,,Bad,Bad
+383,383,383,383,383,1986,Mexico,21.0,Uruguay,West Germany,1,1,1,,,Bad,Bad
+384,384,384,384,384,1986,Mexico,21.0,Scotland,Denmark,1,0,1,,,Bad,Neutral
+385,385,385,385,385,1986,Mexico,21.0,West Germany,Scotland,1,2,1,,,Bad,Bad
+386,386,386,386,386,1986,Mexico,21.0,Denmark,Uruguay,1,6,1,,,Neutral,Bad
+387,387,387,387,387,1986,Mexico,21.0,Denmark,West Germany,1,2,0,,,Neutral,Bad
+388,388,388,388,388,1986,Mexico,21.0,Scotland,Uruguay,1,0,0,,,Bad,Bad
+389,389,389,389,389,1986,Mexico,21.0,Morocco,Poland,1,0,0,,,Neutral,Bad
+390,390,390,390,390,1986,Mexico,21.0,Portugal,England,1,1,0,,,Good,Bad
+391,391,391,391,391,1986,Mexico,21.0,England,Morocco,1,0,0,,,Bad,Bad
+392,392,392,392,392,1986,Mexico,21.0,Poland,Portugal,1,1,0,,,Bad,Good
+393,393,393,393,393,1986,Mexico,21.0,Portugal,Morocco,1,1,3,,,Bad,Bad
+394,394,394,394,394,1986,Mexico,21.0,England,Poland,1,3,0,,,Bad,Bad
+395,395,395,395,395,1986,Mexico,21.0,Mexico,Bulgaria,2,2,0,,,Good,Bad
+396,396,396,396,396,1986,Mexico,21.0,Soviet Union,Belgium,2,2,2,,,Bad,Bad
+397,397,397,397,397,1986,Mexico,21.0,Argentina,Uruguay,2,1,0,,,Good,Bad
+398,398,398,398,398,1986,Mexico,21.0,Brazil,Poland,2,4,0,,,Good,Bad
+399,399,399,399,399,1986,Mexico,21.0,Italy,France,2,0,2,,,Bad,Good
+400,400,400,400,400,1986,Mexico,21.0,Morocco,West Germany,2,0,1,,,Bad,Bad
+401,401,401,401,401,1986,Mexico,21.0,England,Paraguay,2,3,0,,,Bad,Bad
+402,402,402,402,402,1986,Mexico,21.0,Denmark,Spain,2,1,5,,,Neutral,Good
+403,403,403,403,403,1986,Mexico,21.0,Brazil,France,3,1,1,,,Good,Good
+404,404,404,404,404,1986,Mexico,21.0,West Germany,Mexico,3,0,0,,,Bad,Good
+405,405,405,405,405,1986,Mexico,21.0,Spain,Belgium,3,1,1,,,Good,Bad
+406,406,406,406,406,1986,Mexico,21.0,Argentina,England,3,2,1,,,Good,Bad
+407,407,407,407,407,1986,Mexico,21.0,Argentina,Belgium,4,2,0,,,Good,Bad
+408,408,408,408,408,1986,Mexico,21.0,France,West Germany,4,0,2,,,Bad,Good
+409,409,409,409,409,1986,Mexico,21.0,France,Belgium,5,2,2,,,Bad,Bad
+410,410,410,410,410,1986,Mexico,21.0,Argentina,West Germany,6,3,2,,,Good,Bad
+411,411,411,411,411,1990,Italy,13.35,Italy,Austria,1,1,0,,,Bad,Bad
+412,412,412,412,412,1990,Italy,13.35,United States,Czechoslovakia,1,1,5,,,Bad,Bad
+413,413,413,413,413,1990,Italy,13.35,Italy,United States,1,1,0,,,Good,Bad
+414,414,414,414,414,1990,Italy,13.35,Austria,Czechoslovakia,1,0,1,,,Bad,Bad
+415,415,415,415,415,1990,Italy,13.35,Italy,Czechoslovakia,1,2,0,,,Good,Bad
+416,416,416,416,416,1990,Italy,13.35,Austria,United States,1,2,1,,,Bad,Bad
+417,417,417,417,417,1990,Italy,13.35,Argentina,Cameroon,1,0,1,,,Good,Neutral
+418,418,418,418,418,1990,Italy,13.35,Soviet Union,Romania,1,0,2,,,Bad,Bad
+419,419,419,419,419,1990,Italy,13.35,Argentina,Soviet Union,1,2,0,,,Good,Bad
+420,420,420,420,420,1990,Italy,13.35,Cameroon,Romania,1,2,1,,,Bad,Bad
+421,421,421,421,421,1990,Italy,13.35,Argentina,Romania,1,1,1,,,Good,Bad
+422,422,422,422,422,1990,Italy,13.35,Cameroon,Soviet Union,1,0,4,,,Bad,Bad
+423,423,423,423,423,1990,Italy,13.35,Brazil,Sweden,1,2,1,,,Good,Bad
+424,424,424,424,424,1990,Italy,13.35,Costa Rica,Scotland,1,1,0,,,Neutral,Bad
+425,425,425,425,425,1990,Italy,13.35,Brazil,Costa Rica,1,1,0,,,Good,Neutral
+426,426,426,426,426,1990,Italy,13.35,Sweden,Scotland,1,1,2,,,Bad,Bad
+427,427,427,427,427,1990,Italy,13.35,Brazil,Scotland,1,1,0,,,Good,Bad
+428,428,428,428,428,1990,Italy,13.35,Sweden,Costa Rica,1,1,2,,,Bad,Neutral
+429,429,429,429,429,1990,Italy,13.35,United Arab Emirates,Colombia,1,0,2,,,Neutral,Neutral
+430,430,430,430,430,1990,Italy,13.35,West Germany,Yugoslavia,1,4,1,,,Good,Bad
+431,431,431,431,431,1990,Italy,13.35,Yugoslavia,Colombia,1,1,0,,,Bad,Bad
+432,432,432,432,432,1990,Italy,13.35,West Germany,United Arab Emirates,1,5,1,,,Good,Neutral
+433,433,433,433,433,1990,Italy,13.35,West Germany,Colombia,1,1,1,,,Good,Bad
+434,434,434,434,434,1990,Italy,13.35,Yugoslavia,United Arab Emirates,1,4,1,,,Good,Neutral
+435,435,435,435,435,1990,Italy,13.35,Belgium,South Korea,1,2,0,,,Bad,Bad
+436,436,436,436,436,1990,Italy,13.35,Uruguay,Spain,1,0,0,,,Bad,Good
+437,437,437,437,437,1990,Italy,13.35,Belgium,Uruguay,1,3,1,,,Bad,Bad
+438,438,438,438,438,1990,Italy,13.35,South Korea,Spain,1,1,3,,,Bad,Good
+439,439,439,439,439,1990,Italy,13.35,Belgium,Spain,1,1,2,,,Bad,Good
+440,440,440,440,440,1990,Italy,13.35,South Korea,Uruguay,1,0,1,,,Bad,Bad
+441,441,441,441,441,1990,Italy,13.35,England,Ireland,1,1,1,,,Bad,Neutral
+442,442,442,442,442,1990,Italy,13.35,Netherlands,Egypt,1,1,1,,,Bad,Neutral
+443,443,443,443,443,1990,Italy,13.35,England,Netherlands,1,0,0,,,Bad,Bad
+444,444,444,444,444,1990,Italy,13.35,Ireland,Egypt,1,0,0,,,Neutral,Neutral
+445,445,445,445,445,1990,Italy,13.35,England,Egypt,1,1,0,,,Bad,Neutral
+446,446,446,446,446,1990,Italy,13.35,Ireland,Netherlands,1,1,1,,,Neutral,Bad
+447,447,447,447,447,1990,Italy,13.35,Cameroon,Colombia,2,0,0,,,Bad,Bad
+448,448,448,448,448,1990,Italy,13.35,Czechoslovakia,Costa Rica,2,4,1,,,Good,Neutral
+449,449,449,449,449,1990,Italy,13.35,Brazil,Argentina,2,0,1,,,Good,Good
+450,450,450,450,450,1990,Italy,13.35,West Germany,Netherlands,2,2,1,,,Good,Bad
+451,451,451,451,451,1990,Italy,13.35,Ireland,Romania,2,0,0,,,Neutral,Bad
+452,452,452,452,452,1990,Italy,13.35,Italy,Uruguay,2,2,0,,,Good,Bad
+453,453,453,453,453,1990,Italy,13.35,Spain,Yugoslavia,2,1,1,,,Bad,Good
+454,454,454,454,454,1990,Italy,13.35,England,Cameroon,2,0,0,,,Bad,Bad
+455,455,455,455,455,1990,Italy,13.35,Yugoslavia,Argentina,3,0,0,,,Bad,Bad
+456,456,456,456,456,1990,Italy,13.35,Italy,Ireland,3,1,0,,,Good,Bad
+457,457,457,457,457,1990,Italy,13.35,West Germany,Czechoslovakia,3,1,0,,,Good,Good
+458,458,458,458,458,1990,Italy,13.35,England,Cameroon,3,2,2,,,Bad,Bad
+459,459,459,459,459,1990,Italy,13.35,Italy,Argentina,4,1,1,,,Good,Bad
+460,460,460,460,460,1990,Italy,13.35,West Germany,England,4,1,1,,,Good,Bad
+461,461,461,461,461,1990,Italy,13.35,Italy,England,5,2,1,,,Good,Bad
+462,462,462,462,462,1990,Italy,13.35,West Germany,Argentina,6,1,0,,,Good,Bad
+463,463,463,463,463,1994,United States,8.55,United States,Switzerland,1,1,1,,,Bad,Bad
+464,464,464,464,464,1994,United States,8.55,Colombia,Romania,1,1,3,,,Bad,Bad
+465,465,465,465,465,1994,United States,8.55,Romania,Switzerland,1,1,4,,,Bad,Bad
+466,466,466,466,466,1994,United States,8.55,United States,Colombia,1,2,1,,,Bad,Bad
+467,467,467,467,467,1994,United States,8.55,United States,Colombia,1,0,1,,,Bad,Bad
+468,468,468,468,468,1994,United States,8.55,Switzerland,Colombia,1,0,2,,,Bad,Bad
+469,469,469,469,469,1994,United States,8.55,Cameroon,Sweden,1,2,2,,,Bad,Bad
+470,470,470,470,470,1994,United States,8.55,Brazil,Russia,1,2,0,,,Good,Neutral
+471,471,471,471,471,1994,United States,8.55,Brazil,Cameroon,1,3,0,,,Good,Bad
+472,472,472,472,472,1994,United States,8.55,Sweden,Russia,1,3,1,,,Bad,Neutral
+473,473,473,473,473,1994,United States,8.55,Russia,Cameroon,1,6,1,,,Neutral,Bad
+474,474,474,474,474,1994,United States,8.55,Brazil,Sweden,1,1,1,,,Good,Bad
+475,475,475,475,475,1994,United States,8.55,Germany,Bolivia,1,1,0,,,Bad,Neutral
+476,476,476,476,476,1994,United States,8.55,Spain,South Korea,1,2,2,,,Bad,Bad
+477,477,477,477,477,1994,United States,8.55,Germany,Spain,1,1,1,,,Bad,Bad
+478,478,478,478,478,1994,United States,8.55,South Korea,Bolivia,1,0,0,,,Bad,Bad
+479,479,479,479,479,1994,United States,8.55,Bolivia,Spain,1,1,3,,,Bad,Bad
+480,480,480,480,480,1994,United States,8.55,Germany,South Korea,1,3,2,,,Bad,Bad
+481,481,481,481,481,1994,United States,8.55,Argentina,Greece,1,4,0,,,Bad,Neutral
+482,482,482,482,482,1994,United States,8.55,Nigeria,Bulgaria,1,3,0,,,Neutral,Bad
+483,483,483,483,483,1994,United States,8.55,Argentina,Nigeria,1,2,1,,,Bad,Neutral
+484,484,484,484,484,1994,United States,8.55,Greece,Bulgaria,1,0,4,,,Neutral,Bad
+485,485,485,485,485,1994,United States,8.55,Greece,Nigeria,1,0,2,,,Neutral,Neutral
+486,486,486,486,486,1994,United States,8.55,Argentina,Bulgaria,1,0,2,,,Bad,Bad
+487,487,487,487,487,1994,United States,8.55,Italy,Ireland,1,0,1,,,Good,Bad
+488,488,488,488,488,1994,United States,8.55,Norway,Mexico,1,1,0,,,Neutral,Bad
+489,489,489,489,489,1994,United States,8.55,Italy,Norway,1,1,0,,,Good,Neutral
+490,490,490,490,490,1994,United States,8.55,Mexico,Ireland,1,3,2,,,Good,Bad
+491,491,491,491,491,1994,United States,8.55,Ireland,Norway,1,0,0,,,Bad,Neutral
+492,492,492,492,492,1994,United States,8.55,Italy,Mexico,1,1,1,,,Bad,Bad
+493,493,493,493,493,1994,United States,8.55,Belgium,Morocco,1,1,0,,,Good,Bad
+494,494,494,494,494,1994,United States,8.55,Netherlands,Saudi Arabia,1,2,1,,,Bad,Neutral
+495,495,495,495,495,1994,United States,8.55,Belgium,Netherlands,1,1,0,,,Good,Bad
+496,496,496,496,496,1994,United States,8.55,Saudi Arabia,Morocco,1,2,1,,,Neutral,Bad
+497,497,497,497,497,1994,United States,8.55,Morocco,Netherlands,1,1,2,,,Bad,Bad
+498,498,498,498,498,1994,United States,8.55,Belgium,Saudi Arabia,1,0,1,,,Good,Neutral
+499,499,499,499,499,1994,United States,8.55,Germany,Belgium,2,3,2,,,Good,Bad
+500,500,500,500,500,1994,United States,8.55,Spain,Switzerland,2,3,0,,,Bad,Bad
+501,501,501,501,501,1994,United States,8.55,Saudi Arabia,Sweden,2,1,3,,,Neutral,Bad
+502,502,502,502,502,1994,United States,8.55,Romania,Argentina,2,3,2,,,Bad,Bad
+503,503,503,503,503,1994,United States,8.55,Netherlands,Ireland,2,2,0,,,Good,Bad
+504,504,504,504,504,1994,United States,8.55,Brazil,United States,2,1,0,,,Good,Bad
+505,505,505,505,505,1994,United States,8.55,Nigeria,Italy,2,1,1,,,Neutral,Bad
+506,506,506,506,506,1994,United States,8.55,Mexico,Bulgaria,2,1,1,,,Bad,Bad
+507,507,507,507,507,1994,United States,8.55,Italy,Spain,3,2,1,,,Bad,Bad
+508,508,508,508,508,1994,United States,8.55,Netherlands,Brazil,3,2,3,,,Good,Good
+509,509,509,509,509,1994,United States,8.55,Bulgaria,Germany,3,2,1,,,Good,Good
+510,510,510,510,510,1994,United States,8.55,Romania,Sweden,3,1,1,,,Bad,Bad
+511,511,511,511,511,1994,United States,8.55,Bulgaria,Italy,4,1,2,,,Good,Good
+512,512,512,512,512,1994,United States,8.55,Sweden,Brazil,4,0,1,,,Bad,Good
+513,513,513,513,513,1994,United States,8.55,Sweden,Bulgaria,5,4,0,,,Bad,Bad
+514,514,514,514,514,1994,United States,8.55,Brazil,Italy,6,0,0,,,Good,Bad
+515,515,515,515,515,1998,France,10.7,Brazil,Scotland,1,2,1,,,Good,Bad
+516,516,516,516,516,1998,France,10.7,Morocco,Norway,1,2,2,,,Bad,Bad
+517,517,517,517,517,1998,France,10.7,Scotland,Norway,1,1,1,,,Bad,Bad
+518,518,518,518,518,1998,France,10.7,Brazil,Morocco,1,3,0,,,Good,Bad
+519,519,519,519,519,1998,France,10.7,Scotland,Morocco,1,0,3,,,Bad,Bad
+520,520,520,520,520,1998,France,10.7,Brazil,Norway,1,1,2,,,Good,Bad
+521,521,521,521,521,1998,France,10.7,Cameroon,Austria,1,1,1,,,Bad,Bad
+522,522,522,522,522,1998,France,10.7,Italy,Chile,1,2,2,,,Bad,Bad
+523,523,523,523,523,1998,France,10.7,Chile,Austria,1,1,1,,,Bad,Bad
+524,524,524,524,524,1998,France,10.7,Italy,Cameroon,1,3,0,,,Good,Bad
+525,525,525,525,525,1998,France,10.7,Italy,Austria,1,2,1,,,Good,Bad
+526,526,526,526,526,1998,France,10.7,Chile,Cameroon,1,1,1,,,Bad,Bad
+527,527,527,527,527,1998,France,10.7,Saudi Arabia,Denmark,1,0,1,,,Bad,Good
+528,528,528,528,528,1998,France,10.7,France,South Africa,1,3,0,,,Bad,Neutral
+529,529,529,529,529,1998,France,10.7,France,Saudi Arabia,1,4,0,,,Bad,Bad
+530,530,530,530,530,1998,France,10.7,South Africa,Denmark,1,1,1,,,Neutral,Good
+531,531,531,531,531,1998,France,10.7,France,Denmark,1,2,1,,,Good,Bad
+532,532,532,532,532,1998,France,10.7,South Africa,Saudi Arabia,1,2,2,,,Neutral,Bad
+533,533,533,533,533,1998,France,10.7,Paraguay,Bulgaria,1,0,0,,,Bad,Bad
+534,534,534,534,534,1998,France,10.7,Spain,Nigeria,1,2,3,,,Bad,Good
+535,535,535,535,535,1998,France,10.7,Nigeria,Bulgaria,1,1,0,,,Good,Bad
+536,536,536,536,536,1998,France,10.7,Spain,Paraguay,1,0,0,,,Bad,Bad
+537,537,537,537,537,1998,France,10.7,Spain,Bulgaria,1,6,1,,,Bad,Bad
+538,538,538,538,538,1998,France,10.7,Nigeria,Paraguay,1,1,3,,,Good,Bad
+539,539,539,539,539,1998,France,10.7,Netherlands,Belgium,1,0,0,,,Bad,Bad
+540,540,540,540,540,1998,France,10.7,South Korea,Mexico,1,1,3,,,Bad,Bad
+541,541,541,541,541,1998,France,10.7,Netherlands,South Korea,1,5,0,,,Good,Bad
+542,542,542,542,542,1998,France,10.7,Belgium,Mexico,1,2,2,,,Bad,Bad
+543,543,543,543,543,1998,France,10.7,Belgium,South Korea,1,1,1,,,Bad,Bad
+544,544,544,544,544,1998,France,10.7,Netherlands,Mexico,1,2,2,,,Bad,Bad
+545,545,545,545,545,1998,France,10.7,Yugoslavia,Iran,1,1,0,,,Good,Neutral
+546,546,546,546,546,1998,France,10.7,Germany,United States,1,2,0,,,Good,Bad
+547,547,547,547,547,1998,France,10.7,Germany,Yugoslavia,1,2,2,,,Good,Bad
+548,548,548,548,548,1998,France,10.7,United States,Iran,1,1,2,,,Bad,Bad
+549,549,549,549,549,1998,France,10.7,Germany,Iran,1,2,0,,,Good,Bad
+550,550,550,550,550,1998,France,10.7,United States,Yugoslavia,1,0,1,,,Bad,Bad
+551,551,551,551,551,1998,France,10.7,Romania,Colombia,1,1,0,,,Good,Bad
+552,552,552,552,552,1998,France,10.7,England,Tunisia,1,2,0,,,Bad,Neutral
+553,553,553,553,553,1998,France,10.7,Colombia,Tunisia,1,1,0,,,Good,Bad
+554,554,554,554,554,1998,France,10.7,Romania,England,1,2,1,,,Good,Bad
+555,555,555,555,555,1998,France,10.7,Romania,Tunisia,1,1,1,,,Good,Bad
+556,556,556,556,556,1998,France,10.7,Colombia,England,1,0,2,,,Good,Bad
+557,557,557,557,557,1998,France,10.7,Jamaica,Croatia,1,1,3,,,Neutral,Neutral
+558,558,558,558,558,1998,France,10.7,Argentina,Japan,1,1,0,,,Good,Neutral
+559,559,559,559,559,1998,France,10.7,Japan,Croatia,1,0,1,,,Neutral,Neutral
+560,560,560,560,560,1998,France,10.7,Argentina,Jamaica,1,5,0,,,Good,Neutral
+561,561,561,561,561,1998,France,10.7,Japan,Jamaica,1,1,2,,,Neutral,Neutral
+562,562,562,562,562,1998,France,10.7,Argentina,Croatia,1,1,0,,,Good,Neutral
+563,563,563,563,563,1998,France,10.7,Brazil,Chile,2,4,1,,,Good,Bad
+564,564,564,564,564,1998,France,10.7,Italy,Norway,2,1,0,,,Good,Bad
+565,565,565,565,565,1998,France,10.7,Nigeria,Denmark,2,1,4,,,Bad,Bad
+566,566,566,566,566,1998,France,10.7,France,Paraguay,2,0,0,,,Good,Bad
+567,567,567,567,567,1998,France,10.7,Germany,Mexico,2,2,1,,,Good,Bad
+568,568,568,568,568,1998,France,10.7,Netherlands,Yugoslavia,2,2,1,,,Bad,Bad
+569,569,569,569,569,1998,France,10.7,Argentina,England,2,2,2,,,Good,Bad
+570,570,570,570,570,1998,France,10.7,Romania,Croatia,2,0,1,,,Bad,Neutral
+571,571,571,571,571,1998,France,10.7,Italy,France,3,0,0,,,Good,Good
+572,572,572,572,572,1998,France,10.7,Brazil,Denmark,3,3,2,,,Good,Bad
+573,573,573,573,573,1998,France,10.7,Germany,Croatia,3,0,3,,,Good,Good
+574,574,574,574,574,1998,France,10.7,Netherlands,Argentina,3,2,1,,,Good,Good
+575,575,575,575,575,1998,France,10.7,Brazil,Netherlands,4,1,1,,,Good,Good
+576,576,576,576,576,1998,France,10.7,France,Croatia,4,2,1,,,Good,Good
+577,577,577,577,577,1998,France,10.7,Netherlands,Croatia,5,1,2,,,Bad,Good
+578,578,578,578,578,1998,France,10.7,Brazil,France,6,0,3,,,Bad,Good
+579,579,579,579,579,2002,South Korea and Japan,11.15,France,Senegal,1,0,1,,,Bad,Neutral
+580,580,580,580,580,2002,South Korea and Japan,11.15,Uruguay,Denmark,1,1,2,,,Bad,Bad
+581,581,581,581,581,2002,South Korea and Japan,11.15,France,Uruguay,1,0,0,,,Bad,Bad
+582,582,582,582,582,2002,South Korea and Japan,11.15,Denmark,Senegal,1,1,1,,,Bad,Neutral
+583,583,583,583,583,2002,South Korea and Japan,11.15,Denmark,France,1,2,0,,,Good,Bad
+584,584,584,584,584,2002,South Korea and Japan,11.15,Senegal,Uruguay,1,3,3,,,Neutral,Bad
+585,585,585,585,585,2002,South Korea and Japan,11.15,Paraguay,South Africa,1,2,2,,,Bad,Neutral
+586,586,586,586,586,2002,South Korea and Japan,11.15,Spain,Slovenia,1,3,1,,,Bad,Neutral
+587,587,587,587,587,2002,South Korea and Japan,11.15,Spain,Paraguay,1,3,1,,,Good,Bad
+588,588,588,588,588,2002,South Korea and Japan,11.15,South Africa,Slovenia,1,1,0,,,Bad,Neutral
+589,589,589,589,589,2002,South Korea and Japan,11.15,South Africa,Spain,1,2,3,,,Bad,Good
+590,590,590,590,590,2002,South Korea and Japan,11.15,Slovenia,Paraguay,1,1,3,,,Neutral,Bad
+591,591,591,591,591,2002,South Korea and Japan,11.15,Brazil,Turkey,1,2,1,,,Good,Neutral
+592,592,592,592,592,2002,South Korea and Japan,11.15,China,Costa Rica,1,0,2,,,Neutral,Good
+593,593,593,593,593,2002,South Korea and Japan,11.15,Brazil,China,1,4,0,,,Good,Neutral
+594,594,594,594,594,2002,South Korea and Japan,11.15,Costa Rica,Turkey,1,1,1,,,Bad,Bad
+595,595,595,595,595,2002,South Korea and Japan,11.15,Costa Rica,Brazil,1,2,5,,,Bad,Good
+596,596,596,596,596,2002,South Korea and Japan,11.15,Turkey,China,1,3,0,,,Bad,Neutral
+597,597,597,597,597,2002,South Korea and Japan,11.15,South Korea,Poland,1,2,0,,,Bad,Bad
+598,598,598,598,598,2002,South Korea and Japan,11.15,United States,Portugal,1,3,2,,,Bad,Bad
+599,599,599,599,599,2002,South Korea and Japan,11.15,South Korea,United States,1,1,1,,,Bad,Bad
+600,600,600,600,600,2002,South Korea and Japan,11.15,Portugal,Poland,1,4,0,,,Bad,Bad
+601,601,601,601,601,2002,South Korea and Japan,11.15,Portugal,South Korea,1,0,1,,,Bad,Bad
+602,602,602,602,602,2002,South Korea and Japan,11.15,Poland,United States,1,3,1,,,Bad,Bad
+603,603,603,603,603,2002,South Korea and Japan,11.15,Ireland,Germany,1,1,1,,,Bad,Bad
+604,604,604,604,604,2002,South Korea and Japan,11.15,Germany,Saudi Arabia,1,8,0,,,Good,Bad
+605,605,605,605,605,2002,South Korea and Japan,11.15,Germany,Ireland,1,1,1,,,Bad,Bad
+606,606,606,606,606,2002,South Korea and Japan,11.15,Cameroon,Cameroon,1,0,2,,,Bad,Bad
+607,607,607,607,607,2002,South Korea and Japan,11.15,Saudi Arabia,Ireland,1,0,3,,,Bad,Bad
+608,608,608,608,608,2002,South Korea and Japan,11.15,England,Sweden,1,1,1,,,Bad,Bad
+609,609,609,609,609,2002,South Korea and Japan,11.15,Argentina,Nigeria,1,1,0,,,Good,Bad
+610,610,610,610,610,2002,South Korea and Japan,11.15,Sweden,Nigeria,1,2,1,,,Bad,Bad
+611,611,611,611,611,2002,South Korea and Japan,11.15,Argentina,England,1,0,1,,,Bad,Bad
+612,612,612,612,612,2002,South Korea and Japan,11.15,Sweden,Argentina,1,1,1,,,Bad,Bad
+613,613,613,613,613,2002,South Korea and Japan,11.15,Nigeria,England,1,0,0,,,Bad,Bad
+614,614,614,614,614,2002,South Korea and Japan,11.15,Croatia,Mexico,1,0,1,,,Good,Bad
+615,615,615,615,615,2002,South Korea and Japan,11.15,Italy,Ecuador,1,0,1,,,Good,Neutral
+616,616,616,616,616,2002,South Korea and Japan,11.15,Italy,Ecuador,1,2,0,,,Good,Neutral
+617,617,617,617,617,2002,South Korea and Japan,11.15,Italy,Croatia,1,1,2,,,Bad,Good
+618,618,618,618,618,2002,South Korea and Japan,11.15,Mexico,Ecuador,1,2,1,,,Bad,Neutral
+619,619,619,619,619,2002,South Korea and Japan,11.15,Mexico,Italy,1,1,1,,,Bad,Bad
+620,620,620,620,620,2002,South Korea and Japan,11.15,Ecuador,Croatia,1,1,0,,,Neutral,Bad
+621,621,621,621,621,2002,South Korea and Japan,11.15,Japan,Belgium,1,2,2,,,Neutral,Bad
+622,622,622,622,622,2002,South Korea and Japan,11.15,Russia,Tunisia,1,2,0,,,Neutral,Bad
+623,623,623,623,623,2002,South Korea and Japan,11.15,Japan,Russia,1,1,0,,,Bad,Bad
+624,624,624,624,624,2002,South Korea and Japan,11.15,Tunisia,Belgium,1,1,1,,,Bad,Bad
+625,625,625,625,625,2002,South Korea and Japan,11.15,Tunisia,Japan,1,0,2,,,Bad,Bad
+626,626,626,626,626,2002,South Korea and Japan,11.15,Belgium,Russia,1,3,2,,,Bad,Bad
+627,627,627,627,627,2002,South Korea and Japan,11.15,Germany,Paraguay,2,1,0,,,Bad,Bad
+628,628,628,628,628,2002,South Korea and Japan,11.15,Denmark,England,2,0,3,,,Bad,Bad
+629,629,629,629,629,2002,South Korea and Japan,11.15,Sweden,Senegal,2,1,1,,,Bad,Neutral
+630,630,630,630,630,2002,South Korea and Japan,11.15,Spain,Ireland,2,1,1,,,Good,Bad
+631,631,631,631,631,2002,South Korea and Japan,11.15,Mexico,United States,2,0,2,,,Bad,Bad
+632,632,632,632,632,2002,South Korea and Japan,11.15,Brazil,Belgium,2,2,0,,,Good,Bad
+633,633,633,633,633,2002,South Korea and Japan,11.15,Japan,Turkey,2,0,1,,,Bad,Bad
+634,634,634,634,634,2002,South Korea and Japan,11.15,South Korea,Italy,2,1,1,,,Bad,Bad
+635,635,635,635,635,2002,South Korea and Japan,11.15,England,Brazil,3,1,2,,,Bad,Good
+636,636,636,636,636,2002,South Korea and Japan,11.15,Germany,United States,3,1,0,,,Good,Bad
+637,637,637,637,637,2002,South Korea and Japan,11.15,Spain,South Korea,3,0,0,,,Good,Bad
+638,638,638,638,638,2002,South Korea and Japan,11.15,Senegal,Turkey,3,0,0,,,Bad,Bad
+639,639,639,639,639,2002,South Korea and Japan,11.15,Germany,South Korea,4,1,2,,,Good,Bad
+640,640,640,640,640,2002,South Korea and Japan,11.15,Brazil,Turkey,4,1,0,,,Good,Bad
+641,641,641,641,641,2002,South Korea and Japan,11.15,South Korea,Turkey,5,0,0,,,Bad,Bad
+642,642,642,642,642,2002,South Korea and Japan,11.15,Germany,Brazil,6,0,0,,,Bad,Good
+643,643,643,643,643,2006,Germany,8.5,Germany,Costa Rica,1,4,2,,,Good,Bad
+644,644,644,644,644,2006,Germany,8.5,Poland,Ecuador,1,0,2,,,Bad,Good
+645,645,645,645,645,2006,Germany,8.5,Germany,Poland,1,1,0,,,Good,Bad
+646,646,646,646,646,2006,Germany,8.5,Ecuador,Costa Rica,1,3,0,,,Good,Bad
+647,647,647,647,647,2006,Germany,8.5,Ecuador,Germany,1,0,3,,,Good,Good
+648,648,648,648,648,2006,Germany,8.5,Costa Rica,Poland,1,1,2,,,Bad,Bad
+649,649,649,649,649,2006,Germany,8.5,England,Paraguay,1,1,0,,,Good,Bad
+650,650,650,650,650,2006,Germany,8.5,Trinidad and Tobago,Sweden,1,0,0,,,Neutral,Bad
+651,651,651,651,651,2006,Germany,8.5,England,Trinidad and Tobago,1,2,0,,,Good,Neutral
+652,652,652,652,652,2006,Germany,8.5,Sweden,Paraguay,1,1,0,,,Bad,Bad
+653,653,653,653,653,2006,Germany,8.5,Sweden,England,1,2,2,,,Bad,Good
+654,654,654,654,654,2006,Germany,8.5,Paraguay,Trinidad and Tobago,1,2,0,,,Bad,Neutral
+655,655,655,655,655,2006,Germany,8.5,Argentina,Cote d'Ivoire,1,2,1,,,Bad,Neutral
+656,656,656,656,656,2006,Germany,8.5,Serbia,Netherlands,1,0,1,,,Neutral,Good
+657,657,657,657,657,2006,Germany,8.5,Argentina,Serbia,1,6,0,,,Good,Neutral
+658,658,658,658,658,2006,Germany,8.5,Netherlands,Cote d'Ivoire,1,2,1,,,Good,Neutral
+659,659,659,659,659,2006,Germany,8.5,Netherlands,Argentina,1,0,0,,,Bad,Bad
+660,660,660,660,660,2006,Germany,8.5,Cote d'Ivoire,Serbia,1,3,2,,,Neutral,Neutral
+661,661,661,661,661,2006,Germany,8.5,Mexico,Iran,1,3,1,,,Good,Bad
+662,662,662,662,662,2006,Germany,8.5,Angola,Portugal,1,0,1,,,Neutral,Bad
+663,663,663,663,663,2006,Germany,8.5,Mexico,Angola,1,0,0,,,Bad,Neutral
+664,664,664,664,664,2006,Germany,8.5,Portugal,Iran,1,2,0,,,Good,Bad
+665,665,665,665,665,2006,Germany,8.5,Portugal,Mexico,1,2,1,,,Good,Bad
+666,666,666,666,666,2006,Germany,8.5,Iran,Angola,1,1,1,,,Bad,Neutral
+667,667,667,667,667,2006,Germany,8.5,Italy,Ghana,1,2,0,,,Bad,Neutral
+668,668,668,668,668,2006,Germany,8.5,United States,Czech Republic,1,0,3,,,Bad,Neutral
+669,669,669,669,669,2006,Germany,8.5,Italy,United States,1,1,1,,,Bad,Bad
+670,670,670,670,670,2006,Germany,8.5,Czech Republic,Ghana,1,0,2,,,Neutral,Neutral
+671,671,671,671,671,2006,Germany,8.5,Czech Republic,Italy,1,0,2,,,Neutral,Bad
+672,672,672,672,672,2006,Germany,8.5,Ghana,United States,1,2,1,,,Neutral,Bad
+673,673,673,673,673,2006,Germany,8.5,Brazil,Croatia,1,1,0,,,Good,Bad
+674,674,674,674,674,2006,Germany,8.5,Australia,Japan,1,3,1,,,Neutral,Bad
+675,675,675,675,675,2006,Germany,8.5,Brazil,Australia,1,2,0,,,Good,Bad
+676,676,676,676,676,2006,Germany,8.5,Japan,Croatia,1,0,0,,,Bad,Bad
+677,677,677,677,677,2006,Germany,8.5,Japan,Brazil,1,1,4,,,Bad,Good
+678,678,678,678,678,2006,Germany,8.5,Croatia,Australia,1,2,2,,,Bad,Bad
+679,679,679,679,679,2006,Germany,8.5,France,Switzerland,1,0,0,,,Bad,Bad
+680,680,680,680,680,2006,Germany,8.5,South Korea,Togo,1,2,1,,,Bad,Neutral
+681,681,681,681,681,2006,Germany,8.5,France,South Korea,1,1,1,,,Bad,Bad
+682,682,682,682,682,2006,Germany,8.5,Togo,Switzerland,1,0,2,,,Neutral,Bad
+683,683,683,683,683,2006,Germany,8.5,Togo,France,1,0,2,,,Neutral,Bad
+684,684,684,684,684,2006,Germany,8.5,Switzerland,South Korea,1,2,0,,,Bad,Bad
+685,685,685,685,685,2006,Germany,8.5,Spain,Ukraine,1,4,0,,,Good,Neutral
+686,686,686,686,686,2006,Germany,8.5,Tunisia,Saudi Arabia,1,2,2,,,Bad,Bad
+687,687,687,687,687,2006,Germany,8.5,Spain,Tunisia,1,3,1,,,Good,Bad
+688,688,688,688,688,2006,Germany,8.5,Saudi Arabia,Ukraine,1,0,4,,,Bad,Neutral
+689,689,689,689,689,2006,Germany,8.5,Saudi Arabia,Spain,1,0,1,,,Bad,Good
+690,690,690,690,690,2006,Germany,8.5,Ukraine,Tunisia,1,1,0,,,Neutral,Bad
+691,691,691,691,691,2006,Germany,8.5,Germany,Sweden,2,2,0,,,Good,Bad
+692,692,692,692,692,2006,Germany,8.5,Argentina,Mexico,2,1,1,,,Bad,Bad
+693,693,693,693,693,2006,Germany,8.5,England,Ecuador,2,1,0,,,Good,Good
+694,694,694,694,694,2006,Germany,8.5,Portugal,Netherlands,2,1,0,,,Good,Bad
+695,695,695,695,695,2006,Germany,8.5,Italy,Australia,2,1,0,,,Good,Bad
+696,696,696,696,696,2006,Germany,8.5,Switzerland,Ukraine,2,0,0,,,Bad,Neutral
+697,697,697,697,697,2006,Germany,8.5,Brazil,Ghana,2,3,0,,,Good,Neutral
+698,698,698,698,698,2006,Germany,8.5,Spain,France,2,1,3,,,Good,Bad
+699,699,699,699,699,2006,Germany,8.5,Germany,Argentina,3,1,1,,,Good,Bad
+700,700,700,700,700,2006,Germany,8.5,Italy,Ukraine,3,3,0,,,Good,Bad
+701,701,701,701,701,2006,Germany,8.5,England,Portugal,3,0,0,,,Good,Good
+702,702,702,702,702,2006,Germany,8.5,Brazil,France,3,0,1,,,Good,Good
+703,703,703,703,703,2006,Germany,8.5,Germany,Italy,4,0,0,,,Good,Good
+704,704,704,704,704,2006,Germany,8.5,Portugal,France,4,0,1,,,Good,Good
+705,705,705,705,705,2006,Germany,8.5,Germany,Portugal,5,3,1,,,Good,Bad
+706,706,706,706,706,2006,Germany,8.5,Italy,France,6,1,1,,,Good,Good
+707,707,707,707,707,2010,South Africa,17.75,South Africa,Mexico,1,1,1,,,Bad,Bad
+708,708,708,708,708,2010,South Africa,17.75,Uruguay,France,1,0,0,,,Bad,Good
+709,709,709,709,709,2010,South Africa,17.75,South Africa,Uruguay,1,0,3,,,Bad,Bad
+710,710,710,710,710,2010,South Africa,17.75,France,Mexico,1,0,2,,,Bad,Bad
+711,711,711,711,711,2010,South Africa,17.75,Mexico,Uruguay,1,0,1,,,Bad,Bad
+712,712,712,712,712,2010,South Africa,17.75,France,South Africa,1,1,2,,,Bad,Bad
+713,713,713,713,713,2010,South Africa,17.75,South Korea,Greece,1,2,0,,,Bad,Neutral
+714,714,714,714,714,2010,South Africa,17.75,Argentina,Nigeria,1,1,0,,,Bad,Bad
+715,715,715,715,715,2010,South Africa,17.75,Argentina,South Korea,1,4,1,,,Bad,Bad
+716,716,716,716,716,2010,South Africa,17.75,Greece,Nigeria,1,2,1,,,Bad,Bad
+717,717,717,717,717,2010,South Africa,17.75,Nigeria,South Korea,1,2,2,,,Bad,Bad
+718,718,718,718,718,2010,South Africa,17.75,Greece,Argentina,1,0,2,,,Bad,Good
+719,719,719,719,719,2010,South Africa,17.75,England,United States,1,1,1,,,Bad,Bad
+720,720,720,720,720,2010,South Africa,17.75,Algeria,Slovenia,1,0,1,,,Bad,Neutral
+721,721,721,721,721,2010,South Africa,17.75,Slovenia,United States,1,2,2,,,Bad,Bad
+722,722,722,722,722,2010,South Africa,17.75,England,Algeria,1,0,0,,,Bad,Bad
+723,723,723,723,723,2010,South Africa,17.75,United States,Algeria,1,1,0,,,Bad,Bad
+724,724,724,724,724,2010,South Africa,17.75,Slovenia,England,1,0,1,,,Bad,Bad
+725,725,725,725,725,2010,South Africa,17.75,Serbia,Ghana,1,0,1,,,Neutral,Good
+726,726,726,726,726,2010,South Africa,17.75,Germany,Australia,1,4,0,,,Good,Bad
+727,727,727,727,727,2010,South Africa,17.75,Germany,Serbia,1,0,1,,,Bad,Bad
+728,728,728,728,728,2010,South Africa,17.75,Ghana,Australia,1,1,1,,,Good,Bad
+729,729,729,729,729,2010,South Africa,17.75,Australia,Serbia,1,2,1,,,Bad,Bad
+730,730,730,730,730,2010,South Africa,17.75,Ghana,Germany,1,0,1,,,Bad,Good
+731,731,731,731,731,2010,South Africa,17.75,Netherlands,Denmark,1,2,0,,,Good,Bad
+732,732,732,732,732,2010,South Africa,17.75,Japan,Cameroon,1,1,0,,,Bad,Bad
+733,733,733,733,733,2010,South Africa,17.75,Netherlands,Japan,1,1,0,,,Good,Bad
+734,734,734,734,734,2010,South Africa,17.75,Cameroon,Denmark,1,1,2,,,Bad,Bad
+735,735,735,735,735,2010,South Africa,17.75,Denmark,Japan,1,1,3,,,Bad,Bad
+736,736,736,736,736,2010,South Africa,17.75,Cameroon,Netherlands,1,1,2,,,Bad,Good
+737,737,737,737,737,2010,South Africa,17.75,Italy,Paraguay,1,1,1,,,Bad,Bad
+738,738,738,738,738,2010,South Africa,17.75,New Zealand,Slovakia,1,1,1,,,Neutral,Neutral
+739,739,739,739,739,2010,South Africa,17.75,Slovakia,Paraguay,1,0,2,,,Neutral,Bad
+740,740,740,740,740,2010,South Africa,17.75,Italy,New Zealand,1,1,1,,,Bad,Bad
+741,741,741,741,741,2010,South Africa,17.75,Slovakia,Italy,1,3,2,,,Neutral,Bad
+742,742,742,742,742,2010,South Africa,17.75,Paraguay,New Zealand,1,0,0,,,Bad,Bad
+743,743,743,743,743,2010,South Africa,17.75,Cote d'Ivoire,Portugal,1,0,0,,,Neutral,Bad
+744,744,744,744,744,2010,South Africa,17.75,Brazil,North Korea,1,2,1,,,Good,Bad
+745,745,745,745,745,2010,South Africa,17.75,Brazil,Cote d'Ivoire,1,3,1,,,Good,Bad
+746,746,746,746,746,2010,South Africa,17.75,Portugal,North Korea,1,7,0,,,Bad,Bad
+747,747,747,747,747,2010,South Africa,17.75,Portugal,Brazil,1,0,0,,,Bad,Good
+748,748,748,748,748,2010,South Africa,17.75,North Korea,Cote d'Ivoire,1,0,3,,,Bad,Bad
+749,749,749,749,749,2010,South Africa,17.75,Honduras,Chile,1,0,1,,,Neutral,Bad
+750,750,750,750,750,2010,South Africa,17.75,Spain,Switzerland,1,0,1,,,Good,Good
+751,751,751,751,751,2010,South Africa,17.75,Chile,Switzerland,1,1,0,,,Bad,Good
+752,752,752,752,752,2010,South Africa,17.75,Spain,Honduras,1,2,0,,,Good,Bad
+753,753,753,753,753,2010,South Africa,17.75,Chile,Spain,1,1,2,,,Bad,Good
+754,754,754,754,754,2010,South Africa,17.75,Switzerland,Honduras,1,0,0,,,Bad,Bad
+755,755,755,755,755,2010,South Africa,17.75,Uruguay,South Korea,2,2,1,,,Good,Bad
+756,756,756,756,756,2010,South Africa,17.75,United States,Ghana,2,1,1,,,Bad,Bad
+757,757,757,757,757,2010,South Africa,17.75,Germany,England,2,4,1,,,Good,Bad
+758,758,758,758,758,2010,South Africa,17.75,Argentina,Mexico,2,3,1,,,Good,Bad
+759,759,759,759,759,2010,South Africa,17.75,Netherlands,Slovakia,2,2,1,,,Good,Neutral
+760,760,760,760,760,2010,South Africa,17.75,Brazil,Chile,2,3,0,,,Good,Bad
+761,761,761,761,761,2010,South Africa,17.75,Paraguay,Japan,2,0,0,,,Bad,Bad
+762,762,762,762,762,2010,South Africa,17.75,Spain,Portugal,2,1,0,,,Good,Bad
+763,763,763,763,763,2010,South Africa,17.75,Netherlands,Brazil,3,2,1,,,Good,Good
+764,764,764,764,764,2010,South Africa,17.75,Uruguay,Ghana,3,1,1,,,Good,Bad
+765,765,765,765,765,2010,South Africa,17.75,Argentina,Germany,3,0,4,,,Good,Good
+766,766,766,766,766,2010,South Africa,17.75,Paraguay,Spain,3,0,1,,,Bad,Good
+767,767,767,767,767,2010,South Africa,17.75,Uruguay,Netherlands,4,2,3,,,Good,Good
+768,768,768,768,768,2010,South Africa,17.75,Germany,Spain,4,0,1,,,Good,Good
+769,769,769,769,769,2010,South Africa,17.75,Uruguay,Germany,5,2,3,,,Bad,Good
+770,770,770,770,770,2010,South Africa,17.75,Netherlands,Spain,6,0,0,,,Good,Good
+771,771,771,771,771,2014,Brazil,24.95,Brazil,Croatia,1,3,1,,,Good,Bad
+772,772,772,772,772,2014,Brazil,24.95,Mexico,Cameroon,1,1,0,,,Bad,Bad
+773,773,773,773,773,2014,Brazil,24.95,Brazil,Mexico,1,0,0,,,Bad,Bad
+774,774,774,774,774,2014,Brazil,24.95,Cameroon,Croatia,1,0,4,,,Bad,Bad
+775,775,775,775,775,2014,Brazil,24.95,Cameroon,Brazil,1,1,4,,,Bad,Good
+776,776,776,776,776,2014,Brazil,24.95,Croatia,Mexico,1,1,3,,,Bad,Bad
+777,777,777,777,777,2014,Brazil,24.95,Spain,Netherlands,1,1,5,,,Good,Good
+778,778,778,778,778,2014,Brazil,24.95,Chile,Australia,1,3,1,,,Good,Bad
+779,779,779,779,779,2014,Brazil,24.95,Spain,Chile,1,0,2,,,Bad,Good
+780,780,780,780,780,2014,Brazil,24.95,Australia,Netherlands,1,2,3,,,Bad,Good
+781,781,781,781,781,2014,Brazil,24.95,Australia,Spain,1,0,3,,,Bad,Bad
+782,782,782,782,782,2014,Brazil,24.95,Netherlands,Chile,1,2,0,,,Good,Bad
+783,783,783,783,783,2014,Brazil,24.95,Colombia,Greece,1,3,0,,,Good,Bad
+784,784,784,784,784,2014,Brazil,24.95,Cote d'Ivoire,Japan,1,2,1,,,Good,Bad
+785,785,785,785,785,2014,Brazil,24.95,Colombia,Cote d'Ivoire,1,2,1,,,Good,Bad
+786,786,786,786,786,2014,Brazil,24.95,Japan,Greece,1,0,0,,,Bad,Bad
+787,787,787,787,787,2014,Brazil,24.95,Japan,Colombia,1,1,4,,,Bad,Good
+788,788,788,788,788,2014,Brazil,24.95,Greece,Cote d'Ivoire,1,2,1,,,Bad,Bad
+789,789,789,789,789,2014,Brazil,24.95,Uruguay,Costa Rica,1,1,3,,,Bad,Bad
+790,790,790,790,790,2014,Brazil,24.95,England,Italy,1,1,2,,,Bad,Bad
+791,791,791,791,791,2014,Brazil,24.95,Uruguay,England,1,2,1,,,Bad,Bad
+792,792,792,792,792,2014,Brazil,24.95,Italy,Costa Rica,1,0,1,,,Bad,Bad
+793,793,793,793,793,2014,Brazil,24.95,Italy,Uruguay,1,0,1,,,Bad,Bad
+794,794,794,794,794,2014,Brazil,24.95,Costa Rica,England,1,0,0,,,Bad,Bad
+795,795,795,795,795,2014,Brazil,24.95,Switzerland,Ecuador,1,2,1,,,Bad,Bad
+796,796,796,796,796,2014,Brazil,24.95,France,Honduras,1,3,0,,,Bad,Bad
+797,797,797,797,797,2014,Brazil,24.95,Switzerland,France,1,2,5,,,Bad,Bad
+798,798,798,798,798,2014,Brazil,24.95,Honduras,Ecuador,1,1,2,,,Bad,Bad
+799,799,799,799,799,2014,Brazil,24.95,Honduras,Switzerland,1,0,3,,,Bad,Bad
+800,800,800,800,800,2014,Brazil,24.95,Ecuador,France,1,0,0,,,Bad,Bad
+801,801,801,801,801,2014,Brazil,24.95,Argentina,Bosnia-Herzegovina,1,2,1,,,Good,Neutral
+802,802,802,802,802,2014,Brazil,24.95,Iran,Nigeria,1,0,0,,,Bad,Bad
+803,803,803,803,803,2014,Brazil,24.95,Argentina,Iran,1,1,0,,,Good,Bad
+804,804,804,804,804,2014,Brazil,24.95,Nigeria,Bosnia-Herzegovina,1,1,0,,,Bad,Neutral
+805,805,805,805,805,2014,Brazil,24.95,Nigeria,Argentina,1,2,3,,,Bad,Good
+806,806,806,806,806,2014,Brazil,24.95,Bosnia-Herzegovina,Iran,1,3,1,,,Neutral,Bad
+807,807,807,807,807,2014,Brazil,24.95,Germany,Portugal,1,4,0,,,Good,Bad
+808,808,808,808,808,2014,Brazil,24.95,Ghana,United States,1,1,2,,,Bad,Bad
+809,809,809,809,809,2014,Brazil,24.95,Germany,Ghana,1,2,2,,,Good,Bad
+810,810,810,810,810,2014,Brazil,24.95,United States,Portugal,1,2,2,,,Bad,Bad
+811,811,811,811,811,2014,Brazil,24.95,United States,Germany,1,0,1,,,Bad,Good
+812,812,812,812,812,2014,Brazil,24.95,Portugal,Ghana,1,2,1,,,Bad,Bad
+813,813,813,813,813,2014,Brazil,24.95,Belgium,Algeria,1,2,1,,,Bad,Bad
+814,814,814,814,814,2014,Brazil,24.95,Russia,South Korea,1,1,1,,,Bad,Bad
+815,815,815,815,815,2014,Brazil,24.95,Belgium,Russia,1,1,0,,,Good,Bad
+816,816,816,816,816,2014,Brazil,24.95,South Korea,Algeria,1,2,4,,,Bad,Bad
+817,817,817,817,817,2014,Brazil,24.95,South Korea,Belgium,1,0,1,,,Bad,Good
+818,818,818,818,818,2014,Brazil,24.95,Algeria,Russia,1,1,1,,,Bad,Bad
+819,819,819,819,819,2014,Brazil,24.95,Brazil,Chile,2,1,1,,,Bad,Bad
+820,820,820,820,820,2014,Brazil,24.95,Colombia,Uruguay,2,2,0,,,Good,Bad
+821,821,821,821,821,2014,Brazil,24.95,Netherlands,Mexico,2,2,1,,,Good,Bad
+822,822,822,822,822,2014,Brazil,24.95,Costa Rica,Greece,2,1,1,,,Bad,Bad
+823,823,823,823,823,2014,Brazil,24.95,France,Nigeria,2,2,0,,,Good,Bad
+824,824,824,824,824,2014,Brazil,24.95,Germany,Algeria,2,0,0,,,Good,Bad
+825,825,825,825,825,2014,Brazil,24.95,Argentina,Switzerland,2,0,0,,,Good,Bad
+826,826,826,826,826,2014,Brazil,24.95,Belgium,United States,2,0,0,,,Good,Bad
+827,827,827,827,827,2014,Brazil,24.95,Brazil,Colombia,3,2,1,,,Good,Good
+828,828,828,828,828,2014,Brazil,24.95,France,Germany,3,0,1,,,Good,Good
+829,829,829,829,829,2014,Brazil,24.95,Netherlands,Costa Rica,3,0,0,,,Good,Bad
+830,830,830,830,830,2014,Brazil,24.95,Argentina,Belgium,3,1,0,,,Good,Good
+831,831,831,831,831,2014,Brazil,24.95,Brazil,Germany,4,1,7,,,Bad,Good
+832,832,832,832,832,2014,Brazil,24.95,Netherlands,Argentina,4,0,0,,,Good,Good
+833,833,833,833,833,2014,Brazil,24.95,Brazil,Netherlands,5,0,3,,,Bad,Good
+834,834,834,834,834,2014,Brazil,24.95,Germany,Argentina,6,0,0,,,Good,Bad
+835,835,835,835,835,2018,Russia,-5.1,Russia,Saudi Arabia,1,5,0,,,Bad,Bad
+836,836,836,836,836,2018,Russia,-5.1,Egypt,Uruguay,1,0,1,,,Bad,Good
+837,837,837,837,837,2018,Russia,-5.1,Russia,Egypt,1,3,1,,,Bad,Bad
+838,838,838,838,838,2018,Russia,-5.1,Uruguay,Saudi Arabia,1,1,0,,,Good,Bad
+839,839,839,839,839,2018,Russia,-5.1,Uruguay,Russia,1,3,0,,,Good,Bad
+840,840,840,840,840,2018,Russia,-5.1,Saudi Arabia,Egypt,1,2,1,,,Bad,Bad
+841,841,841,841,841,2018,Russia,-5.1,Morocco,Iran,1,0,1,,,Bad,Bad
+842,842,842,842,842,2018,Russia,-5.1,Portugal,Spain,1,3,3,,,Bad,Bad
+843,843,843,843,843,2018,Russia,-5.1,Portugal,Morocco,1,1,0,,,Bad,Bad
+844,844,844,844,844,2018,Russia,-5.1,Iran,Spain,1,0,1,,,Bad,Bad
+845,845,845,845,845,2018,Russia,-5.1,Iran,Portugal,1,1,1,,,Bad,Bad
+846,846,846,846,846,2018,Russia,-5.1,Spain,Morocco,1,2,2,,,Bad,Bad
+847,847,847,847,847,2018,Russia,-5.1,France,Australia,1,2,1,,,Good,Bad
+848,848,848,848,848,2018,Russia,-5.1,Peru,Denmark,1,0,1,,,Bad,Bad
+849,849,849,849,849,2018,Russia,-5.1,Denmark,Australia,1,1,1,,,Bad,Bad
+850,850,850,850,850,2018,Russia,-5.1,France,Peru,1,1,0,,,Good,Bad
+851,851,851,851,851,2018,Russia,-5.1,Denmark,France,1,0,0,,,Bad,Good
+852,852,852,852,852,2018,Russia,-5.1,Australia,Peru,1,0,2,,,Bad,Bad
+853,853,853,853,853,2018,Russia,-5.1,Argentina,Iceland,1,1,1,,,Bad,Neutral
+854,854,854,854,854,2018,Russia,-5.1,Croatia,Nigeria,1,2,0,,,Bad,Bad
+855,855,855,855,855,2018,Russia,-5.1,Argentina,Croatia,1,0,3,,,Bad,Good
+856,856,856,856,856,2018,Russia,-5.1,Nigeria,Iceland,1,2,0,,,Bad,Neutral
+857,857,857,857,857,2018,Russia,-5.1,Nigeria,Argentina,1,1,2,,,Bad,Bad
+858,858,858,858,858,2018,Russia,-5.1,Iceland,Croatia,1,1,2,,,Neutral,Good
+859,859,859,859,859,2018,Russia,-5.1,Costa Rica,Serbia,1,0,1,,,Bad,Bad
+860,860,860,860,860,2018,Russia,-5.1,Brazil,Switzerland,1,1,1,,,Bad,Bad
+861,861,861,861,861,2018,Russia,-5.1,Brazil,Costa Rica,1,2,0,,,Bad,Bad
+862,862,862,862,862,2018,Russia,-5.1,Serbia,Switzerland,1,1,2,,,Bad,Bad
+863,863,863,863,863,2018,Russia,-5.1,Serbia,Brazil,1,0,2,,,Bad,Bad
+864,864,864,864,864,2018,Russia,-5.1,Switzerland,Costa Rica,1,2,2,,,Bad,Bad
+865,865,865,865,865,2018,Russia,-5.1,Germany,Mexico,1,0,1,,,Bad,Good
+866,866,866,866,866,2018,Russia,-5.1,Sweden,South Korea,1,1,0,,,Bad,Bad
+867,867,867,867,867,2018,Russia,-5.1,South Korea,Mexico,1,1,2,,,Bad,Good
+868,868,868,868,868,2018,Russia,-5.1,Germany,Sweden,1,2,1,,,Good,Bad
+869,869,869,869,869,2018,Russia,-5.1,South Korea,Germany,1,2,0,,,Bad,Bad
+870,870,870,870,870,2018,Russia,-5.1,Mexico,Sweden,1,0,3,,,Good,Bad
+871,871,871,871,871,2018,Russia,-5.1,Belgium,Panama,1,3,0,,,Good,Neutral
+872,872,872,872,872,2018,Russia,-5.1,Tunisia,England,1,1,2,,,Bad,Bad
+873,873,873,873,873,2018,Russia,-5.1,Belgium,Tunisia,1,5,2,,,Good,Bad
+874,874,874,874,874,2018,Russia,-5.1,England,Panama,1,6,1,,,Bad,Neutral
+875,875,875,875,875,2018,Russia,-5.1,England,Belgium,1,0,1,,,Bad,Good
+876,876,876,876,876,2018,Russia,-5.1,Panama,Tunisia,1,1,2,,,Neutral,Bad
+877,877,877,877,877,2018,Russia,-5.1,Colombia,Japan,1,1,2,,,Good,Bad
+878,878,878,878,878,2018,Russia,-5.1,Poland,Senegal,1,1,2,,,Bad,Bad
+879,879,879,879,879,2018,Russia,-5.1,Japan,Senegal,1,2,2,,,Bad,Bad
+880,880,880,880,880,2018,Russia,-5.1,Poland,Colombia,1,0,3,,,Bad,Good
+881,881,881,881,881,2018,Russia,-5.1,Japan,Poland,1,0,1,,,Bad,Bad
+882,882,882,882,882,2018,Russia,-5.1,Senegal,Colombia,1,0,1,,,Bad,Good
+883,883,883,883,883,2018,Russia,-5.1,France,Argentina,2,4,3,,,Good,Bad
+884,884,884,884,884,2018,Russia,-5.1,Uruguay,Portugal,2,2,1,,,Good,Bad
+885,885,885,885,885,2018,Russia,-5.1,Spain,Russia,2,1,1,,,Bad,Bad
+886,886,886,886,886,2018,Russia,-5.1,Croatia,Denmark,2,1,1,,,Good,Bad
+887,887,887,887,887,2018,Russia,-5.1,Brazil,Mexico,2,2,0,,,Good,Bad
+888,888,888,888,888,2018,Russia,-5.1,Belgium,Japan,2,3,2,,,Good,Bad
+889,889,889,889,889,2018,Russia,-5.1,Sweden,Switzerland,2,1,0,,,Good,Bad
+890,890,890,890,890,2018,Russia,-5.1,Colombia,England,2,1,1,,,Bad,Bad
+891,891,891,891,891,2018,Russia,-5.1,Uruguay,France,3,0,2,,,Good,Good
+892,892,892,892,892,2018,Russia,-5.1,Brazil,Belgium,3,1,2,,,Good,Good
+893,893,893,893,893,2018,Russia,-5.1,Sweden,England,3,0,2,,,Good,Good
+894,894,894,894,894,2018,Russia,-5.1,Russia,Croatia,3,1,1,,,Bad,Good
+895,895,895,895,895,2018,Russia,-5.1,France,Belgium,4,1,0,,,Good,Good
+896,896,896,896,896,2018,Russia,-5.1,Croatia,England,4,1,1,,,Bad,Bad
+897,897,897,897,897,2018,Russia,-5.1,Belgium,England,5,2,0,,,Good,Bad
+898,898,898,898,898,2018,Russia,-5.1,France,Croatia,6,4,2,,,Good,Bad
