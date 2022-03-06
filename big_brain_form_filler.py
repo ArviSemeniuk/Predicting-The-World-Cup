@@ -1,7 +1,8 @@
 import csv
 import pandas as pd
 
-cupData = pd.read_csv("worldcupdata.csv", encoding="latin-1") #Loading the data from the CSV file
+colsToRead = ["Year", "Location", "Average Yearly Temperature (Celsius)", "TeamA", "TeamB", "Round", "Full-time score TeamA", "Full-time score TeamB", "TeamA Elo Rating", "TeamB Elo Rating", "Form of TeamA", "Form of TeamB"]
+cupData = pd.read_csv("worldcupdata.csv", encoding="latin-1", usecols=colsToRead) #Loading the data from the CSV file
 teamDict = {} #Dictionary to store objects of type Team
 
 
