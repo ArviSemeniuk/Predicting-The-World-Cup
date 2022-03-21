@@ -20,14 +20,30 @@ print(oe.categories_)
 print(encodedOrdinal)
 
 #Scale numerical data to a standard range
-X = world_cup_data[["Year", "Average Yearly Temperature (Celsius)", "Round", "Full-time score TeamA", "Full-time score TeamB"]]
+X = world_cup_data[["Year", "Average Yearly Temperature (Celsius)", "Round"]]
+y = world_cup_data[["Full-time score TeamA", "Full-time score TeamB"]]
 scale = StandardScaler()
+
 scaledX = scale.fit_transform(X)
+scaledY = scale.fit_transform(y)
 
 print(scaledX)
 
-#Multioutput Regression
-
-#print(sklearn.__version__)
-
+#Multioutput Regression ~~~ Everything below this line needs fixing to get the model to work ~~~
 model = LinearRegression()
+
+print(type(scaledX))
+print(type(encodedNominal))
+print(type(encodedOrdinal))
+
+a = np.append(scaledX, encodedNominal)
+b = np.append(a, encodedOrdinal)
+print(b)
+
+#model.fit(scaledX, scaledY)
+
+#print("Start here")
+#print(model.coef_)
+
+#predictScore = model.predict(X)
+#print(predictScore)
