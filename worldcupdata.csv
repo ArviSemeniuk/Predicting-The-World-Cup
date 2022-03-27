@@ -1,17 +1,17 @@
 Year,Location,Average Yearly Temperature (Celsius),TeamA,TeamB,Round,Full-time score TeamA,Full-time score TeamB,TeamA Elo Rating,TeamB Elo Rating,Form of TeamA,Form of TeamB,ResultsA,ResultsB
-1930,Uruguay,17.55,France,Mexico,1,4,1,416,384,Neutral,Neutral,W,L
+1930,Uruguay,17.55,France,Mexico,1,4,1,416.0,384.0,Neutral,Neutral,W,L
 1930,Uruguay,17.55,Argentina,France,1,1,0,416.7363068,399.2636932,Neutral,Neutral,W,L
 1930,Uruguay,17.55,Chile,Mexico,1,3,0,415.2636932,368.7363068,Neutral,Neutral,W,L
-1930,Uruguay,17.55,Chile,France,1,1,0,430.5273864,384,Neutral,Neutral,W,L
+1930,Uruguay,17.55,Chile,France,1,1,0,430.5273864,384.0,Neutral,Neutral,W,L
 1930,Uruguay,17.55,Argentina,Mexico,1,6,3,430.5397823,354.9328313,Neutral,Neutral,W,L
 1930,Uruguay,17.55,Argentina,Chile,1,3,1,446.5392114,414.5279573,Neutral,Neutral,W,L
-1930,Uruguay,17.55,Yugoslavia,Brazil,1,2,1,416,384,Neutral,Neutral,W,L
+1930,Uruguay,17.55,Yugoslavia,Brazil,1,2,1,416.0,384.0,Neutral,Neutral,W,L
 1930,Uruguay,17.55,Yugoslavia,Bolivia,1,4,0,431.2636932,384.7363068,Neutral,Neutral,W,L
 1930,Uruguay,17.55,Brazil,Bolivia,1,4,0,400.0339081,368.7023987,Neutral,Neutral,W,L
-1930,Uruguay,17.55,Romania,Peru,1,3,1,416,384,Neutral,Neutral,W,L
+1930,Uruguay,17.55,Romania,Peru,1,3,1,416.0,384.0,Neutral,Neutral,W,L
 1930,Uruguay,17.55,Uruguay,Peru,1,1,0,415.2636932,368.7363068,Neutral,Neutral,W,L
 1930,Uruguay,17.55,Uruguay,Romania,1,4,0,431.2976013,399.9660919,Neutral,Neutral,W,L
-1930,Uruguay,17.55,United States,Belgium,1,3,0,416,384,Neutral,Neutral,W,L
+1930,Uruguay,17.55,United States,Belgium,1,3,0,416.0,384.0,Neutral,Neutral,W,L
 1930,Uruguay,17.55,United States,Paraguay,1,3,0,431.2636932,384.7363068,Neutral,Neutral,W,L
 1930,Uruguay,17.55,Paraguay,Belgium,1,1,0,400.7023987,368.0339081,Neutral,Neutral,W,L
 1930,Uruguay,17.55,Argentina,United States,2,6,1,461.8362007,415.9667039,Neutral,Neutral,W,L
@@ -21,8 +21,8 @@ Year,Location,Average Yearly Temperature (Celsius),TeamA,TeamB,Round,Full-time s
 1934,Italy,13.35,Austria,France,1,3,2,415.2636932,368.7363068,Neutral,Neutral,W,L
 1934,Italy,13.35,Germany,Belgium,1,5,2,414.5320468,353.5018613,Neutral,Neutral,W,L
 1934,Italy,13.35,Spain,Brazil,1,3,1,416.0015615,384.0323466,Neutral,Neutral,W,L
-1934,Italy,13.35,Hungary,Egypt,1,4,2,416,384,Neutral,Neutral,W,L
-1934,Italy,13.35,Switzerland,Netherlands,1,3,2,416,384,Neutral,Neutral,W,L
+1934,Italy,13.35,Hungary,Egypt,1,4,2,416.0,384.0,Neutral,Neutral,W,L
+1934,Italy,13.35,Switzerland,Netherlands,1,3,2,416.0,384.0,Neutral,Neutral,W,L
 1934,Italy,13.35,Italy,United States,1,7,1,416.7347767,399.2319272,Neutral,Neutral,W,L
 1934,Italy,13.35,Czechoslovakia,Romania,1,2,1,415.9984385,383.9676534,Neutral,Neutral,W,L
 1934,Italy,13.35,Czechoslovakia,Switzerland,2,3,2,431.9985104,399.9999281,Neutral,Neutral,W,L
@@ -78,7 +78,7 @@ Year,Location,Average Yearly Temperature (Celsius),TeamA,TeamB,Round,Full-time s
 1954,Switzerland,5.5,Yugoslavia,France,1,1,0,439.827305,358.71364,Good,Bad,W,L
 1954,Switzerland,5.5,Brazil,Yugoslavia,1,1,1,472.2302768,441.3863513,Good,Good,D,D
 1954,Switzerland,5.5,France,Mexico,1,3,2,372.3571062,293.5237893,Bad,Bad,W,L
-1954,Switzerland,5.5,West Germany,Turkey,1,4,1,416,384,Neutral,Neutral,W,L
+1954,Switzerland,5.5,West Germany,Turkey,1,4,1,416.0,384.0,Neutral,Neutral,W,L
 1954,Switzerland,5.5,Hungary,South Korea,1,9,0,448.4122681,385.5594905,Good,Neutral,W,L
 1954,Switzerland,5.5,Hungary,West Germany,1,8,3,462.9239431,401.488325,Good,Neutral,W,L
 1954,Switzerland,5.5,Turkey,South Korea,1,7,0,400.0718167,369.4876738,Neutral,Neutral,W,L
@@ -199,40 +199,40 @@ Year,Location,Average Yearly Temperature (Celsius),TeamA,TeamB,Round,Full-time s
 1966,England,8.45,England,Portugal,3,2,1,442.9152455,449.0002613,Good,Good,W,L
 1966,England,8.45,Portugal,Soviet Union,4,2,1,465.9438666,452.5705885,Good,Good,W,L
 1966,England,8.45,England,West Germany,5,4,2,462.206394,496.1248093,Good,Good,W,L
-1970,Mexico,21,Mexico,Soviet Union,1,0,0,293.63972,445.4574576,Bad,Bad,D,D
-1970,Mexico,21,Belgium,El Salvador,1,3,0,349.7948847,380.8477372,Bad,Neutral,W,L
-1970,Mexico,21,Soviet Union,Belgium,1,4,1,457.1600852,338.092257,Bad,Bad,W,L
-1970,Mexico,21,Mexico,El Salvador,1,4,0,313.5735281,360.9139292,Bad,Neutral,W,L
-1970,Mexico,21,Soviet Union,El Salvador,1,2,0,468.8377879,349.2362266,Bad,Neutral,W,L
-1970,Mexico,21,Mexico,Belgium,1,1,0,330.7007866,320.9649985,Bad,Bad,W,L
-1970,Mexico,21,Uruguay,Israel,1,2,0,468.062615,386.4918815,Bad,Neutral,W,L
-1970,Mexico,21,Italy,Sweden,1,1,0,461.2044541,432.5353817,Good,Bad,W,L
-1970,Mexico,21,Uruguay,Italy,1,0,0,467.7468261,461.5202431,Bad,Bad,D,D
-1970,Mexico,21,Sweden,Israel,1,1,1,430.4273267,388.5999365,Bad,Neutral,D,D
-1970,Mexico,21,Uruguay,Sweden,1,0,1,450.034779,448.1393738,Bad,Bad,L,W
-1970,Mexico,21,Israel,Italy,1,0,0,391.9095859,458.2105937,Neutral,Bad,D,D
-1970,Mexico,21,Romania,England,1,0,1,357.5515348,474.0302774,Bad,Good,L,W
-1970,Mexico,21,Czechoslovakia,Brazil,1,1,4,404.6847039,539.4626713,Bad,Good,L,W
-1970,Mexico,21,Romania,Czechoslovakia,1,2,1,375.7088793,386.5273594,Bad,Bad,W,L
-1970,Mexico,21,England,Brazil,1,0,1,461.0084238,552.4845249,Good,Good,L,W
-1970,Mexico,21,Romania,Brazil,1,2,3,367.2130494,560.9803548,Bad,Good,L,W
-1970,Mexico,21,England,Czechoslovakia,1,1,0,473.6300387,373.9057446,Good,Bad,W,L
-1970,Mexico,21,Peru,Bulgaria,1,3,2,383.3982757,324.951345,Neutral,Bad,W,L
-1970,Mexico,21,Morocco,West Germany,1,1,2,388.3171165,507.8076928,Neutral,Good,L,W
-1970,Mexico,21,Peru,Morocco,1,3,0,399.6247816,372.0906106,Neutral,Neutral,W,L
-1970,Mexico,21,Bulgaria,West Germany,1,2,5,316.6721437,516.0868941,Bad,Good,L,W
-1970,Mexico,21,Peru,West Germany,1,1,3,388.7958189,526.9158567,Bad,Good,L,W
-1970,Mexico,21,Bulgaria,Morocco,1,1,1,319.2028324,369.559922,Bad,Neutral,D,D
-1970,Mexico,21,Soviet Union,Uruguay,2,0,1,451.9727217,466.8998451,Bad,Bad,L,W
-1970,Mexico,21,Italy,Mexico,2,4,1,468.5887177,320.3226626,Bad,Bad,W,L
-1970,Mexico,21,Brazil,Peru,2,4,2,569.6421237,380.1340499,Good,Bad,W,L
-1970,Mexico,21,West Germany,England,2,3,2,540.4810151,460.0648803,Good,Good,W,L
-1970,Mexico,21,Uruguay,Brazil,3,1,3,455.4980425,581.0439263,Bad,Good,L,W
-1970,Mexico,21,Italy,West Germany,3,4,3,487.8530236,521.2167092,Good,Good,W,L
-1970,Mexico,21,Uruguay,West Germany,4,0,1,442.4889136,534.2258382,Bad,Good,L,W
-1970,Mexico,21,Brazil,Italy,5,4,1,592.8523679,476.044582,Good,Bad,W,L
+1970,Mexico,21.0,Mexico,Soviet Union,1,0,0,293.63972,445.4574576,Bad,Bad,D,D
+1970,Mexico,21.0,Belgium,El Salvador,1,3,0,349.7948847,380.8477372,Bad,Neutral,W,L
+1970,Mexico,21.0,Soviet Union,Belgium,1,4,1,457.1600852,338.092257,Bad,Bad,W,L
+1970,Mexico,21.0,Mexico,El Salvador,1,4,0,313.5735281,360.9139292,Bad,Neutral,W,L
+1970,Mexico,21.0,Soviet Union,El Salvador,1,2,0,468.8377879,349.2362266,Bad,Neutral,W,L
+1970,Mexico,21.0,Mexico,Belgium,1,1,0,330.7007866,320.9649985,Bad,Bad,W,L
+1970,Mexico,21.0,Uruguay,Israel,1,2,0,468.062615,386.4918815,Bad,Neutral,W,L
+1970,Mexico,21.0,Italy,Sweden,1,1,0,461.2044541,432.5353817,Good,Bad,W,L
+1970,Mexico,21.0,Uruguay,Italy,1,0,0,467.7468261,461.5202431,Bad,Bad,D,D
+1970,Mexico,21.0,Sweden,Israel,1,1,1,430.4273267,388.5999365,Bad,Neutral,D,D
+1970,Mexico,21.0,Uruguay,Sweden,1,0,1,450.034779,448.1393738,Bad,Bad,L,W
+1970,Mexico,21.0,Israel,Italy,1,0,0,391.9095859,458.2105937,Neutral,Bad,D,D
+1970,Mexico,21.0,Romania,England,1,0,1,357.5515348,474.0302774,Bad,Good,L,W
+1970,Mexico,21.0,Czechoslovakia,Brazil,1,1,4,404.6847039,539.4626713,Bad,Good,L,W
+1970,Mexico,21.0,Romania,Czechoslovakia,1,2,1,375.7088793,386.5273594,Bad,Bad,W,L
+1970,Mexico,21.0,England,Brazil,1,0,1,461.0084238,552.4845249,Good,Good,L,W
+1970,Mexico,21.0,Romania,Brazil,1,2,3,367.2130494,560.9803548,Bad,Good,L,W
+1970,Mexico,21.0,England,Czechoslovakia,1,1,0,473.6300387,373.9057446,Good,Bad,W,L
+1970,Mexico,21.0,Peru,Bulgaria,1,3,2,383.3982757,324.951345,Neutral,Bad,W,L
+1970,Mexico,21.0,Morocco,West Germany,1,1,2,388.3171165,507.8076928,Neutral,Good,L,W
+1970,Mexico,21.0,Peru,Morocco,1,3,0,399.6247816,372.0906106,Neutral,Neutral,W,L
+1970,Mexico,21.0,Bulgaria,West Germany,1,2,5,316.6721437,516.0868941,Bad,Good,L,W
+1970,Mexico,21.0,Peru,West Germany,1,1,3,388.7958189,526.9158567,Bad,Good,L,W
+1970,Mexico,21.0,Bulgaria,Morocco,1,1,1,319.2028324,369.559922,Bad,Neutral,D,D
+1970,Mexico,21.0,Soviet Union,Uruguay,2,0,1,451.9727217,466.8998451,Bad,Bad,L,W
+1970,Mexico,21.0,Italy,Mexico,2,4,1,468.5887177,320.3226626,Bad,Bad,W,L
+1970,Mexico,21.0,Brazil,Peru,2,4,2,569.6421237,380.1340499,Good,Bad,W,L
+1970,Mexico,21.0,West Germany,England,2,3,2,540.4810151,460.0648803,Good,Good,W,L
+1970,Mexico,21.0,Uruguay,Brazil,3,1,3,455.4980425,581.0439263,Bad,Good,L,W
+1970,Mexico,21.0,Italy,West Germany,3,4,3,487.8530236,521.2167092,Good,Good,W,L
+1970,Mexico,21.0,Uruguay,West Germany,4,0,1,442.4889136,534.2258382,Bad,Good,L,W
+1970,Mexico,21.0,Brazil,Italy,5,4,1,592.8523679,476.044582,Good,Bad,W,L
 1974,West Germany,8.5,West Germany,Chile,1,1,0,544.767928,400.2194648,Good,Bad,W,L
-1974,West Germany,8.5,East Germany,Australia,1,2,0,416,384,Neutral,Neutral,W,L
+1974,West Germany,8.5,East Germany,Australia,1,2,0,416.0,384.0,Neutral,Neutral,W,L
 1974,West Germany,8.5,Chile,East Germany,1,1,1,400.945686,415.2737788,Bad,Neutral,D,D
 1974,West Germany,8.5,Australia,West Germany,1,0,3,374.9168707,553.8510573,Neutral,Good,L,W
 1974,West Germany,8.5,Australia,Chile,1,0,0,376.1133045,399.7492522,Neutral,Bad,D,D
@@ -358,58 +358,58 @@ Year,Location,Average Yearly Temperature (Celsius),TeamA,TeamB,Round,Full-time s
 1982,Spain,13.3,West Germany,France,3,1,1,540.7639094,418.8438127,Good,Good,D,D
 1982,Spain,13.3,Poland,France,4,3,2,499.0193929,405.9019617,Good,Bad,W,L
 1982,Spain,13.3,Italy,West Germany,5,3,1,548.725648,524.3759434,Good,Bad,W,L
-1986,Mexico,21,Bulgaria,Italy,1,1,1,325.498949,539.3720781,Bad,Good,D,D
-1986,Mexico,21,Argentina,South Korea,1,3,1,462.3193173,357.1286984,Good,Neutral,W,L
-1986,Mexico,21,Italy,Argentina,1,1,1,535.8807207,465.8106747,Good,Bad,D,D
-1986,Mexico,21,South Korea,Bulgaria,1,1,1,355.6761054,326.951542,Neutral,Bad,D,D
-1986,Mexico,21,South Korea,Italy,1,2,3,347.3028783,544.2539478,Bad,Good,L,W
-1986,Mexico,21,Argentina,Bulgaria,1,2,0,475.7360273,317.0261894,Bad,Bad,W,L
-1986,Mexico,21,Belgium,Mexico,1,1,2,322.1115377,330.0546845,Bad,Bad,L,W
-1986,Mexico,21,Paraguay,Iraq,1,1,0,407.2645575,383.5784002,Bad,Neutral,W,L
-1986,Mexico,21,Mexico,Paraguay,1,1,1,333.552932,403.76631,Bad,Bad,D,D
-1986,Mexico,21,Iraq,Belgium,1,1,2,364.7769139,340.913024,Neutral,Bad,L,W
-1986,Mexico,21,Iraq,Mexico,1,0,1,347.3428551,350.9869908,Neutral,Bad,L,W
-1986,Mexico,21,Paraguay,Belgium,1,2,2,400.9029775,343.7763566,Bad,Bad,D,D
-1986,Mexico,21,Canada,France,1,0,1,384.2717692,421.6301925,Neutral,Good,L,W
-1986,Mexico,21,Soviet Union,Hungary,1,6,0,478.338283,383.1837997,Good,Bad,W,L
-1986,Mexico,21,France,Soviet Union,1,1,1,424.2187505,475.749725,Bad,Bad,D,D
-1986,Mexico,21,Hungary,Canada,1,2,0,399.2339024,368.2216666,Bad,Neutral,W,L
-1986,Mexico,21,Hungary,France,1,0,3,384.3825179,439.070135,Bad,Bad,L,W
-1986,Mexico,21,Soviet Union,Canada,1,2,0,486.9501468,357.0212447,Good,Neutral,W,L
-1986,Mexico,21,Spain,Brazil,1,0,1,382.5271182,605.8695905,Bad,Good,L,W
-1986,Mexico,21,Algeria,Northern Ireland,1,1,1,434.293035,402.5508596,Neutral,Bad,D,D
-1986,Mexico,21,Brazil,Algeria,1,1,0,614.5534862,425.6091393,Good,Neutral,W,L
-1986,Mexico,21,Northern Ireland,Spain,1,1,2,385.6297519,399.448226,Bad,Bad,L,W
-1986,Mexico,21,Northern Ireland,Brazil,1,0,3,378.871798,621.3114401,Bad,Good,L,W
-1986,Mexico,21,Algeria,Spain,1,0,3,408.4066564,416.6507088,Bad,Bad,L,W
-1986,Mexico,21,Uruguay,West Germany,1,1,1,409.1142002,519.0347974,Bad,Bad,D,D
-1986,Mexico,21,Scotland,Denmark,1,0,1,377.6262538,415.6923482,Bad,Neutral,L,W
-1986,Mexico,21,West Germany,Scotland,1,2,1,528.8599496,367.8011016,Bad,Bad,W,L
-1986,Mexico,21,Denmark,Uruguay,1,6,1,431.3894495,393.4170989,Neutral,Bad,W,L
-1986,Mexico,21,Denmark,West Germany,1,2,0,451.7639653,508.4854337,Neutral,Bad,W,L
-1986,Mexico,21,Scotland,Uruguay,1,0,0,368.978629,392.2395715,Bad,Bad,D,D
-1986,Mexico,21,Morocco,Poland,1,0,0,375.2603428,493.3189721,Neutral,Bad,D,D
-1986,Mexico,21,Portugal,England,1,1,0,483.1490901,474.9594077,Good,Bad,W,L
-1986,Mexico,21,England,Morocco,1,0,0,470.4901019,379.7296487,Bad,Bad,D,D
-1986,Mexico,21,Poland,Portugal,1,1,0,508.8507654,467.6172968,Bad,Good,W,L
-1986,Mexico,21,Portugal,Morocco,1,1,3,447.6540966,399.6928488,Bad,Bad,L,W
-1986,Mexico,21,England,Poland,1,3,0,488.249532,491.0913353,Bad,Bad,W,L
-1986,Mexico,21,Mexico,Bulgaria,2,2,0,365.4280001,302.5851801,Good,Bad,W,L
-1986,Mexico,21,Soviet Union,Belgium,2,2,2,480.7062502,350.0202532,Bad,Bad,D,D
-1986,Mexico,21,Argentina,Uruguay,2,1,0,487.9632276,380.0123712,Good,Bad,W,L
-1986,Mexico,21,Brazil,Poland,2,4,0,631.5804609,480.8223144,Good,Bad,W,L
-1986,Mexico,21,Italy,France,2,0,2,523.5528095,459.7712733,Bad,Good,L,W
-1986,Mexico,21,Morocco,West Germany,2,0,1,388.5453624,519.6329201,Bad,Bad,L,W
-1986,Mexico,21,England,Paraguay,2,3,0,500.3097303,388.8427792,Bad,Bad,W,L
-1986,Mexico,21,Denmark,Spain,2,1,5,434.1524231,434.2622511,Neutral,Good,L,W
-1986,Mexico,21,Brazil,France,3,1,1,624.255886,467.0958481,Good,Good,D,D
-1986,Mexico,21,West Germany,Mexico,3,0,0,512.9637964,372.0971238,Bad,Good,D,D
-1986,Mexico,21,Spain,Belgium,3,1,1,430.4570433,353.8254609,Good,Bad,D,D
-1986,Mexico,21,Argentina,England,3,2,1,504.5315659,483.7413921,Good,Bad,W,L
-1986,Mexico,21,Argentina,Belgium,4,2,0,513.9961312,344.3608956,Good,Bad,W,L
-1986,Mexico,21,France,West Germany,4,0,2,453.1959585,526.8636861,Bad,Good,L,W
-1986,Mexico,21,France,Belgium,5,2,2,448.3416687,349.2151854,Bad,Bad,D,D
-1986,Mexico,21,Argentina,West Germany,6,3,2,530.5884333,510.2713841,Good,Bad,W,L
+1986,Mexico,21.0,Bulgaria,Italy,1,1,1,325.498949,539.3720781,Bad,Good,D,D
+1986,Mexico,21.0,Argentina,South Korea,1,3,1,462.3193173,357.1286984,Good,Neutral,W,L
+1986,Mexico,21.0,Italy,Argentina,1,1,1,535.8807207,465.8106747,Good,Bad,D,D
+1986,Mexico,21.0,South Korea,Bulgaria,1,1,1,355.6761054,326.951542,Neutral,Bad,D,D
+1986,Mexico,21.0,South Korea,Italy,1,2,3,347.3028783,544.2539478,Bad,Good,L,W
+1986,Mexico,21.0,Argentina,Bulgaria,1,2,0,475.7360273,317.0261894,Bad,Bad,W,L
+1986,Mexico,21.0,Belgium,Mexico,1,1,2,322.1115377,330.0546845,Bad,Bad,L,W
+1986,Mexico,21.0,Paraguay,Iraq,1,1,0,407.2645575,383.5784002,Bad,Neutral,W,L
+1986,Mexico,21.0,Mexico,Paraguay,1,1,1,333.552932,403.76631,Bad,Bad,D,D
+1986,Mexico,21.0,Iraq,Belgium,1,1,2,364.7769139,340.913024,Neutral,Bad,L,W
+1986,Mexico,21.0,Iraq,Mexico,1,0,1,347.3428551,350.9869908,Neutral,Bad,L,W
+1986,Mexico,21.0,Paraguay,Belgium,1,2,2,400.9029775,343.7763566,Bad,Bad,D,D
+1986,Mexico,21.0,Canada,France,1,0,1,384.2717692,421.6301925,Neutral,Good,L,W
+1986,Mexico,21.0,Soviet Union,Hungary,1,6,0,478.338283,383.1837997,Good,Bad,W,L
+1986,Mexico,21.0,France,Soviet Union,1,1,1,424.2187505,475.749725,Bad,Bad,D,D
+1986,Mexico,21.0,Hungary,Canada,1,2,0,399.2339024,368.2216666,Bad,Neutral,W,L
+1986,Mexico,21.0,Hungary,France,1,0,3,384.3825179,439.070135,Bad,Bad,L,W
+1986,Mexico,21.0,Soviet Union,Canada,1,2,0,486.9501468,357.0212447,Good,Neutral,W,L
+1986,Mexico,21.0,Spain,Brazil,1,0,1,382.5271182,605.8695905,Bad,Good,L,W
+1986,Mexico,21.0,Algeria,Northern Ireland,1,1,1,434.293035,402.5508596,Neutral,Bad,D,D
+1986,Mexico,21.0,Brazil,Algeria,1,1,0,614.5534862,425.6091393,Good,Neutral,W,L
+1986,Mexico,21.0,Northern Ireland,Spain,1,1,2,385.6297519,399.448226,Bad,Bad,L,W
+1986,Mexico,21.0,Northern Ireland,Brazil,1,0,3,378.871798,621.3114401,Bad,Good,L,W
+1986,Mexico,21.0,Algeria,Spain,1,0,3,408.4066564,416.6507088,Bad,Bad,L,W
+1986,Mexico,21.0,Uruguay,West Germany,1,1,1,409.1142002,519.0347974,Bad,Bad,D,D
+1986,Mexico,21.0,Scotland,Denmark,1,0,1,377.6262538,415.6923482,Bad,Neutral,L,W
+1986,Mexico,21.0,West Germany,Scotland,1,2,1,528.8599496,367.8011016,Bad,Bad,W,L
+1986,Mexico,21.0,Denmark,Uruguay,1,6,1,431.3894495,393.4170989,Neutral,Bad,W,L
+1986,Mexico,21.0,Denmark,West Germany,1,2,0,451.7639653,508.4854337,Neutral,Bad,W,L
+1986,Mexico,21.0,Scotland,Uruguay,1,0,0,368.978629,392.2395715,Bad,Bad,D,D
+1986,Mexico,21.0,Morocco,Poland,1,0,0,375.2603428,493.3189721,Neutral,Bad,D,D
+1986,Mexico,21.0,Portugal,England,1,1,0,483.1490901,474.9594077,Good,Bad,W,L
+1986,Mexico,21.0,England,Morocco,1,0,0,470.4901019,379.7296487,Bad,Bad,D,D
+1986,Mexico,21.0,Poland,Portugal,1,1,0,508.8507654,467.6172968,Bad,Good,W,L
+1986,Mexico,21.0,Portugal,Morocco,1,1,3,447.6540966,399.6928488,Bad,Bad,L,W
+1986,Mexico,21.0,England,Poland,1,3,0,488.249532,491.0913353,Bad,Bad,W,L
+1986,Mexico,21.0,Mexico,Bulgaria,2,2,0,365.4280001,302.5851801,Good,Bad,W,L
+1986,Mexico,21.0,Soviet Union,Belgium,2,2,2,480.7062502,350.0202532,Bad,Bad,D,D
+1986,Mexico,21.0,Argentina,Uruguay,2,1,0,487.9632276,380.0123712,Good,Bad,W,L
+1986,Mexico,21.0,Brazil,Poland,2,4,0,631.5804609,480.8223144,Good,Bad,W,L
+1986,Mexico,21.0,Italy,France,2,0,2,523.5528095,459.7712733,Bad,Good,L,W
+1986,Mexico,21.0,Morocco,West Germany,2,0,1,388.5453624,519.6329201,Bad,Bad,L,W
+1986,Mexico,21.0,England,Paraguay,2,3,0,500.3097303,388.8427792,Bad,Bad,W,L
+1986,Mexico,21.0,Denmark,Spain,2,1,5,434.1524231,434.2622511,Neutral,Good,L,W
+1986,Mexico,21.0,Brazil,France,3,1,1,624.255886,467.0958481,Good,Good,D,D
+1986,Mexico,21.0,West Germany,Mexico,3,0,0,512.9637964,372.0971238,Bad,Good,D,D
+1986,Mexico,21.0,Spain,Belgium,3,1,1,430.4570433,353.8254609,Good,Bad,D,D
+1986,Mexico,21.0,Argentina,England,3,2,1,504.5315659,483.7413921,Good,Bad,W,L
+1986,Mexico,21.0,Argentina,Belgium,4,2,0,513.9961312,344.3608956,Good,Bad,W,L
+1986,Mexico,21.0,France,West Germany,4,0,2,453.1959585,526.8636861,Bad,Good,L,W
+1986,Mexico,21.0,France,Belgium,5,2,2,448.3416687,349.2151854,Bad,Bad,D,D
+1986,Mexico,21.0,Argentina,West Germany,6,3,2,530.5884333,510.2713841,Good,Bad,W,L
 1990,Italy,13.35,Italy,Austria,1,1,0,534.6815495,403.1829998,Bad,Bad,W,L
 1990,Italy,13.35,United States,Czechoslovakia,1,1,5,367.0580054,381.0469873,Bad,Bad,L,W
 1990,Italy,13.35,Italy,United States,1,1,0,543.5101726,358.2293823,Good,Bad,W,L
@@ -556,7 +556,7 @@ Year,Location,Average Yearly Temperature (Celsius),TeamA,TeamB,Round,Full-time s
 1998,France,10.7,Romania,England,1,2,1,435.877614,468.4587667,Good,Bad,W,L
 1998,France,10.7,Romania,Tunisia,1,1,1,432.410721,362.8493474,Good,Bad,D,D
 1998,France,10.7,Colombia,England,1,0,2,372.1303721,480.6584828,Good,Bad,L,W
-1998,France,10.7,Jamaica,Croatia,1,1,3,384,416,Neutral,Neutral,L,W
+1998,France,10.7,Jamaica,Croatia,1,1,3,384.0,416.0,Neutral,Neutral,L,W
 1998,France,10.7,Argentina,Japan,1,1,0,505.0710416,388.1947713,Good,Neutral,W,L
 1998,France,10.7,Japan,Croatia,1,0,1,373.4725226,430.7222486,Neutral,Neutral,L,W
 1998,France,10.7,Argentina,Jamaica,1,5,0,515.7107476,373.3602941,Good,Neutral,W,L

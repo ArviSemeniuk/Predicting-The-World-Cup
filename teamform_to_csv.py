@@ -70,7 +70,7 @@ def updateResults(teamName, outcome, matchNum, home):
 	teamDict[teamName].writeFormToCSV(matchNum, home)
 	teamDict[teamName].writeResultsToCSV(matchNum, home, outcome)
 
-	print(teamDict[teamName].name, " ", teamDict[teamName].recentResults) #This line is not needed but it just proves that the program works
+	#print(teamDict[teamName].name, " ", teamDict[teamName].recentResults) #This line is not needed but it just proves that the program works
 
 	return teamDict
 
@@ -95,6 +95,8 @@ def getTeamResults():
 
 		matchNum = matchNum + 1
 
+def updateCSV(df, fileName):
+	df.to_csv(fileName, encoding="utf-8", index=False) #Updates the CSV file
 
 getTeamResults() #Starting point for the program
-cupData.to_csv("worldcupdata.csv") #Updates the CSV file
+updateCSV(cupData, "worldcupdata.csv")
