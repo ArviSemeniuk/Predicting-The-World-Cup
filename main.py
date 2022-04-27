@@ -19,12 +19,12 @@ from sklearn.model_selection import cross_val_score
 #Prehaps I should give it a different name because network doesn't really make sense but oh well..
 class Network():
     def __init__(self, dataset):
-        self.dataset = dataset
-        self.y = dataset["ResultsA"] #y is the output aka target feature. This is what we are trying to predict.
+        self.dataset = dataset.drop("ResultsA", axis=1)
+        self.y = dataset[["ResultsA"]] #y is the output aka target feature. This is what we are trying to predict.
     
     #Method to visualise the data we have collected. At the moment it just plots goals scored against wins for teamA but it can be used to plot different features.
     def plotData(self):
-        x = self.dataset["ResultsA"]
+        x = self.y["ResultsA"]
         y = self.dataset["Full-time score TeamA"]
         plt.bar(x, y)
         plt.xlabel("Full-time score TeamA")
@@ -34,13 +34,14 @@ class Network():
     
     #Method to encode the data into a machine-friendly way. This makes the algorithms we use perform better. 
     def preprocessing(self):
-        numericFeatures = ["Average Yearly Temperature (Celsius)", "Round", "Full-time score TeamA", "Full-time score TeamB", "TeamA Elo Rating", "TeamB Elo Rating"]
+        numericFeatures = ["Year", "Average Yearly Temperature (Celsius)", "Round", "Full-time score TeamA", "Full-time score TeamB", "TeamA Elo Rating", "TeamB Elo Rating"]
         nominalCatFeatures = ["Location", "TeamA", "TeamB"]
-        ordinalCatFeatures = ["Form of TeamA", "Form of TeamB", "ResultsA"]
+        ordinalCatFeatures = ["Form of TeamA", "Form of TeamB"]
 
         numTransformer = StandardScaler() #Scale numerical data to a standard range
         ohe = OneHotEncoder() #Transform categorical data into numerical data using ohe for nominal variables
-        oe = OrdinalEncoder(categories=[["Good", "Neutral", "Bad"], ["Good", "Neutral", "Bad"], ["W", "D", "L"]]) #Transform categorical data into numerical data using oe for ordinal variables
+        oe = OrdinalEncoder(categories=[["Good", "Neutral", "Bad"], ["Good", "Neutral", "Bad"]]) #Transform categorical data into numerical data using oe for ordinal variables
+        yEncoder = OrdinalEncoder(categories=[["W", "D", "L"]])
 
         ct = ColumnTransformer( #Here I specify what transformers will be used on what columns 
             transformers=[
@@ -51,7 +52,9 @@ class Network():
         )
 
         self.dataset = ct.fit_transform(self.dataset).toarray() # Here I'm actually transforming the data and concatenating the results
-        #print(self.dataset)
+        self.y = yEncoder.fit_transform(self.y)
+        self.y = self.y.ravel()
+        #print(self.y)
 
     #Method is using the multi-layer perceptron classifier which is imported from sklearn to train the data.
     def mlp(self):
@@ -73,20 +76,35 @@ class Network():
         plt.plot(model.loss_curve_)
         plt.xlabel("iteration")
         plt.ylabel("training loss")
-        plt.show()
+        #plt.show()
     
     #LogisticRegression is used (I know it has regression in the name but its a classifier)
     #I do the same thing as in the mlp method but I'm just playing around to see what results this model gives us
     def logReg(self):
-        X_train, X_test, y_train, y_test = train_test_split(self.dataset, self.y, test_size=0.2) #Split the data into training and testing sets
-        model = LogisticRegression(solver="lbfgs", max_iter=900).fit(X_train, y_train)
+        X_train, X_test, y_train, y_test = train_test_split(self.dataset, self.y, test_size=0.2, random_state=4) #Split the data into training and testing sets
+        model = LogisticRegression(solver="newton-cg")
+        model.fit(X_train, y_train)
         pred = model.predict(X_test)
         print(pred)
 
-        score = model.score(X_test, y_test)
-        print(score)
-
+        scores = cross_val_score(model, self.dataset, self.y, cv=10, scoring="accuracy")
+        print(scores.mean())
+        #self.modelEvaluation()
+    
+    def modelEvaluation(self):
+        cRange = range(1, 100)
+        cScores = []
         
+        for i in cRange:
+            model = LogisticRegression(solver="newton-cg", C=i)
+            scores = cross_val_score(model, self.dataset, self.y, cv=10, scoring="accuracy")
+            cScores.append(scores.mean())
+        
+        plt.plot(cRange, cScores)
+        plt.xlabel("C value")
+        plt.ylabel("Cross-Validated Accuracy")
+        plt.show() #26 is the best value for C
+
     # ~~~ End of class 'Network' ~~~
 
 #Main program code
@@ -95,5 +113,6 @@ world_cup_data = pd.read_csv("worldcupdata.csv", encoding="latin-1") #Loading th
 start = Network(world_cup_data) #Create instance of the Network class. Pass in the world cup data
 #start.plotData()
 start.preprocessing() #First preprocessing is done...
-start.mlp() #...then I start training the data
-#start.logReg()
+#start.mlp() #...then I start training the data
+start.logReg()
+start.modelEvaluation()
