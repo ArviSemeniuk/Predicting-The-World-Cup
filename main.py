@@ -18,6 +18,8 @@ from sklearn.model_selection import cross_val_score
 #Class to encapsulate the process of the machine learning life-cycle
 #Prehaps I should give it a different name because network doesn't really make sense but oh well..
 class Network():
+    testNewData = pd.DataFrame()
+
     def __init__(self, dataset):
         self.dataset = dataset.drop("ResultsA", axis=1)
         self.y = dataset[["ResultsA"]] #y is the output aka target feature. This is what we are trying to predict.
@@ -33,8 +35,8 @@ class Network():
         #print(self.dataset.corr(method= "pearson")) #correlation between the features
     
     #Method to encode the data into a machine-friendly way. This makes the algorithms we use perform better. 
-    def preprocessing(self):
-        numericFeatures = ["Year", "Average Yearly Temperature (Celsius)", "Round", "Full-time score TeamA", "Full-time score TeamB", "TeamA Elo Rating", "TeamB Elo Rating"]
+    def preprocessing(self, newDF):
+        numericFeatures = ["Year", "Average Yearly Temperature (Celsius)", "Round", "TeamA Elo Rating", "TeamB Elo Rating"]
         nominalCatFeatures = ["Location", "TeamA", "TeamB"]
         ordinalCatFeatures = ["Form of TeamA", "Form of TeamB"]
 
@@ -55,6 +57,8 @@ class Network():
         self.y = yEncoder.fit_transform(self.y)
         self.y = self.y.ravel()
         #print(self.y)
+        self.testNewData = ct.transform(newDF)
+        print(self.testNewData)
 
     #Method is using the multi-layer perceptron classifier which is imported from sklearn to train the data.
     def mlp(self):
@@ -62,10 +66,13 @@ class Network():
         print(self.dataset.shape)
         print(self.y.shape) #Here I'm justing checking to see how many rows and columns our dataset has after preprocessing has been applied.
 
-        model = MLPClassifier(hidden_layer_sizes=(100), max_iter=1000, solver="adam", activation="tanh") #Here the model is defined. The arguments given are random(I don't know how to tune them)
+        model = MLPClassifier(hidden_layer_sizes=(10,10,10), max_iter=200, solver="adam", activation="tanh") #Here the model is defined. The arguments given are random(I don't know how to tune them)
         model.fit(X_train, y_train) #Pass the training data to the model
         predictions = model.predict(X_test)#Predict the results on testing data
         print(predictions)
+        
+        newPred = model.predict(self.testNewData)
+        print(newPred)
         
         score = accuracy_score(y_test, predictions) #Calculated the accuracy of the predictions
         print("score: ", score)
@@ -110,9 +117,12 @@ class Network():
 #Main program code
 world_cup_data = pd.read_csv("worldcupdata.csv", encoding="latin-1") #Loading the data from the csv file.
 
+newData = [[2022, "Russia", 18.5, "Japan", "Germany", 2, 450, 725, "Good", "Bad"]]
+newDF = pd.DataFrame(newData, columns=["Year", "Location", "Average Yearly Temperature (Celsius)", "TeamA", "TeamB", "Round","TeamA Elo Rating","TeamB Elo Rating","Form of TeamA","Form of TeamB"])
+
 start = Network(world_cup_data) #Create instance of the Network class. Pass in the world cup data
 #start.plotData()
-start.preprocessing() #First preprocessing is done...
-#start.mlp() #...then I start training the data
-start.logReg()
-start.modelEvaluation()
+start.preprocessing(newDF) #First preprocessing is done...
+start.mlp() #...then I start training the data
+#start.logReg()
+#start.modelEvaluation()
