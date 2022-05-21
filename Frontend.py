@@ -11,10 +11,15 @@ teams = ["Argentina", "Belgium", "Bolivia", "Brazil", "Chile", "France", "Mexico
 app = Flask(__name__)
 
 @app.route('/', methods=['GET', 'POST'])
-def Frontend(WinningTeam=None,ListOfTeams=teams):
+def Frontend(ListOfTeams=teams):
+    return render_template('main.html', ListOfTeams=ListOfTeams)
+
+@app.route('/Results', methods=['GET', 'POST'])
+def Results(WinningTeam=None):
     TeamA = request.form.get('Team 1')
     TeamB = request.form.get('Team 2')
-    return render_template('main.html', WinningTeam=WinningTeam, ListOfTeams=ListOfTeams)
+    Results = TeamA #Main program put here? Importing functions from main.py, passing variables from user input?
+    return render_template('Results.html', WinningTeam=WinningTeam, TeamA=TeamA, TeamB=TeamB, Results=Results)
 
 if __name__ == "__main__":
     app.run(debug=True, port=8080)
