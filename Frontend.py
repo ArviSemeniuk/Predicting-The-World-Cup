@@ -1,4 +1,5 @@
 from flask import *
+
 teams = ["Argentina", "Belgium", "Bolivia", "Brazil", "Chile", "France", "Mexico", "Paraguay", "Peru", "Romania", "United States", "Uruguay", "Yugoslavia", "Austria",
 "Czechoslovakia", "Egypt", "Germany", "Hungary", "Italy", "Netherlands", "Spain", "Sweden", "Switzerland", "Cuba", "Dutch East Indies", "Norway",
 "Poland", "England", "South Korea", "Scotland", "Turkey", "West Germany", "Northern Ireland", "Soviet Union", "Wales", "Bulgaria", "Colombia",
@@ -9,16 +10,11 @@ teams = ["Argentina", "Belgium", "Bolivia", "Brazil", "Chile", "France", "Mexico
 
 app = Flask(__name__)
 
-
-@app.route('/')
+@app.route('/', methods=['GET', 'POST'])
 def Frontend(WinningTeam=None,ListOfTeams=teams):
-    return render_template('main.html', WinningTeam=WinningTeam, ListOfTeams=ListOfTeams)
-
-@app.route('/Results', methods=['GET', 'POST'])
-def GetInputs(WinningTeam=None,ListOfTeams=teams):
     TeamA = request.form.get('Team 1')
     TeamB = request.form.get('Team 2')
-    return(str(TeamA+" "+TeamB))
+    return render_template('main.html', WinningTeam=WinningTeam, ListOfTeams=ListOfTeams)
 
 if __name__ == "__main__":
     app.run(debug=True, port=8080)
