@@ -1,4 +1,3 @@
-from django import db
 from flask import *
 teams = ["Argentina", "Belgium", "Bolivia", "Brazil", "Chile", "France", "Mexico", "Paraguay", "Peru", "Romania", "United States", "Uruguay", "Yugoslavia", "Austria",
 "Czechoslovakia", "Egypt", "Germany", "Hungary", "Italy", "Netherlands", "Spain", "Sweden", "Switzerland", "Cuba", "Dutch East Indies", "Norway",
@@ -14,6 +13,12 @@ app = Flask(__name__)
 @app.route('/')
 def Frontend(WinningTeam=None,ListOfTeams=teams):
     return render_template('main.html', WinningTeam=WinningTeam, ListOfTeams=ListOfTeams)
+
+@app.route('/Results', methods=['GET', 'POST'])
+def GetInputs(WinningTeam=None,ListOfTeams=teams):
+    TeamA = request.form.get('Team 1')
+    TeamB = request.form.get('Team 2')
+    return(str(TeamA+" "+TeamB))
 
 if __name__ == "__main__":
     app.run(debug=True, port=8080)

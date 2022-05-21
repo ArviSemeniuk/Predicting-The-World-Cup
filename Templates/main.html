@@ -38,15 +38,19 @@
 
 <h1>World Cup Prediction Tool</h1>
 <h2>
+    <form method="POST" action="{{ url_for('Results') }}">
     <select name="Team 1">
         {% for team in ListOfTeams %}
             <option value="{{team}}">{{ team }}</option>"
         {% endfor %}
     </select>
     VS
-    <select name="Team 1">
+    <select name="Team 2">
         {% for team in ListOfTeams %}
             <option value="{{team}}">{{ team }}</option>"
         {% endfor %}
     </select>
+    <br>
+    <button class="btn btn-default" type="submit">Submit!</button>
+    </form>
 </h2>
