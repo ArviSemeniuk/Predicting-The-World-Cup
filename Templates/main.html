@@ -1,0 +1,52 @@
+<title>World Cup Prediction Tool</title>
+
+<style type="text/css">    
+    body
+    {
+        background-image: url({{ url_for('static', filename='Background.jpg') }});
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    h1
+    {
+      font-size:48px;
+      text-align: center;
+      font-family:Arial, sans-serif;
+      text-shadow:2px 0 15px #292929;
+      letter-spacing:4px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      color:#DDD;
+      background-color: rgba(255, 255, 255, 0.3);
+    }
+    h2
+    {
+      font-size:48px;
+      text-align: center;
+      font-family:Arial, sans-serif;
+      text-shadow:2px 0 15px #292929;
+      letter-spacing:4px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      margin-left: 35%;
+      margin-right: 35%;
+      color:#DDD;
+      background-color: rgba(255, 255, 255, 0.3);
+    }
+</style>
+
+<h1>World Cup Prediction Tool</h1>
+<h2>
+    <select name="Team 1">
+        {% for team in ListOfTeams %}
+            <option value="{{team}}">{{ team }}</option>"
+        {% endfor %}
+    </select>
+    VS
+    <select name="Team 1">
+        {% for team in ListOfTeams %}
+            <option value="{{team}}">{{ team }}</option>"
+        {% endfor %}
+    </select>
+</h2>
