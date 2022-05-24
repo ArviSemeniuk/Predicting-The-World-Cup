@@ -20,6 +20,7 @@
       color:#DDD;
       background-color: rgba(255, 255, 255, 0.3);
     }
+
     h2
     {
       font-size:48px;
@@ -33,10 +34,33 @@
       margin-right: 35%;
       color:#DDD;
       background-color: rgba(255, 255, 255, 0.3);
+      border: 3px solid #cccccc;
+    }
+
+    h3
+    {
+        font-size:24px;
+        text-align: center;
+        font-family: Arial, sans-serif;
+        color:rgb(0, 0, 0);
+        background-color: rgba(255, 255, 255, 0.3);
     }
 </style>
 
 <h1>World Cup Prediction Tool</h1>
 <h2>
+{% if TeamA == TeamB %}
+Error!
+{% else %}
 The winner is {{Results}}!
+{% endif %}
 </h2>
+
+<h3>
+{% if TeamA == TeamB %}
+A Team cannot play against itself in the world cup; This is erroneous data. If you are experiencing
+issues with the site, please carefully read the instructions provided.
+{% else %}
+If you wish to simulate another match, you may return
+{% endif %}
+</h3>
