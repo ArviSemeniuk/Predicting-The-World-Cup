@@ -58,7 +58,7 @@ class Network():
         self.y = self.y.ravel()
         #print(self.y)
         self.testNewData = ct.transform(newDF)
-        print(self.testNewData)
+        #print(self.testNewData)
 
     #Method is using the multi-layer perceptron classifier which is imported from sklearn to train the data.
     def mlp(self):
@@ -69,7 +69,7 @@ class Network():
         model = MLPClassifier(hidden_layer_sizes=(10,10,10), max_iter=200, solver="adam", activation="tanh") #Here the model is defined. The arguments given are random(I don't know how to tune them)
         model.fit(X_train, y_train) #Pass the training data to the model
         predictions = model.predict(X_test)#Predict the results on testing data
-        print(predictions)
+        #print(predictions)
         
         newPred = model.predict(self.testNewData)
         print(newPred)
@@ -89,10 +89,13 @@ class Network():
     #I do the same thing as in the mlp method but I'm just playing around to see what results this model gives us
     def logReg(self):
         X_train, X_test, y_train, y_test = train_test_split(self.dataset, self.y, test_size=0.2, random_state=4) #Split the data into training and testing sets
-        model = LogisticRegression(solver="newton-cg")
+        model = LogisticRegression(solver="newton-cg", C=26)
         model.fit(X_train, y_train)
         pred = model.predict(X_test)
-        print(pred)
+        #print(pred)
+
+        newPred = model.predict(self.testNewData)
+        print(newPred)
 
         scores = cross_val_score(model, self.dataset, self.y, cv=10, scoring="accuracy")
         print(scores.mean())
@@ -119,6 +122,7 @@ world_cup_data = pd.read_csv("worldcupdata.csv", encoding="latin-1") #Loading th
 world_cup_data = world_cup_data.drop(["Full-time score TeamA", "Full-time score TeamB", "ResultsB"], axis=1) #Exculde these columns from dataframe
 
 newData = [[2022, "Russia", 18.5, "Japan", "Germany", 2, 450, 725, "Good", "Bad"]]
+#Need to set newData to the two countries that are chosen by the user instead of the two manually hard-coded once.
 newDF = pd.DataFrame(newData, columns=["Year", "Location", "Average Yearly Temperature (Celsius)", "TeamA", "TeamB", "Round","TeamA Elo Rating","TeamB Elo Rating","Form of TeamA","Form of TeamB"])
 
 start = Network(world_cup_data) #Create instance of the Network class. Pass in the world cup data
