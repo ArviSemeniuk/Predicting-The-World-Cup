@@ -72,17 +72,17 @@ class Network():
         #print(predictions)
         
         newPred = model.predict(self.testNewData)
-        print(newPred)
+        #print(newPred)
         
         score = accuracy_score(y_test, predictions) #Calculated the accuracy of the predictions
-        print("score: ", score)
+        return (newPred, score)
 
         #print(cross_val_score(model, self.dataset, self.y)) #Not sure how to cross-vallidate
         
         #learning (loss curve) is plotted
-        plt.plot(model.loss_curve_)
-        plt.xlabel("iteration")
-        plt.ylabel("training loss")
+        #plt.plot(model.loss_curve_)
+        #plt.xlabel("iteration")
+        #plt.ylabel("training loss")
         #plt.show()
     
     #LogisticRegression is used (I know it has regression in the name but its a classifier)
@@ -118,16 +118,17 @@ class Network():
     # ~~~ End of class 'Network' ~~~
 
 #Main program code
-world_cup_data = pd.read_csv("worldcupdata.csv", encoding="latin-1") #Loading the data from the csv file.
-world_cup_data = world_cup_data.drop(["Full-time score TeamA", "Full-time score TeamB", "ResultsB"], axis=1) #Exculde these columns from dataframe
+def main (TeamA, TeamB):
+    world_cup_data = pd.read_csv("worldcupdata.csv", encoding="latin-1") #Loading the data from the csv file.
+    world_cup_data = world_cup_data.drop(["Full-time score TeamA", "Full-time score TeamB", "ResultsB"], axis=1) #Exculde these columns from dataframe
 
-newData = [[2022, "Russia", 18.5, "Japan", "Germany", 2, 450, 725, "Good", "Bad"]]
-#Need to set newData to the two countries that are chosen by the user instead of the two manually hard-coded once.
-newDF = pd.DataFrame(newData, columns=["Year", "Location", "Average Yearly Temperature (Celsius)", "TeamA", "TeamB", "Round","TeamA Elo Rating","TeamB Elo Rating","Form of TeamA","Form of TeamB"])
+    newData = [[2022, "Russia", 18.5, TeamA, TeamB, 2, 450, 725, "Good", "Bad"]]
+    #Need to set newData to the two countries that are chosen by the user instead of the two manually hard-coded once.
+    newDF = pd.DataFrame(newData, columns=["Year", "Location", "Average Yearly Temperature (Celsius)", "TeamA", "TeamB", "Round","TeamA Elo Rating","TeamB Elo Rating","Form of TeamA","Form of TeamB"])
 
-start = Network(world_cup_data) #Create instance of the Network class. Pass in the world cup data
-#start.plotData()
-start.preprocessing(newDF) #First preprocessing is done...
-start.mlp() #...then I start training the data
-#start.logReg()
-#start.modelEvaluation()
+    start = Network(world_cup_data) #Create instance of the Network class. Pass in the world cup data
+    #start.plotData()
+    start.preprocessing(newDF) #First preprocessing is done...
+    return start.mlp() #...then I start training the data
+    #start.logReg()
+    #start.modelEvaluation()

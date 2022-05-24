@@ -42,6 +42,8 @@
         font-size:24px;
         text-align: center;
         font-family: Arial, sans-serif;
+        margin-left: 30%;
+        margin-right: 30%;
         color:rgb(0, 0, 0);
         background-color: rgba(255, 255, 255, 0.3);
     }
@@ -50,10 +52,13 @@
 <h1>World Cup Prediction Tool</h1>
 <h2>
 {% if TeamA == TeamB %}
-Error!
-{% else %}
-The winner is {{Results}}!
-{% endif %}
+Error! {% endif %}
+{% if Results == "TeamA Win"%}
+{{TeamA}} is the winner! {% endif %}
+{% if Results == "TeamB Win"%}
+{{TeamB}} is the winner! {% endif %}
+{% if Results == "Draw"%}
+The result is a draw! {% endif %}
 </h2>
 
 <h3>
@@ -61,6 +66,9 @@ The winner is {{Results}}!
 A Team cannot play against itself in the world cup; This is erroneous data. If you are experiencing
 issues with the site, please carefully read the instructions provided.
 {% else %}
-If you wish to simulate another match, you may return
+According to our model, this prediction is {{Accuracy}} accurate, to
+3 decimal places. If you wish to simulate another match, return to the
+previous page. Refreshing the page will run this simulation again; try
+it and see if the prediction changes!
 {% endif %}
 </h3>
