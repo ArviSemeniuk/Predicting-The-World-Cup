@@ -50,4 +50,4 @@ def Results(WinningTeam=None):
 
 #Runs the App, Neccesary to run (Debug changed to False just before submission for self explainatory reasons)
 if __name__ == "__main__":
-    app.run(debug=True, port=8080)
+    app.run(debug=False, port=8080)
