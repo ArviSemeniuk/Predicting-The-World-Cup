@@ -66,7 +66,7 @@ class Network():
         print(self.dataset.shape)
         print(self.y.shape) #Here I'm justing checking to see how many rows and columns our dataset has after preprocessing has been applied.
 
-        model = MLPClassifier(hidden_layer_sizes=(10,10,10), max_iter=200, solver="adam", activation="tanh") #Here the model is defined. The arguments given are random(I don't know how to tune them)
+        model = MLPClassifier(hidden_layer_sizes=(10,10,10), max_iter=400, solver="sgd", activation="tanh", learning_rate="adaptive") #Here the model is defined. The arguments given are random(I don't know how to tune them)
         model.fit(X_train, y_train) #Pass the training data to the model
         predictions = model.predict(X_test)#Predict the results on testing data
         #print(predictions)
@@ -114,6 +114,24 @@ class Network():
         plt.xlabel("C value")
         plt.ylabel("Cross-Validated Accuracy")
         plt.show() #26 is the best value for C
+    
+    def hyperparameterTuning(self):
+        X_train, X_test, y_train, y_test = train_test_split(self.dataset, self.y, test_size=0.2, random_state=4)
+        model = MLPClassifier(max_iter=400)
+
+        parameterSpace = {
+            "hidden_layer_sizes": [(10, 10, 10)],
+            "activation": ['tanh', 'relu'],
+            "solver": ['sgd', 'adam'],
+            "learning_rate": ['constant', 'adaptive'],
+        }
+
+        from sklearn.model_selection import GridSearchCV
+
+        clf = GridSearchCV(model, parameterSpace, n_jobs=-1, cv=5)
+        clf.fit(X_train, y_train)
+
+        print("Best parameter found:\n", clf.best_params_)
 
     # ~~~ End of class 'Network' ~~~
 
@@ -122,13 +140,15 @@ def main (TeamA, TeamB):
     world_cup_data = pd.read_csv("worldcupdata.csv", encoding="latin-1") #Loading the data from the csv file.
     world_cup_data = world_cup_data.drop(["Full-time score TeamA", "Full-time score TeamB", "ResultsB"], axis=1) #Exculde these columns from dataframe
 
-    newData = [[2022, "Russia", 18.5, TeamA, TeamB, 2, 450, 725, "Good", "Bad"]]
-    #Need to set newData to the two countries that are chosen by the user instead of the two manually hard-coded once.
+    newData = [[2022, "Brazil", 26, TeamA, TeamB, 1, 450, 725, "Good", "Bad"]]
     newDF = pd.DataFrame(newData, columns=["Year", "Location", "Average Yearly Temperature (Celsius)", "TeamA", "TeamB", "Round","TeamA Elo Rating","TeamB Elo Rating","Form of TeamA","Form of TeamB"])
 
     start = Network(world_cup_data) #Create instance of the Network class. Pass in the world cup data
     #start.plotData()
     start.preprocessing(newDF) #First preprocessing is done...
+    start.hyperparameterTuning()
     return start.mlp() #...then I start training the data
     #start.logReg()
     #start.modelEvaluation()
+
+main(TeamA='Germany', TeamB='Japan')
