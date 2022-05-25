@@ -141,8 +141,27 @@ class Network():
 def main (TeamA, TeamB):
     world_cup_data = pd.read_csv("worldcupdata.csv", encoding="latin-1") #Loading the data from the csv file.
     world_cup_data = world_cup_data.drop(["Full-time score TeamA", "Full-time score TeamB", "ResultsB"], axis=1) #Exculde these columns from dataframe
+    newData = [[2022, "Brazil", 26, TeamA, TeamB, 1, "Error", "Error", "Error", "Error"]] #Set to ELo/Forms to Error, as it is incorrect input and will throw error if not set correctly later
 
-    newData = [[2022, "Brazil", 26, TeamA, TeamB, 1, 450, 725, "Good", "Bad"]]
+    #Set Elo and Form as correct for each team
+    LastRowA = world_cup_data.loc[(world_cup_data["TeamA"] == TeamA) | (world_cup_data["TeamB"] == TeamA)] #Gets each row where Team A has played
+    LastRowB = world_cup_data.loc[(world_cup_data["TeamA"] == TeamB) | (world_cup_data["TeamB"] == TeamB)]
+    LastRowA = LastRowA.iloc[-1:, :] #Cuts down to last row
+    LastRowB = LastRowB.iloc[-1:, :]
+    #Allocates correct Elo and form to each Team
+    if TeamA in set(LastRowA["TeamA"]):
+        newData[0][6] = LastRowA.iat[0,6]
+        newData[0][8] = LastRowA.iat[0,8]
+    elif TeamA in set(LastRowA["TeamB"]):
+        newData[0][6] = LastRowA.iat[0,7]
+        newData[0][8] = LastRowA.iat[0,9]
+    if TeamB in set(LastRowB["TeamA"]):
+        newData[0][7] = LastRowB.iat[0,6]
+        newData[0][9] = LastRowA.iat[0,8]
+    elif TeamB in set(LastRowB["TeamB"]):
+        newData[0][7] = LastRowB.iat[0,7]
+        newData[0][9] = LastRowA.iat[0,9]
+
     newDF = pd.DataFrame(newData, columns=["Year", "Location", "Average Yearly Temperature (Celsius)", "TeamA", "TeamB", "Round","TeamA Elo Rating","TeamB Elo Rating","Form of TeamA","Form of TeamB"])
 
     start = Network(world_cup_data) #Create instance of the Network class. Pass in the world cup data
