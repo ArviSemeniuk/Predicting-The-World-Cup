@@ -37,7 +37,7 @@ def Results(WinningTeam=None):
         elif "2" in str(RawResults[0]):
             Results = "TeamB Win"
         #Turn second result (Accuracy) into more presentable form
-        Accuracy = RawResults[1]
+        Accuracy = RawResults[1]*100
         Accuracy = str(round(Accuracy, 3))
         Accuracy += "%"
     #Registers Error if same team entered twice
