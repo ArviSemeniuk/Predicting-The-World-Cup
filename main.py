@@ -102,18 +102,20 @@ class Network():
         #self.modelEvaluation()
     
     def modelEvaluation(self):
-        cRange = range(1, 100)
+        X_train, X_test, y_train, y_test = train_test_split(self.dataset, self.y, test_size=0.2, random_state=4)
+        cRange = range(1, 50)
         cScores = []
         
         for i in cRange:
             model = LogisticRegression(solver="newton-cg", C=i)
-            scores = cross_val_score(model, self.dataset, self.y, cv=10, scoring="accuracy")
+            scores = cross_val_score(model, X_train, y_train, cv=10, scoring="accuracy")
             cScores.append(scores.mean())
         
         plt.plot(cRange, cScores)
+        plt.title("Hyperparameter tuning 'C' value")
         plt.xlabel("C value")
         plt.ylabel("Cross-Validated Accuracy")
-        plt.show() #26 is the best value for C
+        plt.show()
     
     def hyperparameterTuning(self):
         X_train, X_test, y_train, y_test = train_test_split(self.dataset, self.y, test_size=0.2, random_state=4)
@@ -144,11 +146,9 @@ def main (TeamA, TeamB):
     newDF = pd.DataFrame(newData, columns=["Year", "Location", "Average Yearly Temperature (Celsius)", "TeamA", "TeamB", "Round","TeamA Elo Rating","TeamB Elo Rating","Form of TeamA","Form of TeamB"])
 
     start = Network(world_cup_data) #Create instance of the Network class. Pass in the world cup data
-    #start.plotData()
-    start.preprocessing(newDF) #First preprocessing is done...
-    start.hyperparameterTuning()
-    return start.mlp() #...then I start training the data
-    #start.logReg()
-    #start.modelEvaluation()
-
-main(TeamA='Germany', TeamB='Japan')
+    #start.plotData() #Initial data analysis
+    start.preprocessing(newDF) #First preprocessing is done. newDF corresponds to the user input from the front-end
+    #start.logReg() #Logistic Regression was used to compare two different ML models for accuracy. MLP seems to perform better
+    #start.modelEvaluation() #This method used to tune a specific hyperparameter used in logistic regression to increase performnace
+    #start.hyperparameterTuning() #What hyperparameters produce a better model for MLP
+    return start.mlp() #Now I start training the the model on the data that was transformed and the parameters that produce the best accuracy
